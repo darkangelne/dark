@@ -1,337 +1,337 @@
 #EXTM3U
-#EXTINF:15,ALFAN
+#EXTINF:15group-title="Pan Arabic",ALFAN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q5/index.m3u8
-#EXTINF:0,ALNAWARS SPORT 
+#EXTINF:0group-title="Pan Arabic",ALNAWARS SPORT 
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ow/index.m3u8
-#EXTINF:0,ALYOUM
+#EXTINF:0group-title="Pan Arabic",ALYOUM
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q4/index.m3u8
-#EXTINF:0,ANIMAL PLANET
+#EXTINF:0group-title="Pan Arabic",ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ol/index.m3u8
-#EXTINF:0,ART AFLAM 1
+#EXTINF:0group-title="Pan Arabic",ART AFLAM 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0px/index.m3u8
-#EXTINF:0,ART AFLAM 2
+#EXTINF:0group-title="Pan Arabic",ART AFLAM 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0py/index.m3u8
-#EXTINF:0,ART CINEMA
+#EXTINF:0group-title="Pan Arabic",ART CINEMA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pw/index.m3u8
-#EXTINF:0,ART HEKAYAT 
+#EXTINF:0group-title="Pan Arabic",ART HEKAYAT 
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pz/index.m3u8
-#EXTINF:0,ART HEKAYAT 2
+#EXTINF:0group-title="Pan Arabic",ART HEKAYAT 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q0/index.m3u8
-#EXTINF:0,Alkass 1
+#EXTINF:0group-title="Pan Arabic",Alkass 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n0/index.m3u8
-#EXTINF:0,Alkass 2
+#EXTINF:0group-title="Pan Arabic",Alkass 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n1/index.m3u8
-#EXTINF:0,Alkass 3
+#EXTINF:0group-title="Pan Arabic",Alkass 3
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n2/index.m3u8
-#EXTINF:0,Alkass 4
+#EXTINF:0group-title="Pan Arabic",Alkass 4
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n3/index.m3u8
-#EXTINF:0,Alkass 5
+#EXTINF:0group-title="Pan Arabic",Alkass 5
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n4/index.m3u8
-#EXTINF:0,Alkass 6
+#EXTINF:0group-title="Pan Arabic",Alkass 6
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n5/index.m3u8
-#EXTINF:0,Alkass 7
+#EXTINF:0group-title="Pan Arabic",Alkass 7
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n6/index.m3u8
-#EXTINF:0,Alkass 8
+#EXTINF:0group-title="Pan Arabic",Alkass 8
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n7/index.m3u8
-#EXTINF:0,BABY TV
+#EXTINF:0group-title="Pan Arabic",BABY TV
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oo/index.m3u8
-#EXTINF:0,Bein Drama HD
+#EXTINF:0group-title="Pan Arabic",Bein Drama HD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qg/index.m3u8
-#EXTINF:0,Bein Movies HD1
+#EXTINF:0group-title="Pan Arabic",Bein Movies HD1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q7/index.m3u8
-#EXTINF:0,Bein Movies HD2
+#EXTINF:0group-title="Pan Arabic",Bein Movies HD2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q8/index.m3u8
-#EXTINF:0,Bein Movies HD3
+#EXTINF:0group-title="Pan Arabic",Bein Movies HD3
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q9/index.m3u8
-#EXTINF:0,Bein Movies HD4
+#EXTINF:0group-title="Pan Arabic",Bein Movies HD4
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qa/index.m3u8
-#EXTINF:0,Bein Series HD1
+#EXTINF:0group-title="Pan Arabic",Bein Series HD1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qe/index.m3u8
-#EXTINF:0,Bein Series HD2
+#EXTINF:0group-title="Pan Arabic",Bein Series HD2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qf/index.m3u8
-#EXTINF:0,CINEMA 1
+#EXTINF:0group-title="Pan Arabic",CINEMA 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q1/index.m3u8
-#EXTINF:0,CINEMA 2
+#EXTINF:0group-title="Pan Arabic",CINEMA 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q2/index.m3u8
-#EXTINF:0,CN
+#EXTINF:0group-title="Pan Arabic",CN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ny/index.m3u8
-#EXTINF:0,COMEDY CENTRAL
+#EXTINF:0group-title="Pan Arabic",COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nx/index.m3u8
-#EXTINF:0,CRIME INVESTIGA
+#EXTINF:0group-title="Pan Arabic",CRIME INVESTIGA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o3/index.m3u8
-#EXTINF:0,DICOVERY ID
+#EXTINF:0group-title="Pan Arabic",DICOVERY ID
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0od/index.m3u8
-#EXTINF:0,DISCOVERY HD
+#EXTINF:0group-title="Pan Arabic",DISCOVERY HD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oc/index.m3u8
-#EXTINF:0,DISCOVERY SICEN
+#EXTINF:0group-title="Pan Arabic",DISCOVERY SICEN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oe/index.m3u8
-#EXTINF:0,DISNEY CHANNEL
+#EXTINF:0group-title="Pan Arabic",DISNEY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o7/index.m3u8
-#EXTINF:0,DISNEY JUNIOR
+#EXTINF:0group-title="Pan Arabic",DISNEY JUNIOR
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oj/index.m3u8
-#EXTINF:0,DISNEY XD
+#EXTINF:0group-title="Pan Arabic",DISNEY XD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0on/index.m3u8
-#EXTINF:0,DOCUMENTRY AR
+#EXTINF:0group-title="Pan Arabic",DOCUMENTRY AR
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pk/index.m3u8
-#EXTINF:0,E!
+#EXTINF:0group-title="Pan Arabic",E!
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o1/index.m3u8
-#EXTINF:0,FASHIONBOX
+#EXTINF:0group-title="Pan Arabic",FASHIONBOX
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pi/index.m3u8
-#EXTINF:0,FIXFOX
+#EXTINF:0group-title="Pan Arabic",FIXFOX
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pl/index.m3u8
-#EXTINF:0,Fox Movies
+#EXTINF:0group-title="Pan Arabic",Fox Movies
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qb/index.m3u8
-#EXTINF:0,Fox Movies Action
+#EXTINF:0group-title="Pan Arabic",Fox Movies Action
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qc/index.m3u8
-#EXTINF:0,Fox Movies Family
+#EXTINF:0group-title="Pan Arabic",Fox Movies Family
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qk/index.m3u8
-#EXTINF:0,Fox Movies Family
+#EXTINF:0group-title="Pan Arabic",Fox Movies Family
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0qj/index.m3u8
-#EXTINF:0,HISTORY
+#EXTINF:0group-title="Pan Arabic",HISTORY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o4/index.m3u8
-#EXTINF:0,HISTORY 2
+#EXTINF:0group-title="Pan Arabic",HISTORY 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o5/index.m3u8
-#EXTINF:0,KIDS ZONE
+#EXTINF:0group-title="Pan Arabic",KIDS ZONE
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ok/index.m3u8
-#EXTINF:0,KSA 1
+#EXTINF:0group-title="Pan Arabic",KSA 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n8/index.m3u8
-#EXTINF:0,KSA 2
+#EXTINF:0group-title="Pan Arabic",KSA 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0n9/index.m3u8
-#EXTINF:0,LABWJAD
+#EXTINF:0group-title="Pan Arabic",LABWJAD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pe/index.m3u8
-#EXTINF:0,MBC ACTION
+#EXTINF:0group-title="Pan Arabic",MBC ACTION
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p7/index.m3u8
-#EXTINF:0,MBC BOLYOOD
+#EXTINF:0group-title="Pan Arabic",MBC BOLYOOD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p6/index.m3u8
-#EXTINF:0,MBC DRAMA
+#EXTINF:0group-title="Pan Arabic",MBC DRAMA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p3/index.m3u8
-#EXTINF:0,MBC DRAMA+
+#EXTINF:0group-title="Pan Arabic",MBC DRAMA+
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p4/index.m3u8
-#EXTINF:0,MBC IRAQ HD
+#EXTINF:0group-title="Pan Arabic",MBC IRAQ HD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oy/index.m3u8
-#EXTINF:0,MBC MAX
+#EXTINF:0group-title="Pan Arabic",MBC MAX
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p8/index.m3u8
-#EXTINF:0,MBC VARIETY
+#EXTINF:0group-title="Pan Arabic",MBC VARIETY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p5/index.m3u8
-#EXTINF:0,MBC1
+#EXTINF:0group-title="Pan Arabic",MBC1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oz/index.m3u8
-#EXTINF:0,MBC2
+#EXTINF:0group-title="Pan Arabic",MBC2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p0/index.m3u8
-#EXTINF:0,MBC3
+#EXTINF:0group-title="Pan Arabic",MBC3
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p1/index.m3u8
-#EXTINF:0,MBC4
+#EXTINF:0group-title="Pan Arabic",MBC4
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p2/index.m3u8
-#EXTINF:0,MOTOR VEGEN
+#EXTINF:0group-title="Pan Arabic",MOTOR VEGEN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ph/index.m3u8
-#EXTINF:0,MOVIES FIRST 2
+#EXTINF:0group-title="Pan Arabic",MOVIES FIRST 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oi/index.m3u8
-#EXTINF:0,MUSIC NOW
+#EXTINF:0group-title="Pan Arabic",MUSIC NOW
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0os/index.m3u8
-#EXTINF:0,NAT GEO PEOPLE
+#EXTINF:0group-title="Pan Arabic",NAT GEO PEOPLE
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oa/index.m3u8
-#EXTINF:0,NAT GEO WILD
+#EXTINF:0group-title="Pan Arabic",NAT GEO WILD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ob/index.m3u8
-#EXTINF:0,NATIONAL GEO
+#EXTINF:0group-title="Pan Arabic",NATIONAL GEO
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o9/index.m3u8
-#EXTINF:0,NICK JR
+#EXTINF:0group-title="Pan Arabic",NICK JR
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o8/index.m3u8
-#EXTINF:0,NICKELODEON
+#EXTINF:0group-title="Pan Arabic",NICKELODEON
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o6/index.m3u8
-#EXTINF:0,NICKTOON
+#EXTINF:0group-title="Pan Arabic",NICKTOON
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ov/index.m3u8
-#EXTINF:0,OSN ACTION
+#EXTINF:0group-title="Pan Arabic",OSN ACTION
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nu/index.m3u8
-#EXTINF:0,OSN DISNEY
+#EXTINF:0group-title="Pan Arabic",OSN DISNEY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o0/index.m3u8
-#EXTINF:0,OSN ENIGMA
+#EXTINF:0group-title="Pan Arabic",OSN ENIGMA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nv/index.m3u8
-#EXTINF:0,OSN KIDS
+#EXTINF:0group-title="Pan Arabic",OSN KIDS
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nw/index.m3u8
-#EXTINF:15,OSN LIVING
+#EXTINF:15group-title="Pan Arabic",OSN LIVING
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0om/index.m3u8
-#EXTINF:0,OSN MEEZ
+#EXTINF:0group-title="Pan Arabic",OSN MEEZ
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nz/index.m3u8
-#EXTINF:0,OSN MOVIES
+#EXTINF:0group-title="Pan Arabic",OSN MOVIES
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nt/index.m3u8
-#EXTINF:0,OSN MOVIES FIRST
+#EXTINF:0group-title="Pan Arabic",OSN MOVIES FIRST
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q6/index.m3u8
-#EXTINF:0,OSN NEWS
+#EXTINF:0group-title="Pan Arabic",OSN NEWS
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oq/index.m3u8
-#EXTINF:0,OSN SERIES
+#EXTINF:0group-title="Pan Arabic",OSN SERIES
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ns/index.m3u8
-#EXTINF:0,OSN SERIES FIRS
+#EXTINF:0group-title="Pan Arabic",OSN SERIES FIRS
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nr/index.m3u8
-#EXTINF:0,OSN YA HALA
+#EXTINF:0group-title="Pan Arabic",OSN YA HALA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pt/index.m3u8
-#EXTINF:0,OSN YA HALA ALOLA
+#EXTINF:0group-title="Pan Arabic",OSN YA HALA ALOLA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pu/index.m3u8
-#EXTINF:0,OSN YA HALA CINEMA
+#EXTINF:0group-title="Pan Arabic",OSN YA HALA CINEMA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pv/index.m3u8
-#EXTINF:0,PLANET EARTH
+#EXTINF:0group-title="Pan Arabic",PLANET EARTH
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pg/index.m3u8
-#EXTINF:0,REEL PX CINEMA
+#EXTINF:0group-title="Pan Arabic",REEL PX CINEMA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0p9/index.m3u8
-#EXTINF:0,REEL PX COMEDY
+#EXTINF:0group-title="Pan Arabic",REEL PX COMEDY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pc/index.m3u8
-#EXTINF:0,REEL PX UNLIMTE
+#EXTINF:0group-title="Pan Arabic",REEL PX UNLIMTE
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pd/index.m3u8
-#EXTINF:0,REELPX FAMELY
+#EXTINF:0group-title="Pan Arabic",REELPX FAMELY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pj/index.m3u8
-#EXTINF:15,REELPXACTION
+#EXTINF:15group-title="Pan Arabic",REELPXACTION
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pb/index.m3u8
-#EXTINF:15,SERIES 1
+#EXTINF:15group-title="Pan Arabic",SERIES 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q3/index.m3u8
-#EXTINF:0,SERIES 2
+#EXTINF:0group-title="Pan Arabic",SERIES 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0oh/index.m3u8
-#EXTINF:0,SERIES COMEDY
+#EXTINF:0group-title="Pan Arabic",SERIES COMEDY
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0op/index.m3u8
-#EXTINF:0,STAR MOVIES
+#EXTINF:0group-title="Pan Arabic",STAR MOVIES
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0of/index.m3u8
-#EXTINF:0,STAR WORLD
+#EXTINF:0group-title="Pan Arabic",STAR WORLD
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0og/index.m3u8
-#EXTINF:0,TDC
+#EXTINF:0group-title="Pan Arabic",TDC
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pa/index.m3u8
-#EXTINF:0,TLC
+#EXTINF:0group-title="Pan Arabic",TLC
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0o2/index.m3u8
-#EXTINF:0,WOMAN
+#EXTINF:0group-title="Pan Arabic",WOMAN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0pf/index.m3u8
-#EXTINF:15,bein sports 1
+#EXTINF:15group-title="Pan Arabic",bein sports 1
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mo/index.m3u8
-#EXTINF:15,bein sports 10
+#EXTINF:15group-title="Pan Arabic",bein sports 10
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mx/index.m3u8
-#EXTINF:0,bein sports 11
+#EXTINF:0group-title="Pan Arabic",bein sports 11
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0my/index.m3u8
-#EXTINF:0,bein sports 12
+#EXTINF:0group-title="Pan Arabic",bein sports 12
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mz/index.m3u8
-#EXTINF:0,bein sports 2
+#EXTINF:0group-title="Pan Arabic",bein sports 2
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mp/index.m3u8
-#EXTINF:0,bein sports 3
+#EXTINF:0group-title="Pan Arabic",bein sports 3
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mq/index.m3u8
-#EXTINF:0,bein sports 4
+#EXTINF:0group-title="Pan Arabic",bein sports 4
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mr/index.m3u8
-#EXTINF:0,bein sports 5
+#EXTINF:0group-title="Pan Arabic",bein sports 5
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0ms/index.m3u8
-#EXTINF:0,bein sports 6
+#EXTINF:0group-title="Pan Arabic",bein sports 6
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mt/index.m3u8
-#EXTINF:0,bein sports 7
+#EXTINF:0group-title="Pan Arabic",bein sports 7
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mu/index.m3u8
-#EXTINF:0,bein sports 8
+#EXTINF:0group-title="Pan Arabic",bein sports 8
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mv/index.m3u8
-#EXTINF:0,bein sports 9
+#EXTINF:0group-title="Pan Arabic",bein sports 9
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0mw/index.m3u8
-#EXTINF:0,bein sports NBA
+#EXTINF:0group-title="Pan Arabic",bein sports NBA
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0nb/index.m3u8
-#EXTINF:0,bein sports New
+#EXTINF:0group-title="Pan Arabic",bein sports New
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0na/index.m3u8
