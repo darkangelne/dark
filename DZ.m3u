@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,Algeria6sd
-#EXTVLCOPT:http-user-agent=BestAlgerieTVYounesInfo
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/57
-#EXTINF:0,DZAIR1SD
 #EXTVLCOPT:http-user-agent=BestAlgerieTVYounesInfo
+#EXTINF:0,DZAIR1SD
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/62
+#EXTVLCOPT:http-user-agent=BestAlgerieTVYounesInfo
 #EXTINF:0,nat:  EL Djazairia
 #EXTVLCOPT:http-user-agent=BestAlgerieTVYounesInfo
 http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/31
