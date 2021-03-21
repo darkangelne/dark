@@ -1,4 +1,14 @@
 #EXTM3U
+
+
+
+#EXTINF:15group-title="Osn Arabic",ALFAN
+#EXTVLCOPT:network-caching=1000
+http://ssitv.ddns.net:9074/channel1/tracks-v2a1/mono.m3u8?token=wlan%3A08%3A00%3A27%3A07%3A4E%3A92
+
+
+
+
 #EXTINF:15group-title="Osn Arabic",ALFAN
 #EXTVLCOPT:network-caching=1000
 http://5.10.227.194:8000/play/a0q5/index.m3u8
