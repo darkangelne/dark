@@ -65,3 +65,5 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/us-amc.stream/chunks.m3u8?nimblesessionid=4435559006&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDY6MDE6MjAgQU0maGFzaF92YWx1ZT01V0lEZ0tlZ3I3eWtQdyt5TzQraXRnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/200?cb=20210113021639" group-title="Movies",HBO Zone | US
 http://stream.tvtap.live:8081/live/us-hbozone.stream/chunks.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport action
+http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
