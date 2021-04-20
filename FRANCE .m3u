@@ -44,6 +44,15 @@ https://mmsiptv.com/live/w9/playlist.m3u8
 #EXTINF:-1,  w9
 https://mmsiptv.com/live/w9/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1, France 2 HD [1280x720]
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1, France 3 HD [1280x720]
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1, France 4 HD [1280x720]
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1, France 5 HD [1280x720]
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 
 
