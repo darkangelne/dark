@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,CZ: MARKIZA
+#EXTVLCOPT:network-caching=1000
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:0,CZ: JOJ
+#EXTVLCOPT:network-caching=1000
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:0,CZ: JOJ PLUS
+#EXTVLCOPT:network-caching=1000
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:0,CZ: JOJ FAMILY
+#EXTVLCOPT:network-caching=1000
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:0,CZ: WAU
+#EXTVLCOPT:network-caching=1000
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:0,CZ: PRIMA COOL
+#EXTVLCOPT:network-caching=1000
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:20,CZ: NOVA
+#EXTVLCOPT:network-caching=1000
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF:0,CZ: NOVA 2
+#EXTVLCOPT:network-caching=1000
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF:0,CZ: NOVA GOLD
+#EXTVLCOPT:network-caching=1000
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF:0,CZ: NOVA ACTION
+#EXTVLCOPT:network-caching=1000
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
+#EXTINF:0,CZ: NOVA CINEMA
+#EXTVLCOPT:network-caching=1000
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
