@@ -1,0 +1,787 @@
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+@import "compass/css3";
+:focus {
+  background: #222;
+  display: block;
+   outline-color: #fdc523;
+   outline-style: solid;
+   outline-width: 4px;
+   margin: 0px;
+   outline-offset: initial;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #160031;
+    background-image: linear-gradient(to right, #130709 , #b3010e , #130709);
+    font-family: 'Comfortaa', 'Almarai', cursive;
+    text-align: center;
+    margin: 0;
+}
+
+
+.topleft {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    font-size: 14px;
+    line-height: 18px;
+    background: #ffc12c;
+    padding: 0px 6px 4px 5px;
+    color: #272727;
+    BORDER-RADIUS: 0 0px 0 10px;
+    font-family: 'Almarai', cursive;
+}
+
+.topleft2 {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    font-size: 14px;
+    line-height: 18px;
+    background: #ffc12c;
+    padding: 0px 6px 4px 5px;
+    color: #272727;
+    BORDER-RADIUS: 0 0px 0 10px;
+    font-family: 'Almarai', cursive;
+}
+
+.topright {
+    position: absolute;
+    bottom: 320px;
+    left: 2px;
+    font-size: 15px;
+    background: #ffc12c;
+    padding: 4px;
+    color: #272727;
+    line-height: 11px;
+    BORDER-RADIUS: 0 0 10px 0px;
+	top: 2px;
+}
+/* Center website */
+.main {
+  max-width: 1280px;
+  margin: auto;
+}
+
+h3 {
+    font-size: 14px;
+    color: #fff;
+    height: 10px;
+    line-height: 140%;
+    display: grid;
+    margin-block-end: 1.5em !important;
+    margin-block-start: 1.3em !important;
+    margin-inline-start: 1px;
+    margin-inline-end: 1px;
+    align-content: center;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 1.3rem;
+    direction: rtl;
+    background-image: linear-gradient(to right, #191085, #710011, #ff0109);
+    padding: 10px;
+    margin-block-start: 0em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    border-bottom: 5px solid #fff;
+    border-radius: 0px 0px 25px 25px;
+}
+
+h4 {
+    color: #ffc107;
+    margin-block-start: 0.4em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.row {
+  margin: 0;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 0 4px 10px 4px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: right;
+  width: 20%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+
+    background-color: #33155a;
+    background-image: linear-gradient(to right, #54000d , #230e78 , #4c000b);
+    padding: 2px;
+    border-radius: 6px;
+    position: relative;
+
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.content:hover .image {
+  opacity: 0.4;
+}
+
+.content:hover .middle {
+  opacity: 0.9;
+
+}
+
+.play {
+padding: 40px 32px;
+    margin: 0 auto;
+    background: url(https://i.ibb.co/6NTgWGM/play.png) center no-repeat;
+    display: block;
+    background-size: 50px 50px;
+    margin-bottom: 40px;
+}
+
+/* Responsive layout - makes a three column-layout instead of four columns */
+@media screen and (max-width: 1920px) {
+  .column {
+    width: 14.2%;
+  }
+}
+/* Responsive layout - makes a three column-layout instead of four columns */
+@media screen and (max-width: 1279px) {
+  .column {
+    width: 20%;
+  }
+}
+/* Responsive layout - makes a three column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    width: 33%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 300px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <h2>مسلسلات رمضان 2021</h2>
+
+<div class="column">
+  <div class="content"><a href="series.php?id=1">
+  <img src="uploads/333333.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>مسلسل انا</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=5">
+  <img src="uploads/c4763838ed43d90f0c250dddc4b4c679.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>لا حكم عليه</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=10">
+  <img src="uploads/3.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>الاختيار ٢</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=11">
+  <img src="uploads/hajma.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>هجمة مرتدة</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=12">
+  <img src="uploads/souk.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>سوق الحرير 2</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=13">
+  <img src="uploads/للموت.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>للموت</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=26">
+  <img src="uploads/طاووس.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>الطاووس</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=14">
+  <img src="uploads/راحوا.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>راحوا</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=15">
+  <img src="uploads/قيد مجهول.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>قيد مجهول</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=16">
+  <img src="uploads/خلي بالك من زيزي.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>خلي بالك من زيزي</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=17">
+  <img src="uploads/مارغيريت.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">خليجي/2021</div>
+		
+    <h3>مارغريت </h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=18">
+  <img src="uploads/2020.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>مسلسل 2020</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=19">
+  <img src="uploads/لعبة نيوتن.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>لعبة نيوتن</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=20">
+  <img src="uploads/ضل راحل.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>ضل راجل</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=21">
+  <img src="uploads/350-نت.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>350 جرام</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=22">
+  <img src="uploads/كندوش.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>الكندوش</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=23">
+  <img src="uploads/كله بالحب.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>كله بالحب</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=24">
+  <img src="uploads/بين السما و الارض.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>بين السما و الأرض</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=25">
+  <img src="uploads/سنة تانية زواج.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>سنة تانية زواج</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=27">
+  <img src="uploads/نسل الغرباء.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>نسل الأغراب</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=28">
+  <img src="uploads/زوج تحت الإقامة الجبرية.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>زوج تحت الإقامة الجبرية</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=29">
+  <img src="uploads/باب الحارة ج11.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>باب الحارة ج11</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=30">
+  <img src="uploads/موسى.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>موسى</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=31">
+  <img src="uploads/ramez.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>رامز عقله طار</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=32">
+  <img src="uploads/alnimer.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>النمر </h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=33">
+  <img src="uploads/جدعنة.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>ملوك الجدعنة</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=34">
+  <img src="uploads/خرب اهلية.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>حرب أهلية</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=35">
+  <img src="uploads/kobba.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>حارة القبة</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=36">
+  <img src="uploads/kibir.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>اللي مالوش كبير</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=37">
+  <img src="uploads/ghazal.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>لحم غزال</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=38">
+  <img src="uploads/خريف.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>خريف العشاق</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=39">
+  <img src="uploads/كل-ما-نفترق.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>وكل ما نفترق</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=40">
+  <img src="uploads/zarkach.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>نجيب زاهي زركش</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=41">
+  <img src="uploads/مداح.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>المداح</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=42">
+  <img src="uploads/safih.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>على صفيح ساخن</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=43">
+  <img src="uploads/ضيوف.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">سوري/2021</div>
+		
+    <h3>ضيوف على الحب</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=44">
+  <img src="uploads/صقار.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">اردني/2021</div>
+		
+    <h3>صقار</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=45">
+  <img src="uploads/covid.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>كوفيد 25</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=46">
+  <img src="uploads/ضد.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>ضد الكسر</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=47">
+  <img src="uploads/أحسن-أب.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>أحسن أب</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=48">
+  <img src="uploads/بنت-السلطان.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">مصري/2021</div>
+		
+    <h3>بنت السلطان</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=49">
+  <img src="uploads/الناجية-الوحيدة.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">خليجي/2021</div>
+		
+    <h3>الناجية الوحيدة</h3>
+  </div>
+</div>
+
+
+<div class="column">
+  <div class="content"><a href="series.php?id=50">
+  <img src="uploads/خيبة-أمل.jpg" width="287" class="image" style="border-radius:6px;width:100%">
+  <div class="middle">
+  <div class="play"></div></div></a>
+        
+        <div class="topleft">لبناني/2021</div>
+		
+    <h3>خيبة أمل</h3>
+  </div>
+</div>
+
+
+<!-- END GRID -->
+</div>
+<!-- END MAIN -->
+</div>
+
+</body>
+</html>
