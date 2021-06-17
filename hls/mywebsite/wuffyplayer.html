@@ -1,28 +1,689 @@
-<head>
-<title>nodaplustv </title>
-<link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet" type="text/css"></link>
-<style>body{background-color:#212529;margin: 0px;}.ulSoftwareList{float:left;width:300px;padding-top:8px}.ulSoftwareList li{float:left;width:25%;height:91px;overflow:hidden;text-align:center;padding:5px 0}.ulSoftwareList .pic img{width:60px;height:60px;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px}.ulSoftwareList .bigPic{width:300px;height:190px}.ulSoftwareList .pName{height:16px;overflow:hidden;margin-top:5px;line-height:16px}.ulSoftwareList .pName a{color:#666;font-size:11px}.clearFix:after{content:"";display:block;height:0;clear:both;visibility:hidden}.clearFix{zoom:1}.clearBoth{overflow:hidden;zoom:1}.mt10{margin-top:10px!important}.mt20{margin-top:20px}.mb20{margin-bottom:20px}.mb10{margin-bottom:10px}.plr10{padding:0 10px}.publicTitle{border-bottom:2px solid #dcdcdc;height:34px}.publicTitle .tit{float:left;margin-top:10px;color:#999;font-weight:bold}.mb2{background:#ff7519;color:#fff;height:30px;line-height:30px;border-radius:3px;display:block;margin:4px 10px}.fl{border-bottom:1px solid #ccc;background:#fdfdfd;background:-moz-linear-gradient(top,#FDFDFD 0,#EEE 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#FDFDFD),color-stop(100%,#EEE));background:-webkit-linear-gradient(top,#FDFDFD 0,#EEE 100%)}.fl:hover{background:#ededed;background:-moz-linear-gradient(top,#EDEDED 0,#DADADA 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#EDEDED),color-stop(100%,#DADADA));background:-webkit-linear-gradient(top,#EDEDED 0,#DADADA 100%)}.fl:focus{background:#ededed;background:-moz-linear-gradient(top,#fbb757 0,#ea8615 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fbb757),color-stop(100%,#ea8615));background:-webkit-linear-gradient(top,#fbb757 0,#ea8615 100%)}.fl span{color:#000;font-weight:400}.fl a:hover{text-decoration:none;color:#fff;background-color:#faeaf1}.fl a{display:block;padding:8px;background:url(https://media.giphy.com/media/LS9LzA5rdJmkoisqQB/giphy.gif) right center no-repeat;text-decoration:none;background-size:90px 120px}.fl a img{margin-right:10px;margin-left:2px;border:0;border-radius:10px}.fl a div div{vertical-align:middle;display:table-cell}.fileName{font-weight:700}.fileName span{color:#555;text-decoration:none}.fileName img{padding-right:3px}#container{width:600px;margin:0 auto;padding:20px}.btn{display:inline-block;padding:10px;border-radius:5px;color:#aaa;font-size:.875em}.pagination{background:#f2f2f2;padding:7px;margin-bottom:10px}.page{display:inline-block;padding:5px;margin-right:4px;border-radius:3px;border:1px solid silver;background:#e9e9e9;box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 3px 3px rgba(0,0,0,.1);font-size:.875em;font-weight:700;text-decoration:none;color:#e56717;text-shadow:0 1px 0 rgba(255,255,255,1)}.page.gradient:hover,.page:hover{background:#fefefe;background:-webkit-gradient(linear,0 0,0 100%,from(#FEFEFE),to(#f0f0f0));background:-moz-linear-gradient(0% 0 270deg,#FEFEFE,#f0f0f0)}.page.active{border:0;background:#616161;box-shadow:inset 0 0 8px rgba(0,0,0,.5),0 1px 0 rgba(255,255,255,.8);color:#f0f0f0;text-shadow:0 0 3px rgba(0,0,0,.5)}.page.gradient{background:-webkit-gradient(linear,0 0,0 100%,from(#f8f8f8),to(#e9e9e9));background:-moz-linear-gradient(0% 0 270deg,#f8f8f8,#e9e9e9)}div.col{float:left;width:50%}div.col2{float:right;width:33%}div.bottom{height:200px;width:80%;margin-left:auto;margin-right:auto}.tornew{border-radius:4px;text-shadow:0 1px 1px rgba(0,0,0,.2);margin:10px auto;padding:10px 20px;background-color:black}.btn2g{margin:10px auto;padding:10px 20px;color:#fff;text-decoration:none;font-size:100%;text-align:center}.tornew,.tornew a:active,.tornew a:hover,.tornew a:link,.tornew a:visited{color:#fff;text-decoration:none;font-size:96%;text-align:center;background-color:black}.btn2g{display:block;width:60%;background-color:#F90}.button-success{background:#1cb841}.button-error{background:#ca3c3c}.button-warning{background:#ff792e}.btn2g:hover{background-color:#FC0}.btn:hover{background-color:black}.container{width:100%;height:100%}.tornew{width:33%}.btn1{color:#FFF;border-radius:2px;text-shadow:0 1px 1px rgba(0,0,0,.2);font-size:80%;text-align:center;background-color:black;width:80%;text-decoration:none;margin:7px auto;padding:5px 10px}.btnH a:visited,.btnH:hover,a:active,a:link{text-decoration:none;color:#fff}.btnH:hover{background-color:black}blank1{text-decoration:none}.el{width:50%}.e2,table{width:100%}table{table-layout:fixed}
 
-<style> html,body {background-color: #fff; height:100%; width:100%; padding:0px; margin:0px;}
-#header-inner {padding:0px; margin:0px; width:100%;height:50px; background-color: black;}
-#header-inner a  { list-style-type:none; text-decoration:none;}
-#header-inner  h1 {color: #ffffff; text-align: center;padding: 20px;margin:0px;font-size:65px;font-family:impact;line-height:10px;}
-@media only screen and (max-width:9100px) {#header-inner  h1{font-size:23px;}}
-#header-inner  h1:hover{color:red;}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Shahid شاهد | قنوات عربية</title>
+<meta name="شاهد البث المباشر لجميع القنوات العربية والفضائية مجاناً"/>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta property="og:title" content="Shahid.Ps">
+<link rel="shortcut icon" href="/shahid-ps/img/favico.png">
+<meta property="og:description" content="Shahid.Ps">
+<meta property="og:image" content="https://shahid.ps/shahid-ps/img/bgs.png">
+<meta property="og:url" content="https://shahid.ps/">
+<meta property="og:type" content="video.movie" />
+<meta property="og:video" content="Live Streaming" />
+<link href="https://shahid.ps/shahid-ps/css/best.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<meta name="description" content="قنوات عربية بث مباشر | قنوات عربية رياضية | قناة الجزيرة بث مباشر | قناة العربية بث مباشر | قنوات بين سبورت | مباشر بي ان سبورت | قنوات عربية للجوال | قنوات عربية اون لاين | قنوات عربية في امريكا | قنوات فضائية | قنوات نايل سات | اذاعة بث مباشر | البث الحي المباشر | البث المباشر | التلفزيون | التلفزيون المباشر | بث مباشر | بث مباشر للقنوات | تلفزيون بث مباشر | تلفزيون مباشر | راديو بث مباشر | فضائية | قنوات اخبارية | شاهد سبورت | قنوات شاهد | قنوات اون لاين | قنوات بث مباشر | قنوات تلفزيون مباشر | قنوات عربية | قنوات عربية مباشر | قنوات فضائية بث مباشر | قنوات مصرية | مباشر Live TV On Mobile Phones | Watch arabic tv channels live | Shahid Palestine tv | elahmad tv | hghpl] | iphone tv | live tv | live tv channel for mobile | mobile tv live | mobile tv live arabic | mobile tv online | Arab channels broadcast live | Radio live | tv live | tv mobile live | mubasher tv | almubasher| direct"><meta name="keywords" content="قنوات عربية بث مباشر , قنوات عربية رياضية , قناة الجزيرة بث مباشر , قناة العربية بث مباشر , قنوات بين سبورت , قنوات عربية للجوال , قنوات عربية اون لاين , قنوات عربية في امريكا , قنوات فضائية , قنوات نايل سات , اذاعة بث مباشر , البث الحي المباشر , البث المباشر , التلفزيون , التلفزيون المباشر , بث مباشر , بث مباشر للقنوات , تلفزيون بث مباشر , تلفزيون مباشر , راديو بث مباشر , فضائية , قنوات اخبارية , قنوات اون لاين , قنوات بث مباشر , قنوات تلفزيون مباشر , قنوات عربية , قنوات عربية مباشر , قنوات فضائية بث مباشر , قنوات مصرية , مباشر , Watch arabic tv channels live , Live TV On Mobile Phones , Mobile TV Online , Radio live , Shahid Palestine tv , elahmad tv , hghpl] , iphone tv , live arabic tv mobile , live tv , live tv channel for mobile , mobile tv live , mobile tv live arabic , mobile tv online , s;s uvfd ,tv , tv live , Arab channels broadcast live ,tv mobile live,سثء"><meta name="keywords" lang="en" content="Watch arabic tv channels live , Live TV On Mobile Phones , Mobile TV Online , Radio live , Shahid Palestine tv , elahmad tv , hghpl] , iphone tv , live arabic tv mobile , live tv , live tv channel for mobile , mobile tv live , mobile tv live arabic , mobile tv online , tv , tv live , tv mobile live"><meta name="keywords" lang="ar" content="قنوات عربية بث مباشر , قنوات عربية رياضية , قناة الجزيرة بث مباشر , قناة العربية بث مباشر , قنوات بين سبورت , قنوات عربية للجوال , قنوات عربية اون لاين , قنوات عربية في امريكا , قنوات فضائية , قنوات نايل سات , اذاعة بث مباشر , البث الحي المباشر , البث المباشر , التلفزيون , التلفزيون المباشر , بث مباشر , بث مباشر للقنوات , تلفزيون بث مباشر , تلفزيون مباشر , راديو بث مباشر , فضائية , قنوات اخبارية , قنوات اون لاين , قنوات بث مباشر , قنوات تلفزيون مباشر , قنوات عربية , قنوات عربية مباشر , قنوات فضائية بث مباشر , قنوات مصرية , مباشر"><meta name="robots" content="index, follow, archive"/><meta property="st:section" content="arabic tv live | arabic tv online | nile tv | arabic tv live | arabic tv live online | tv arabic live | قنوات بث مباشر على النت | قنوات بث مباشر مجانا | قنوات رياضية بث مباشر | قنوات عربية بث مباشر | قنوات عربية بث مباشر بجودة عالية | قنوات عربية بث مباشر يوتيوب | موقع شاهد| شاهد بي اس | شاهد نت | شاهد فلسطين | شاهد PS | شاهد سبورت | قنوات شاهد | قنوات عربية | قنوات عربية مباشر | قنوات فضائية بث مباشر | قنوات تلفزيون مباشر | قنوات بث مباشر | قنوات اون لاين | قنوات نايل سات | قنوات مصرية | قنوات اخبارية | راديو بث مباشر"/>
+
+
+<!-- cdnjs : use a specific version of Video.js (change the version numbers as necessary) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video-js.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js"></script>
+
+
+
+    <!-- Brightcove quality picker -->
+    <link href="//players.brightcove.net/videojs-quality-menu/1/videojs-quality-menu.css" rel="stylesheet">
+    <script src="//players.brightcove.net/videojs-quality-menu/1/videojs-quality-menu.min.js"></script>
+
+    <script src="https://cdn.streamroot.io/videojs-hlsjs-plugin/1/stable/videojs-hlsjs-plugin.js"></script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+      background-image: url("https://newturkpost.com/image/4b4bc806-b947-45fd-a0a7-68ff359d1ba2--SAQET.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    font-family: 'Comfortaa', 'Almarai', cursive;
+    text-align: center;
+    margin: 0px;
+    direction: rtl;
+}
+
+#monitor {
+    background-image: linear-gradient(to right, #111 , #222 , #111);
+    margin: 2% 3%;
+}
+
+.far {
+    font-family: 'fontawesome' !important;
+    font-style: normal;
+    padding: 0 8px;
+    font-size: large;
+    }
+
+.vjs-control-bar.vjs-livedvr-control-bar .vjs-load-progress, .vjs-control-bar.vjs-livedvr-control-bar .vjs-load-progress div {
+    background: #bfc7d3;
+    background: rgb(255 201 0);
+    width: 60% !important;
+}
+
+.vjs-menu-button-popup .vjs-menu .vjs-menu-content {
+    background-color: #0000009e;
+    max-height: 19em;
+}
+
+.vjs-control-bar.vjs-livedvr-control-bar .vjs-live-controls .vjs-live-display {
+    margin: 0.4em auto 0.4em;
+    background: red;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 14px;
+}
+
+.vjs-control-bar.vjs-livedvr-control-bar.vjs-live-status-live .vjs-live-controls .vjs-live-display {
+    color: #222;
+}
+
+.video-js .vjs-control-bar {
+    background-color: #444;
+    background-image: linear-gradient(to right, #000 , #555 , #000);
+    font-size: 1.3em;
+}
+
+.video-js .vjs-big-play-button {
+    background-image: url(https://i.ibb.co/b7CWjhb/play.png);
+    background-repeat: no-repeat;
+    background-size: cover!important;
+    -webkit-background-size: cover!important;
+    background-position: center center;
+    height: 96px;
+    background-color: #000000a6;
+    border: none;
+    border-radius: 50%;
+    line-height: 86px;
+    left: 50%;
+    margin: -53px 0 0 -50px;
+    position: absolute;
+    top: 50%;
+    width: 96px;
+    z-index: 3;
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    font-size: 2em;
+    -webkit-transition: all .8s ease;
+    -moz-transition: all .8s ease;
+    -ms-transition: all .8s ease;
+    -o-transition: all .8s ease;
+    transition: all .8s ease;
+}
+
+.vjs-playing .vjs-big-play-button, .vjs-seeking .vjs-big-play-button {
+    width: 150px;
+    height: 150px;
+    opacity: 0;
+    visibility: hidden;
+    margin: -80px 0 0 -80px;
+    background-size: cover;
+}
+
+.video-js .vjs-big-play-button .vjs-icon-placeholder:before {
+    content: "\f101";
+    display: none;
+}
+
+
+.vjs-button>.vjs-icon-placeholder:before {
+    font-size: 2.2em;
+    line-height: 1.5;
+}
+
+.video-js .vjs-volume-panel .vjs-volume-horizontal .vjs-slider .vjs-volume-level:before {
+    background: #fff;
+    border-radius: 8px;
+    content: '';
+    height: 13px;
+    position: absolute;
+    right: -6px;
+    top: -5px;
+    width: 13px;
+}
+
+.video-js .vjs-volume-panel .vjs-volume-horizontal .vjs-slider .vjs-volume-level {
+    background-color: #ffb813;
+}
+
+.video-js .vjs-mute-control .vjs-icon-placeholder, .vjs-icon-volume-high {
+    color: #ffb813;
+}
+
+.video-js .vjs-live-control {
+    display: block;
+    align-items: flex-start;
+    flex: auto;
+    font-size: 1.3em;
+    line-height: 2.4em;
+    color: #fff;    
+}
+
+.video-js .vjs-big-play-button:focus,.video-js:hover .vjs-big-play-button{
+border-color:#fff;
+background-color:#ffffff3e;
+transition:all 0.7s;
+}
+
+#urlArea {
+    display:none;
+
+}
+
+.channelsbg {
+    background-color: #000000a6;
+    font-family: 'Comfortaa', 'Almarai', cursive;
+    direction: rtl;
+    padding: 5px 20px;
+    margin: 0px 50px 0px 50px;
+    border-radius: 20px 0px 20px 20px;
+    border-left: 6px solid #fff;
+}
+
+.chtitle {
+    background-color: #000c;
+    padding: 5px 10px;
+    text-align: center !important;
+    margin: 20px 50px 0px 0;
+    border-radius: 20px 0px 0px 0px;
+    position: initial;
+    color: white;
+    font-size: 20px;
+    text-align: right;
+    width: 45%;
+    max-width: 240px;
+    border-bottom: 1px solid #fff;
+    border-left: #fff 3px solid;
+}
+
+.image-c:hover {
+    opacity: 0.8;
+    cursor: pointer;
+
+}
+
+.image-c {
+    width: 100%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+/* Create three equal columns that floats next to each other */
+.column2 {
+  float: right;
+  width: 10%;
+  padding: 10px;
+  cursor: pointer;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  cursor: pointer;
+
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:1000px) {
+  .column2 {
+    width: 14.28%;
+  }
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:700px) {
+  .column2 {
+    width: 25%;
+  }
+  .channelsbg {
+    padding: 5px 5px;
+    margin: 0px 20px 0px 20px;
+  }
+  .chtitle {
+    padding: 5px 10px;
+    margin: 20px 20px 0px 0;
+    font-size: 18px;
+ }
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:400px) {
+  .column2 {
+    width: 33.33%;
+  }
+}
 
 </style>
 </head>
-<body><marquee bgcolor="#212529" direction="right" height="50" scrollamount="3" scrolldelay="100" style="border-color: #212529;border-style: ridge;color: white;font-size: 20pt;" width="100%">  nodaplustv مرحبا بك في تطبيق  </marquee>
-<div id="header-inner">
-<a href="https://play.google.com/store/apps/details?id=co.wuffy.player&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dwuffy+player&pcampaignid=APPU_1_5_5tXqD2JIaNlwTF1LqwDg" target="_blank" style="display:" block=""><h1>DOWNLOAD WUFFY PLAYER</h1></a>
 
-<div class="fl"><a class="fileName" href="intent://aHR0cDovLzNsbGl2ZS5jb20vbTN1OC9BbGxrYWljZXIvQmVpbkxPVy5tM3U= #Intent;scheme=xmtv;package=co.wuffy.player;end" rel="nofollow"><div><div><img alt="thumb" height="60" src="https://i1.wp.com/wuffyplayer.com/files/2019/03/logo.png?fit=180%2C180&ssl=1" width="60"></div>
-<div><b><font color="black">Bein Low 📺</font><br><span><font color="green"></font><font color="red"></font></span></b></div></div></a></div><b>
-<div class="fl"><a class="fileName" href="intent://aHR0cDovLzNsbGl2ZS5jb20vbTN1OC9BbGxrYWljZXIvQmVpblNELm0zdQ==
-#Intent;scheme=xmtv;package=co.wuffy.player;end" rel="nofollow"><div><div><img alt="thumb" height="60" src="https://i1.wp.com/wuffyplayer.com/files/2019/03/logo.png?fit=180%2C180&ssl=1" width="60"></div>
-<div><b><font color="black">Bein SD 📺</font><br><span><font color="green"></font><font color="red"></font></span></b></div></div></a></div><b>
-<div class="fl"><a class="fileName" href="intent://aHR0cDovLzNsbGl2ZS5jb20vbTN1OC9BbGxrYWljZXIvQmVpbkhELm0zdQ==
-#Intent;scheme=xmtv;package=co.wuffy.player;end" rel="nofollow"><div><div><img alt="thumb" height="60" src="https://i1.wp.com/wuffyplayer.com/files/2019/03/logo.png?fit=180%2C180&ssl=1" width="60"></div>
-<div><b><font color="black">Bein HD 📺</font><br><span><font color="green"></font><font color="red"></font></span></b></div></div></a></div><b>
-<iframe src="" height="0" width="0" title=""></iframe>
-</b></b></b></b></b></div></body>
+<body>
+<div class="topnav" id="myTopnav">
+  <a href="https://shahid.ps/">
+<img class="logo" src="https://cloud.shahid.ps/shahid-ps/img/logo.png"></a>
+
+  <a href="https://shahid.ps/"><i class="far fa-play-circle"></i></a>
+  <a href="https://shahid.ps/Arabic-Channels.php" class="active"><i class="far fa-play-circle"></i>قنوات عربية</a>
+  <a href="/TodayMatchs.php"></a>
+  <a href="/shahid-ps/our.html"></a>
+  <a href="https://wa.link/0p7d4b" target="_blank"></a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+
+<div id="container">
+  <div id="monitor">
+    <div id="monitorscreen">
+
+<div id="videoArea"></div>
+<video
+  id="player"
+  class="video-js vjs-fluid vjs-big-play-centered vjs-16-9"
+  controls
+  playsinline
+  preload="none"
+  width="1280"
+  height="720"
+  poster='/shahid-ps/img/playbg.jpg'
+  data-setup="{}">
+  
+  <source id="videoArea" src="https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8"
+  type="application/x-mpegURL"/>
+
+<p class="vjs-no-js">
+هذا المتصفح غير مدعوم، جرب متصفح جوجل كروم 
+</p>
+</video>
+
+  </div>
+ </div>
+</div>
+
+<div class="chtitle">قنوات عربية</div>
+<div class="channelsbg">
+<div class="row">
+
+<input id="urlArea" class="Shahid-url" value="https://s27.storage.movs4u.club/files/1616298548/ynKuo9628cD5R-720.mp4"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://www.scifinow.co.uk/wp-content/uploads/2021/04/The-Mitchells-vs-The-Machines-Poster.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc4.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc5.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-masr1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-masr2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-iraq.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-drama+.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-bollywood.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-action.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-max.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc3.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/DubaiTV.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/dubai-one.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-3.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Sharjah.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Qatar.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Oman.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/AD-Drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/ADTv.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Classic.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana+.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-C1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-C2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Kha.png" class="image-c">
+</div>
+<input id="urlArea" class="Shahid-url" value="https://s27.storage.movs4u.club/files/1616298548/ynKuo9628cD5R-720.mp4"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://www.scifinow.co.uk/wp-content/uploads/2021/04/The-Mitchells-vs-The-Machines-Poster.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc4.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc5.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-masr1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-masr2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-iraq.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-drama+.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-bollywood.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-action.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-max.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc3.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/DubaiTV.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/dubai-one.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Dubai-Sports-3.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Sharjah.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Qatar.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Oman.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/AD-Drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/ADTv.png" class="image-c">
+</div>
+
+
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Drama.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Classic.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana+.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-C1.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-C2.png" class="image-c">
+</div>
+
+<input id="urlArea" class="Shahid-url" value="https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"/>
+<div onclick="topFunction()" class="column2">
+<img src="https://cloud.shahid.ps/shahid-ps/img/ch/Rotana-Kha.png" class="image-c">
+</div>
+
+   </div>
+  </div>
+</body>
+
+
+   <script>
+  var player=videojs('my-player',{'autoplay': true,'fluid':true});
+player.play();
+player.landscapeFullscreen();
+</script>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<script>
+var urlButtons = document.querySelectorAll(".column2");
+var myRegex = /^https:\/\/.*\.(mp4)$/;
+var links = document.querySelectorAll(".Shahid-url");;
+var videoArea = document.getElementById('videoArea');
+function triggerCloudy(index) {
+	let link = links[index].value;
+	if (link.length > 10 && myRegex.test(link)) {
+		var myPlayer = videojs("player");
+		myPlayer.src(link);
+		myPlayer.play();
+	}
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+for (let i = 0; i < urlButtons.length; i ++) {
+	urlButtons[i].addEventListener('click', function() {
+		triggerCloudy(i);
+	}, false);
+}
+   </script>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+<div class="footerSpace">.</div>
+
+<div class="footer">
+<p>Nodaplustv</p>
+</div>
+
+</html>
