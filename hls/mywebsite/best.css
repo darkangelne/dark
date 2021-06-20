@@ -63,13 +63,13 @@ h4 {
     }
     
 .footer {
-    position: fixed;
+        position: fixed;
     left: 0;
     direction: rtl;
     bottom: 0;
     font-size: 1rem;
     width: 100%;
-    background-image: linear-gradient(to right, #3948ff , #8134af , #c02e70 , #ff9d33 , #c14900);
+    background-image: linear-gradient(to right, #151517 , #1e1c1fbf , #65a5bd , #8527aded , #773b16d1);
     border-top: 2px solid #f3f3f3;
     border-radius: 0 55% 0 0;
     color: white;
