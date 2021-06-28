@@ -1,0 +1,73 @@
+
+#EXTINF: -1,TRT 1
+https://yayin2.tvizlehd.com/trt1360.m3u8
+#EXTINF: -1, Show tv
+https://yayin2.tvizlehd.com/showtv360.m3u8
+#EXTINF: -1,KANAL D
+https://yayin2.tvizlehd.com/kanald360.m3u8
+#EXTINF: -1,FOX TV
+https://yayin2.tvizlehd.com/foxtv360.m3u8
+#EXTINF: -1,ATV
+https://yayin2.tvizlehd.com/atv360.m3u8
+#EXTINF: -1,STAR TV
+https://yayin2.tvizlehd.com/startv360.m3u8
+#EXTINF: -1,TV 8
+https://yayin2.tvizlehd.com/tv8360.m3u8
+#EXTINF: -1,BEYAZ TV
+https://yayin2.tvizlehd.com/beyaztv360.m3u8
+#EXTINF: -1,A SPOR
+https://yayin2.tvizlehd.com/aspor360.m3u8
+#EXTINF: -1,IDMAN TV
+https://yayin2.tvizlehd.com/idmantv360.m3u8
+#EXTINF: -1,TRT SPOR
+https://yayin2.tvizlehd.com/trtspor360.m3u8
+#EXTINF: -1,CBC SPORT
+https://yayin2.tvizlehd.com/cbcsport360.m3u8
+
+#EXTINF: -1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/601d31d6866ac3277023dc6e.png" group-title="Ungrouped", S SPORT 1
+https://mn-nl.mncdn.com/blutv_ssport1/ssport1_hd.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/90x0/601d3304866ac3277023dc7a.png" group-title="Ungrouped", S SPoRT 2
+https://mn-nl.mncdn.com/blutv_ssport2/ssport2_hd.smil/playlist.m3u8
+#EXTINF: -1, S SPORT 1 HD
+http://v2.oldbozcdn1.cc/ssport1/index.m3u8
+#EXTINF: -1, SMARTSPOR HD
+http://8.oldbozcdn1.cc/smartspor/index.m3u8
+
+
+#EXTINF: -1 group-title="Turkey", 3Tr SPORTS HD 1
+http://188.40.186.158:8181/hls/trspor/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BEIN SPORT 1 (480P)
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/463
+#EXTINF: -1 group-title="Turkey", beIN SPORT 1 1800k MDL
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/465
+#EXTINF: -1 group-title="Turkey", beIN SPORT 1 1200k MDL
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/467
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 1 UHD ULTRA YUKSEK KALITE
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/468
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 3 UHD & MDL &
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/472
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 4 UHD & MDL &
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/473
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 2 UHD &UYDU ALMANYA&
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/476
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 1 UHD &UYDU ALMANYA&
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/477
+#EXTINF: -1 group-title="Turkey", TIVIBU SPOR HD
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF: -1,NTV
+https://yayin2.tvizlehd.com/ntv360.m3u8
+#EXTINF: -1,CNN TURK
+https://yayin2.tvizlehd.com/cnnturk360.m3u8
+#EXTINF: -1,A HABER
+https://yayin2.tvizlehd.com/ahaber360.m3u8
+#EXTINF: -1,TRT HABER
+https://yayin2.tvizlehd.com/trthaber360.m3u8
+
+#EXTINF: -1,Kanal D Hd
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+
+
+#EXTINF: -1,ATV Hd
+http://miskokulunevresim.dyndns.tv:25461/stream/ATV_HD.m3u8
