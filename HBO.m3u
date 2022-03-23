@@ -1,0 +1,58 @@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO 
+https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO 2
+https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Extreme
+https://chromecast.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Family
+https://chromecast.cvattv.com.ar/live/c2live/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Mundi
+https://chromecast.cvattv.com.ar/live/c2live/Max_HD/SA_SAGEMCOM/Max_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Plus
+https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Pop
+https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", HBO Signature
+https://chromecast.cvattv.com.ar/live/c2live/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Signature
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBOFAM
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBOIDx
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Hits
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Cinemax
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3HBo VI
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3Cinemax VI
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2 TH
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax2 TH
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIG TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOHIT TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAM TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax TH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
