@@ -225,4 +225,47 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 #EXTINF:-1 group-title="Iraq" tvg-id="ALHurra.iq" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" ,Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-*
+
+
+**********tunıs********
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G9F0Lbn/watania1.png" group-title="National TV" ,الوطنية 1
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/317
+http://217.182.137.206/tunisie1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6mcbcPg/watania2.png" ,الوطنية 2
+http://217.182.137.206/tunisie2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" ,Nessma Ejdida
+http://217.182.137.206/nessma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" ,الحوار التونسي
+http://217.182.137.206/elhiwar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7LBNPH/9tv.jpg" ,التاسعة
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/322
+http://217.182.137.206/attessia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvDvWSg/carthage.jpg" ,قرطاج+
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/326
+#EXTINF:-1 tvg-id="" tvg-logo="" ,تونسنا
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/320
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0XCtc4t/hannibaltv.jpg" ,حنبعل
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/321
+http://217.182.137.206/hannibal.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kG3ZfYq/Telvza-tv.jpg" ,تلفزة
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/324
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3PkkP9/insan.jpg" ,الإنسان
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/328
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ss4qFcK/zitouna.jpg" ,الزيتونة
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/969
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v1X8Vm8/janoubia.jpg" ,الجنوبية
+http://multies.xyz:8000/22-3-ML-TUNISIA/RgSBh2Oecm/325
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png",Baya TV
+http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Tunisie Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PG6JkxN/MOSAIQUE.png" ,موزاييك 
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R7TL4wd/jfm.png" ,جوهرة
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4NRc7dp/shemsfm.jpg" ,Shems FM
+https://radio.shemsfm.net/shems
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/small-logo-nationale.png" ,الإذاعة الوطنية
+http://188.165.181.186:1935/radiotn/nationale_video/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,rtci
+http://188.165.181.186:1935/radiotn/rtci_video/chunklist.m3u8
