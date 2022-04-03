@@ -286,6 +286,9 @@ https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ye-yemen-today-tv-6595.jpg" ,Yementoday TV
 https://video.yementdy.tv/hls/yementoday.m3u8
 
+#EXTINF:-1 group-title="Yemen" tvg-id="AdenTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2DPtAMPaDUYFg-Q23D4xJ2lsuBiIS8SYaTv1NsjuclB7jO5KnXU8KoBQRyr6Xfic-PA&usqp=CAU" ,AdenTV 
+http://82.212.74.5:8000/live/hls/7728.m3u8
+
 
 #EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="http://live.multies.net/wp-content/uploads/2021/11/Almahriah-TV.png" ,almahriah TV
 https://master.starmena-cloud.com/hls/almahriah.m3u8
@@ -301,6 +304,3 @@ https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Yemen",Alerth Alnabawi  
 http://82.212.74.2:8000/live/7307.m3u8
-
-#EXTINF:-1 tvg-id="AlghadAlmushreq.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="Yemen",Alghad Almushreq 
-http://82.212.74.3:8000/live/7512.m3u8
