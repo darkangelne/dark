@@ -16,6 +16,13 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://pbs.twimg.com/media/DU5XRzKWkAIBAg5.jpg" ,Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://yt3.ggpht.com/wFfQhordeTr-blC4Yp1bePGmkv6g-m_XjhkXz4_-BpB84KNaF_69ISgmqt2m508KV0f6Ky1_Qg=s176-c-k-c0x00ffffff-no-rj-mo" ,ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/37/ee/b8/37eeb882-1c3d-e018-f9f0-0873a9f0153f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,smashi tv
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
+
+
 
 http://185.180.15.13:2200/TN/zeealwan-ar/index.m3u8?token=STATIC
 http://185.180.15.13:2200/TN/zeeaflam-ar/index.m3u8?token=STATIC
