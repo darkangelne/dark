@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" ,Al Oula
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" ,Thikrayat
+https://edge.taghtia.com/sa/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" ,El Ikhbaria
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" ,Quran
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" ,Sunna 
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/eb/small_ded8299be8b63d50419a935259b858c3c0c4abee.png" ,Radio Riyadh
+https://edge.taghtia.com/sa/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/50/5f/fullhd_8d79b2d9ebd2d17703a2fa4ee959888bdff28111.png" ,Saudia Radio
+https://edge.taghtia.com/sa/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/c9/19/fullhd_144a972e52acb9b4a3a3151fb0b7aa84509d14b5.png" ,Quran Radio 
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://neda.sba.sa/wp-content/uploads/2019/08/logoneda.png" ,Nidaa El Islam
+https://edge.taghtia.com/sa/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/81/4a/fullhd_eccd6d8fce2cc3f33ac026e448cc675832522de4.png" ,Jaddah Radio
+https://edge.taghtia.com/sa/15.m3u8
