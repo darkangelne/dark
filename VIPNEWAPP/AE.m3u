@@ -1,0 +1,42 @@
+#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/06/AbuDhabiTV.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Abu Dhabi Aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/04/Al-Emarat.png" ,Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Majid Kids TV ARB" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/DubaiOneTV.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="NoorDubai.ae" tvg-logo="https://lh3.googleusercontent.com/D88zlgeLYSxXX8aZdGvdBzDCj1Ovnaak3aCi74f0AzHcrdGC2_qU-m_8bblhpIVkUg" ,Al Dafrah TV
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/FP2yHkl.png" ,Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="Sama Dubai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuXQV3-U77TK2CAHIDeA-4-w1RwhCGoi2fzcUHIqTB7EpE5uL3I3jprLxmrJOrjgQmjk&usqp=CAU" ,Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="Sharjah2.ae" tvg-logo="https://sba.net.ae/public/uploads/19/Jan/24/aa5a9f2ce9f440410b796a6747566d6c58726961784a69665757426a3157.png" ,Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="SharjahTV.ae" tvg-logo="https://i.imgur.com/FAp0RtO.png" ,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="DubaiTV.ae" tvg-logo="https://1.bp.blogspot.com/-rqCwcRycD8k/X3n7FHgUc3I/AAAAAAAAToI/eL7RVgkTKhg7xHGWiNeici9VdT9bYeXEwCLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D8%25AA%25D9%2584%25D9%2581%25D8%25B2%25D9%258A%25D9%2588%25D9%2586%2B%25D8%25AF%25D8%25A8%25D9%258A.png" ,Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/F5U9qpf.png" ,Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://www.sba.net.ae/uploads/19/Feb/07/021d93308913984ba52247705a515969457868566d52423966376867716a.png" ,Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="AlWoustaTV.ae" tvg-logo="https://tvtvtv.ru/icons/al_wousta_tv.png" ,Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
