@@ -1,0 +1,23 @@
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakAction.ae" tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" ,Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakDrama.ae" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" ,Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakMix.ae" tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" ,Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://pbs.twimg.com/profile_images/958799374569672704/qbV4a4E_.jpg" ,Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://pbs.twimg.com/media/DU5XRzKWkAIBAg5.jpg" ,Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://yt3.ggpht.com/wFfQhordeTr-blC4Yp1bePGmkv6g-m_XjhkXz4_-BpB84KNaF_69ISgmqt2m508KV0f6Ky1_Qg=s176-c-k-c0x00ffffff-no-rj-mo" ,ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="United Arab Emirates" tvg-id="WeyyakNawaem.ae" tvg-logo="https://smashi.tv/assets/img/logo-png-ar.png" ,smashi tv
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
