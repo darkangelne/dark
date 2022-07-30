@@ -1,0 +1,70 @@
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبارNEWS",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="الاخبارNEWS",AL JAZEERA HD 
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3x3lce2" group-title="الاخبارNEWS",AL JAZEERA SD
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="الاخبارNEWS",AL JAZEERA MUBASHER 
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="الاخبارNEWS",AL JAZEERA MUBASHER SD
+https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="الاخبارNEWS",AL ARABIYA 
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owObkh" group-title="الاخبارNEWS",AL ARABIYA 
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="الاخبارNEWS",AL HADATH 
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="الاخبارNEWS",AL HADATH SD
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="الاخبارNEWS",AL Asharq HD 
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="الاخبارNEWS",AL Asharq SD
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3PIOcAp" group-title="الاخبارNEWS",AL Ekhbaria
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MphckC" group-title="الاخبارNEWS",ALMAMLKA 
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39e3Wuy" group-title="الاخبارNEWS",SKY NEWS ARABIC 
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="الاخبارNEWS",BBC ARABIC 
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r9w6dH" group-title="الاخبارNEWS",BBC ARABIC +
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Nv4rim" group-title="الاخبارNEWS",AL ALAM HD
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3GP3O1f" group-title="الاخبارNEWS",WATAN HD
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yykzs0" group-title="الاخبارNEWS",FRANCE 24 HD
+http://149.62.183.214:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j27VuW" group-title="الاخبارNEWS",DW ARABIC HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j6PyEU" group-title="الاخبارNEWS",AL KHALIJ HD
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36u7Xqk" group-title="الاخبارNEWS",TRT ARABIC HD
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="الاخبارNEWS",CGTN الاخبارNEWS
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="الاخبارNEWS",CGTN News SD
+https://livear.cgtn.com/500a/prog_index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="الاخبارNEWS",ALARABY TV HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="الاخبارNEWS",ALARABY 2 TV HD
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vlaUoV" group-title="الاخبارNEWS",ALqanat 9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3csqpDn" group-title="الاخبارNEWS",AL MAYADEEN HD
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtPfe6" group-title="الاخبارNEWS",AL HIWAR NEWS 
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxCP52" group-title="الاخبارNEWS",CNBC ARABIYA HD
+https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://arbne.ws/3MoHfkW" group-title="الاخبارNEWS",Al Hurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3MiWGuT" group-title="الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Q47QXN" group-title="الاخبارNEWS",Alsharq
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3N2JfzU" group-title="الاخبارNEWS",ALkhalij TV
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY
+https://elahmad-com-1a.herokuapp.com/elahmad.php/https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8
