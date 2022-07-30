@@ -1,4 +1,13 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml"
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Channel TV
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Muslim
+http://media6.smc-host.com:1935/omgchannel.net/omgmuslim/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Series
+http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Sport
+http://media6.smc-host.com:1935/omgchannel.net/omgsport/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Kids
+http://media6.smc-host.com:1935/omgchannel.net/omgkids/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1101_1.png" ,AL OULA
 
@@ -42,5 +51,3 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY
 #EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS +2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y4ws3LzEV0U
-#EXTINF:-1 tvg-id="" tvg-logo="" ,MASPERO ZAMAN
-https://channelsarabia.xyz/4_.m3u8|Referer=https://live.qanwat-live.com/2021/06/maspero-zaman.html
