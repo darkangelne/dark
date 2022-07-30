@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml"
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="National TV" ,Algeria 1 الأولى
+#EXTINF:-1  tvg-logo="https://medias-dz.com/wp-content/uploads/2019/03/entv.jpg" group-title="National TV" ,Algeria 1 الأولى
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérieالثانية
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
