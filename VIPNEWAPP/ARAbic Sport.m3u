@@ -39,7 +39,7 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="رياضية SPORT",KTV Sport FHD
 https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="رياضية SPORT",1البحرين الرياضية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mys.gov.bh/PublishingImages/LiveStreamTv/BTV-sports-logo.png" group-title="رياضية SPORT",1البحرين الرياضية
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
