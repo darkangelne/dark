@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" tvg-logo-small="https://www.tntendirect.com/images/channel/tf1.png" ,TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
+https://sv7.data-stream.top/f97581cb1ecd4609ea88527e2fee11fd5e82f70c8968abad03f8d43f04178e4a/hls/tf1-HD.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France2.fr.png" tvg-logo-small="https://static.epg.best/fr/France2.fr.png" ,France 2
-https://s13.tntendirect.com/france2/live/playlist.m3u8
+https://sv1.data-stream.top/f97581cb1ecd4609ea88527e2fee11fd5e82f70c8968abad03f8d43f04178e4a/hls/francetv2.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France3.fr.png" tvg-logo-small="https://static.epg.best/fr/France3.fr.png" ,France 3 Paris Île-de-France
 https://s13.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-logo-small="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+
