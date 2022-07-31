@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=" AboRayan premium 1" tvg-name=" AboRayan premium 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/395178004.png" group-title="النت الضعيف", AboRayan premium 1
+#EXTINF:-1 tvg-id="  premium 1" tvg-name=" AboRayan premium 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="النت الضعيف",  premium 1
 http://147.135.252.4:9001/live/beinp1.ts
-#EXTINF:-1 tvg-id=" AboRayan premium 2" tvg-name=" AboRayan premium 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/165667248.png" group-title="النت الضعيف", AboRayan premium 2
+#EXTINF:-1 tvg-id="  premium 2" tvg-name=" AboRayan premium 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="النت الضعيف",  premium 2
 http://147.135.252.4:9001/live/beinp2.ts
-#EXTINF:-1 tvg-id=" AboRayan premium 3" tvg-name=" AboRayan premium 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/285385347.png" group-title="النت الضعيف", AboRayan premium 3
+#EXTINF:-1 tvg-id="  premium 3" tvg-name=" AboRayan premium 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="النت الضعيف",  premium 3
 http://147.135.252.4:9001/live/beinp3.ts
-#EXTINF:-1 tvg-id=" AboRayan 1" tvg-name=" AboRayan 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/573116230.png" group-title="النت الضعيف", AboRayan 1
+#EXTINF:-1 tvg-id="  1" tvg-name="  1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="النت الضعيف",  1
 http://147.135.252.4:9001/live/bein1.ts
-#EXTINF:-1 tvg-id=" AboRayan 2" tvg-name=" AboRayan 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/383887899.png" group-title="النت الضعيف", AboRayan 2
+#EXTINF:-1 tvg-id=" AboRayan 2" tvg-name="  2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="النت الضعيف",  2
 http://147.135.252.4:9001/live/bein2.ts
-#EXTINF:-1 tvg-id=" AboRayan 3" tvg-name=" AboRayan 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/901422000.png" group-title="النت الضعيف", AboRayan 3
+#EXTINF:-1 tvg-id=" AboRayan 3" tvg-name="  3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="النت الضعيف",  3
 http://147.135.252.4:9001/live/bein3.ts
-#EXTINF:-1 tvg-id=" AboRayan 4" tvg-name=" AboRayan 4" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/576624307.png" group-title="النت الضعيف", AboRayan 4
-http://147.135.252.4:9001/live/bein4.ts
-#EXTINF:-1 tvg-id=" AboRayan 5" tvg-name=" AboRayan 5" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/743821159.png" group-title="النت الضعيف", AboRayan 5
+#EXTINF:-1 tvg-id=" AboRayan 4" tvg-name="  4" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="النت الضعيف",  4
+http://147.135.252.4:9001/live/bein4.
+#EXTINF:-1 tvg-id=" AboRayan 5" tvg-name="  5" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="النت الضعيف",  5
 http://147.135.252.4:9001/live/bein5.ts
-#EXTINF:-1 tvg-id=" AboRayan 6" tvg-name=" AboRayan 6" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/399890310.png" group-title="النت الضعيف", AboRayan 6
+#EXTINF:-1 tvg-id=" AboRayan 6" tvg-name="  6" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="النت الضعيف",  6
 http://147.135.252.4:9001/live/bein6.ts
-#EXTINF:-1 tvg-id=" AboRayan 7" tvg-name=" AboRayan 7" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/845518512.png" group-title="النت الضعيف", AboRayan 7
+#EXTINF:-1 tvg-id=" AboRayan 7" tvg-name="  7" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="النت الضعيف",  7
 http://147.135.252.4:9001/live/bein7.ts
