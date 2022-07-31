@@ -1,0 +1,78 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WcFBy41/oula.png" group-title="National TV" ,Al Oula الأولى
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQmw3nx/laayoune.png" ,Al Oula Laayoune الأولى العيون
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dDMQrHP/2m.jpg" ,2M الثانية 
+http://r32g5k9gm3.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3rhwnSg/sport.png" ,Arriadia الرياضية 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QmtWTRL/culture.png" ,Arrabiaa الثقافية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PjWfqm/news.png" ,Al Maghribia المغربية الإخبارية
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vjjy179/quran.png" ,Assadissa القرآن الكريم 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VYnwj91/aflam.png" ,Assabiaa أفلام
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dW861WG/tamazight.png" ,Tamzighth الأمازيغية
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFRvWx7/telemaroc.png" ,Télé Maroc قناة المغرب
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kQ2Srv7/m24.png" ,M24 وكالة المغرب العربي للأنباء
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi 1 العربية
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi1
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" ,Chada TV شدى 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/thdqRRH/atlas.jpg" ,Canal Atlas
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Radio Nationale الإذاعة الوطنية 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sr2jXyj/tamazigh.png" ,Radio Amazigh الإذاعة الأمازيغية
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k8Q8Z2z/med6.png" ,Radio Med6 راديو القرآن الكريم
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PYP8y8B/rinter.png" ,Radio Inter الإذاعة الدولية
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCGdtJr/agadir.png" ,Radio Agadir إذاعة أغادير 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zQWc34V/hoceima.png" ,Radio El Hoceima إذاعة الحسيمة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XjBWjPR/tetouan.png" ,Radio Tetouanإذاعة تطوان
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4p5pXCz/tanger.png" ,Radio Tanger إذاعة طنجة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DRmHmDF/fess.png" ,Radio Fes إذاعة فاس
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Cnjpz0J/merrakash.png" ,Radio Merrakesh إذاعة مراكش
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h29nBJq/rcasa.png" ,Radio Casa إذاعة الدار البيضاء
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/12Z4gk4/oujda.png" ,Radio Oujda إذاعة وجدة
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0rZPz6m/mekness.png" ,Radio Mekness إذاعة مكناس
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Radio Laayoune إذاعة العيون 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NS8YJh0/med-radio.png" ,Med Radio
+https://streamer.eagrpservices.com//audio//medradio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HGDwLZx/chadafm.png" ,Chada FM
+https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/16Rr2gf/radio-mars.png" ,Radio Mars
+https://streamer.eagrpservices.com/audio/radiomars.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wss1Y02/hitradio.png" ,HIT Radio
+https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7Jzv1Zq/rsoleil.png" ,Radio Soleil
+https://radiosoleil.ice.infomaniak.ch/radiosoleil-32.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2sWLDn6/capradio.png" ,CAP Radio
+https://streamer.eagrpservices.com/audio/capradio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pXzw2Vz/mfmradio.png" ,MFM Radio 
+https://streamer.eagrpservices.com/audio/mfmradio.ogg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZjkDqX/medinafm.png" ,Medina FM
+https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PwYz4T6/aswat.png" ,Radio Aswat 
+https://broadcast.ice.infomaniak.ch/aswat-high.mp3
