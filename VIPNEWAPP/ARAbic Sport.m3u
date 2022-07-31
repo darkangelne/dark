@@ -47,3 +47,11 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 group-title="United Arab Emirates" tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS
+http://185.236.229.50:8001/play/a046
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS HD
+http://185.236.229.50:8001/play/a042
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2
+http://185.236.229.50:8001/play/a044
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Egyptien| ONTIME SPORTS2 HD
+http://185.236.229.50:8001/play/a040
