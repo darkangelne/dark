@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" tvg-logo-small="https://www.tntendirect.com/images/channel/tf1.png" ,TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France2.fr.png" tvg-logo-small="https://static.epg.best/fr/France2.fr.png" ,France 2
+https://s13.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France3.fr.png" tvg-logo-small="https://static.epg.best/fr/France3.fr.png" ,France 3 Paris Île-de-France
+https://s13.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-logo-small="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+
+https://stream-02.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODicpCnnVmL9qeGPlVCTIqTax22AkQS4mryLrc5CsDnv)/p/dm/3/x5gv6be/d/live-4.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France5.fr.png" tvg-logo-small="https://static.epg.best/fr/France5.fr.png" ,France 5
+https://s13.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/m6.png" tvg-logo-small="https://www.tntendirect.com/images/channel/m6.png" ,M6
+https://s13.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/arte.png" tvg-logo-small="https://www.tntendirect.com/images/channel/arte.png" ,Arte
+https://s13.tntendirect.com/arte/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/c8.png" tvg-logo-small="https://www.tntendirect.com/images/channel/c8.png" ,C8
+https://stream-06.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJQnA5aklXmfvs5vDJSh0dmDDEAQdyY-VsTCgB_hT0TE)/p/dm/3/x5gv5rr/d/live-4.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/W9.fr.png" tvg-logo-small="https://static.epg.best/fr/W9.fr.png" ,W9
+https://s13.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/TMC.fr.png" tvg-logo-small="https://static.epg.best/fr/TMC.fr.png" ,TMC
+https://s13.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" tvg-logo-small="https://www.tntendirect.com/images/channel/tfx.png" ,TFX
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/nrj-12.png" tvg-logo-small="https://www.tntendirect.com/images/channel/nrj-12.png" ,NRJ 12
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_Sénat_%282019%29.svg/1200px-Logo_Public_Sénat_%282019%29.svg.png" ,Public Senat
+https://stream-03.dc3.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k4buKUATk8CEEu3ejg53qBoQuNwdq8u-BaaVWbBezh-z)/dm/3/xkxbzc/d/live-2.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France4.fr.png" tvg-logo-small="https://static.epg.best/fr/France4.fr.png" ,France 4
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57307
+#EXTINF:0 group-title="France TNT" tvg-logo="upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/600px-Logo_BFM_TV_%282019%29.png" ,BFM TV
+https://bfmtvhds-lh.akamaihd.net/i/BFMTV_ESYTLS@664114/master.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" tvg-logo-small="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png" ,CNews
+https://stream-02.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4geeF3xna1Gsb4mmfeGnXiRAT-andEeIywpd_aLUW3-7l)/dm/3/x3b68jn/s/live-4.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" tvg-logo-small="https://www.tntendirect.com/images/channel/cstar.png" ,CStar
+https://s13.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" tvg-logo-small="https://static.epg.best/fr/Gulli.fr.png" ,Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/tf1-series-films.png" tvg-logo-small="https://www.tntendirect.com/images/channel/tf1-series-films.png" ,TF1 Séries Films
+https://s13.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/1280px-L_Equipe_Logo.svg.png" ,L'Équipe
+https://s13.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/6ter.png" tvg-logo-small="https://www.tntendirect.com/images/channel/6ter.png" ,6ter
+https://s13.tntendirect.com/6ter/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" tvg-logo-small="https://static.epg.best/fr/RMCStory.fr.png" ,RMC Story
+https://stream-08.ix7.dailymotion.com/sec(NHNrmhE_a5oYnthlz8G60uSz6-2zwT5l-WKzCizQY1U_N267s7L0sQ0mcpbLDhcC)/dm/3/x13p3qi/s/live-4.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://stock.wikimini.org/w/images/6/69/Langfr-1024px-RMC_Découverte_logo_2017.svg.png" ,RMC Découverte
+https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.tntendirect.com/images/channel/cherie-25.png" tvg-logo-small="https://www.tntendirect.com/images/channel/cherie-25.png" ,Chérie 25
+https://s13.tntendirect.com/cherie25/live/playlist.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Août_2017%29.svg/1200px-LCI_-_Logo_%28Août_2017%29.svg.png" ,LCI
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57318
+#EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" tvg-logo-small="https://static.epg.best/fr/FranceInfo.fr.png" ,Franceinfo
+https://stream-09.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOC_xGaD10ieB73eX-Ukx3-_NkkOHZwuxukdsf_8V-oo9)/p/dm/3/x4rdeu6/d/live-3.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/logo-paris-premiere-rentree-2011-2012-104714-196364.jpg" ,Paris Premiere
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57343
+#EXTINF:0 group-title="France TNT" tvg-logo="https://xmltv.ch/wp-content/uploads/2020/02/35-300x300.png" tvg-logo-small="https://xmltv.ch/wp-content/uploads/2020/02/35-300x300.png" ,Canal+ Sport
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57278
+#EXTINF:0 group-title="France TNT" tvg-logo="https://xmltv.ch/wp-content/uploads/2020/02/33-300x300.png" tvg-logo-small="https://xmltv.ch/wp-content/uploads/2020/02/33-300x300.png" ,Canal+ Cinèma
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57274
+#EXTINF:0 group-title="France TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/1200px-PlanetePlus_2011.svg.png" ,Planète+
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57345
