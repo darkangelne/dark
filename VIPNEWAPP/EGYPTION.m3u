@@ -1,18 +1,13 @@
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Channel TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Muslim
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Muslim
 http://media6.smc-host.com:1935/omgchannel.net/omgmuslim/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Series
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Series
 http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Sport
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Sport
 http://media6.smc-host.com:1935/omgchannel.net/omgsport/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="Omg Channel",Omg Kids
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Kids
 http://media6.smc-host.com:1935/omgchannel.net/omgkids/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1101_1.png" ,AL OULA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1119_1.png" ,EGYPTION TV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1198_1.png" ,CBC
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=cNYhda5jpDQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1199_1.png" ,CBC DRAMA
@@ -21,33 +16,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=
 http://free.fullspeed.tv/iptv-query?streaming-ip=
 #EXTINF:-1 tvg-id="" tvg-logo="" ,EXTRA NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1203_1.png" ,ON E
-https://channelsarabia.xyz/8_.m3u8|Referer=https://live.qanwat-live.com/2021/04/on.html
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,ON DRAMA
-https://channelsarabia.xyz/9_.m3u8|Referer=https://live.qanwat-live.com/
-#EXTINF:-1 tvg-id="" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/channels/dmc-hd.png" ,DMC
-https://channelsarabia.xyz/5_.m3u8|Referer=https://live.qanwat-live.com/2021/06/dmc.html
-#EXTINF:-1 tvg-id="" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc/dmc-drama.png" ,DMC DRAMA
-https://channelsarabia.xyz/13_.m3u8|Referer=https://live.qanwat-live.com/2021/09/dmc-drama.html
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Al_Hayah_TV_New_Logo.png" ,EL HAYAT
-https://channelsarabia.xyz/10_.m3u8|Referer=https://live.qanwat-live.com/2021/07/alhayat.html
-#EXTINF:-1 tvg-id="" tvg-logo="" ,EL MEHWAR
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1193_1.png" ,EL NAHAR ONE
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1223_1.png" ,EL NAHAR DRAMA
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1237_1.png" ,AL NAHAR MUSALSALAT
-
 #EXTINF:-1 tvg-id="" tvg-logo="" ,SADA EL BALAD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
-#EXTINF:-1 tvg-id="" tvg-logo="" ,SADA EL BALAD 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,SADA EL BALAD 3
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TEN
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/OZmduMh4u0GLTrhFlqvoFq-_dM8wdQ7wYCEWz8sVWdVTSI9VdiJ9LAju3CBBeg2Dk9qAc7iT0rc=s900-c-k-c0x00ffffff-no-rj" ,TEN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://sat.tv/wp-content/uploads/2017/04/AlKaheraWalNas.png" ,AL KAHERA W ENNAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY
-#EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS +2
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1252_1.png" ,AL KAHERA W ENNAS +2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y4ws3LzEV0U
