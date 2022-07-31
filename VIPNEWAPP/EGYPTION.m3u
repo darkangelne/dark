@@ -1,3 +1,10 @@
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="أم بي سيMBC",MY-MBC Masr 
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="أم بي سيMBC",MY-MBC Masr USA
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="أم بي سيMBC",MY-MBC MASR 2 
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="Omg Channel",Omg Muslim
