@@ -1,0 +1,194 @@
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/playlist.m3u8
+https://https://stream.warpballsod.tv:443/epl1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png",TPF 2 
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv:443/epl2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png",TPF 2 
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/playlist.m3u8
+https://stream.warpballsod.tv:443/epl2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png",TPF 3  
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv:443/epl3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png",TPF4 
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv:443/epl4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-5.png",TPF5  
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv:443/epl5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",TPF1  
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv:443/epl1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein1.png",bein1
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/bein1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/bein2.png",bein2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/bein2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd.png",truesporthd
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/truesporthd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd2.png",truesporthd2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/truesporthd2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesporthd3.png",truesporthd3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/truesporthd3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesport5.png",truesport5
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/truesport5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/truesport7.png",truesport7
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/truesport7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsporthd.png ",foxsporthd
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/foxsporthd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport1.png ",foxsporthd
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/foxsport1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2.png ",foxsporthd2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/foxsport2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png ",foxsporthd3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/foxsport3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport3.png ",foxsporthd3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/foxsport3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport1.png ",btsport1
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/btsport1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport2.png ",btsport2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/btsport2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsport3.png ",btsport3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/btsport3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/btsportespn.png ",btsportespn
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://178.128.99.54:443/btsportespn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportmainevent.png ",skysportmainevent
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportmainevent.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportmix.png ",skysportmix
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportmix.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportmix.png ",skysportarena
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportarena.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportaction.png ",skysportaction
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportaction.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportpremiere.png ",skysportpremiere
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportpremiere.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/skysportfootball.png ",skysportfootball
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/skysportfootball.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsportsarabia1hd.png ",beinsportsarabia1hd
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/beinsportsarabia1hd.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsportsarabia2hd.png ",beinsportsarabia2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/beinsportsarabia2hd.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsportsarabia3hd.png ",beinsportsarabia3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/beinsportsarabia3hd.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sporttv2.png ",sporttv1
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sporttv1.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sporttv2.png ",sporttv2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sporttv2.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sporttv3.png ",sporttv3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sporttv3.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sporttv4.png ",sporttv4
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sporttv4.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png ",arenasport1serbia
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/arenasport1serbia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport1serbia.png ",arenasport2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/arenasport2serbia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport3serbia.png ",arenasport3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/arenasport3serbia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/arenasport4serbia.png ",arenasport4
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/arenasport4serbia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport1romania.png ",digisport1romania
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/digisport1romania.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport2romania.png ",digisport2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/digisport2romania.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport3romania.png ",digisport3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/digisport3romania.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/digisport4romania.png ",digisport4
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/digisport4romania.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2nl.png ",foxsport1
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/foxsport1nl.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2nl.png ",foxsport2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/foxsport2nl.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2nl.png ",foxsport3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/foxsport3nl.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport2nl.png ",foxsport4
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/foxsport4nl.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsport4nl.png ",foxsport5
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/foxsport5nl.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sportklub1slovenia.png ",sportklub1slovenia
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sportklub1slovenia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sportklub2slovenia.png ",sportklub2
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sportklub2slovenia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sportklub3slovenia.png ",sportklub3
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sportklub3slovenia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sportklub1slovenia.png ",sportklub4
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/sportklub4slovenia.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/espnbrazil.png ",espnbrazil
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/espnbrazil.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/espnus.png ",espnus
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/espnus.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport1fr.png ",beinsport1fr
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/beinsport1fr.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/beinsport2fr.png ",beinsport2fr
+#EXTVLCOPT:http-referrer=https://www.warpballsod.tv/
+https://stream.warpballsod.tv/beinsport2fr.m3u8|User-Agent=exoplayer_video&Referer=https://www.warpballsod.tv/
