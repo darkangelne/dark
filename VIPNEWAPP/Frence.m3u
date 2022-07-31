@@ -4,7 +4,7 @@ https://sv7.data-stream.top/f97581cb1ecd4609ea88527e2fee11fd5e82f70c8968abad03f8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France2.fr.png" tvg-logo-small="https://static.epg.best/fr/France2.fr.png" ,France 2
 https://sv1.data-stream.top/f97581cb1ecd4609ea88527e2fee11fd5e82f70c8968abad03f8d43f04178e4a/hls/francetv2.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France3.fr.png" tvg-logo-small="https://static.epg.best/fr/France3.fr.png" ,France 3 Paris Île-de-France
-https://s13.tntendirect.com/france3/live/playlist.m3u8
+https://sv1.data-stream.top/f97581cb1ecd4609ea88527e2fee11fd5e82f70c8968abad03f8d43f04178e4a/hls/france3.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-logo-small="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+
 https://stream-02.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODicpCnnVmL9qeGPlVCTIqTax22AkQS4mryLrc5CsDnv)/p/dm/3/x5gv6be/d/live-4.m3u8
 #EXTINF:0 group-title="France TNT" tvg-logo="https://static.epg.best/fr/France5.fr.png" tvg-logo-small="https://static.epg.best/fr/France5.fr.png" ,France 5
