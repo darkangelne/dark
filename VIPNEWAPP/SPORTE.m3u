@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg\",Ziggo Golf
+http://gg.gg/Ziggo4
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg\",Ziggo Racing
+http://gg.gg/Ziggo5
+#EXTINF:-1 ,Ziggo Select HD
+http://82.197.214.59:4000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg\",Ziggo Sleet
+http://gg.gg/Ziggo3
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg\",Ziggo Sports
+http://gg.gg/Ziggo1
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg\",Ziggo Voetbal
+http://gg.gg/Ziggo2
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAfwFmfYp751Z5yaDpsnXa73vKBmS MnrAw&usqp=CAU\",RMC Sports 1
+http://gg.gg/Rmcsp1
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAfwFmfYp751Z5yaDpsnXa73vKBmS MnrAw&usqp=CAU\",RMC Sports 2
+http://gg.gg/Rmcsp2
+
+
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD
