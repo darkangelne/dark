@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="National TV" ,سلام
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1S25fP/libya-ahrar.png" ,ليبيا الأحرار
+https://video.zidivo.com:9392/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svdWnwb/libyach.webp" ,قناة ليبيا
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GM9yrps/218tv.png" ,218
+https://218tv.akamaized.net/615c6485275a8057847e0026/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X43mZL8/218news.png" ,218 أخبار
+https://218tv.akamaized.net/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1khXv7/wtv.png" ,الوسط 
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YLrrhGK/febrayer.png" ,فبراير
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/X5222cT/jamahiria.png" ,الجماهيرية
+https://master.starmena-cloud.com/hls/jam.m3u8
