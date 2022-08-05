@@ -1,0 +1,11 @@
+#EXTINF:-1 group-title="Qatar" tvg-id="AlRayyan.qa" tvg-logo="https://i.imgur.com/uQMoKXn.png" ,Al Rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Qatar" tvg-id="AlRayyanAlQadeem.qa" tvg-logo="https://i.imgur.com/mVwHGbc.png" ,Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Qatar" tvg-id="QatarTV.qa" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" ,Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+
+#EXTINF:-1 group-title="Qatar" tvg-id="QatarTV2.qa" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" ,Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
