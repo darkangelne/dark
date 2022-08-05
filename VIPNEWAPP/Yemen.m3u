@@ -2,13 +2,13 @@
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Yemen" tvg-id="AlmasiraTV.ye" tvg-logo="https://tv.taghtia.com/assets/channels/yemen-tv.png" ,Yemen TV
-https://video-weaver.vie02.hls.ttvnw.net/v1/playlist/Cq8FAoesNdGibUKc3HGQ7-Nz-qar1hBY4ds04TTV95fmAFZUEWPUxVvNRmgJ5A3EWF_10i9MufOIpiWj2zP8t55vztiuTzAod3BtOo4LxT74e4cTCgrGcW39q8fU5igRZfY_w9uJ5Ff0jFyxqJ_yezpj9c7mIjgQOdFrfjJqjnl9qoTefR6tTuFUTGxom1UqcWgZOl-57TK1YI-IH-oLSfZy1Xo0vMtiMciw0Cbz7LPKNvM38EjKHTG5pdNUZyJ3OvzRWgFX4lE1cH-gJF_95-XNV27s1d3hX1nXu4EaEKkDYcMOmAP54eC5C3RSD-knjM1Nx4YGuZw_Js7nCjw5lYZjrC4skVJ-xuKqZl7pd9k_DlFX4_utjc0bV8W90ROhuDL7nvVsgfMb1MA3-lS09V6MYEUX4XQavhvhDc-vnqsTUiHYgSxWkSHOcCZvuWYghpz5AHoy5vfkEnjhT9xuZum_k4apnGUKeRJ7pc_eIybEC5DB6mUKVSf9kH9n-8-9t1fGkXqkF4uJXB2cWSLOyn5IdINqIiLKSDIDOWJ0hIKGBLLFJUYOe2Si5_icyepWEvKPpV9n4tD0W-que0JSBIe_EZFxTjx68M3ILQ8206jTq9zZT3uWlUoL9hl2RfBgV30MumaOxHiYzwRU8J07pPukaDczTwqiWDs_vlgg6qi3CqmqWOy5Dn4K4Dg9O6VY3YwaRdpWYdROY5WudgoViQhH7yQg3QCvFCdMEofUG9Tr-QMl0nc1FZ7wJXRoUPr2XW1ajDg7urJdW_6mxBUNgNeslD3bfxRwYNF9HKe_MNg_adu8k8dSAhre7dDwywQKLfkSLRMdWxIAZQ8XVYTsyGlyagKSTkG1EvHXNq6ihqoN2uYXOZZk6V8gKwgW1jc0R3rcCRDD7-Zu7b_xiqfHps2_GgxAXY_lOQZyKMq7mGYgASoJZXUtd2VzdC0yMLAD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yemen_tv
 
 #EXTINF:-1 group-title="Yemen" tvg-id="AlyamanShabab.ye" tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-06-01-990140.jpg" ,Alyaman Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
 
 #EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="N/A" ,Belqees TV
-https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659756349/ei/3YrtYpTsA8XYx_AP1a-PmAk/ip/92.205.10.243/id/QnUGHjEIJc0.1/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khs2JlbVaL7G4A0TY0cwAE131CIw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKtYwnuKwHnL35Sx-1uxU55gk6qdn2a9DKSPmRgpKegUAiA5BARg94HXsPvJ-hbJQdCvVHHZzRAlMj92RsVWMIaB3Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ye-yemen-today-tv-6595.jpg" ,Yementoday TV
 https://video.yementdy.tv/hls/yementoday.m3u8
