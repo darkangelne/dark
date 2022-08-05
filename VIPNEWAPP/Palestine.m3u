@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 group-title="Palestine" tvg-id="Ajyal TV ARB" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" ,Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="AlAqsaChannel.ps" tvg-logo="https://pallap.com/up/1621458520.png" ,Al Aqsa Channel 
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="Audeh.ps" tvg-logo="https://pbs.twimg.com/media/CAcrR0iUkAA9h7j.jpg" ,Audeh
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="Falastini.ps" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" ,Falastini
+http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Palestine" tvg-id="MarahFM.ps" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" ,Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/PEFW4Vy.png" ,MusawaChannel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="NablusTV.ps" tvg-logo="http://live.multies.net/wp-content/uploads/2021/10/Nablus-tv-350x250.png" ,Nablus TV
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/bYz6HUG.png" ,Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" ,Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="palestiniantv.ps" tvg-logo="https://2.bp.blogspot.com/-6CqQEZZK4zU/V5e-uhl_AUI/AAAAAAAAEHk/aUxIkG47xCkKr0we6y3UFgTqzo7mgnWPwCLcB/s1600/palestinian_tv_ps.png" ,palestiniantv
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="RajeenTV.ps" tvg-logo="https://www.rajeen.tv/logo.png" ,Rajeen TV
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="ShababFM.ps" tvg-logo="https://shababfm.ps/wp-content/uploads/2022/02/logo-for-website-1.png" ,Shabab FM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="WatarTV.ps" tvg-logo="http://www.wbn.ps/assets/images/logo.png" ,Watar TV
+http://htvint.mada.ps:8889/orient/index.m3u8
+
+#EXTINF:-1 group-title="Palestine" tvg-id="AlfajerTv1.ps" tvg-logo="https://i.imgur.com/H8SaZXN.png" ,Alfajer Tv  1
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv
+
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="Palestine",Radio Albalad TV  
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="" group-title="Palestine",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" tvg-country="PS" tvg-url="" group-title="Palestine",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-country="PS" tvg-url="" group-title="Palestine",Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="Palestine",Watan TV
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
