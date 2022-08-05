@@ -1,0 +1,33 @@
+#EXTINF:-1 group-title="Yemen" tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/poHvbNV.jpg" ,Al Masirah
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="AlmasiraTV.ye" tvg-logo="https://tv.taghtia.com/assets/channels/yemen-tv.png" ,Yemen TV
+https://video-weaver.vie02.hls.ttvnw.net/v1/playlist/Cq8FAoesNdGibUKc3HGQ7-Nz-qar1hBY4ds04TTV95fmAFZUEWPUxVvNRmgJ5A3EWF_10i9MufOIpiWj2zP8t55vztiuTzAod3BtOo4LxT74e4cTCgrGcW39q8fU5igRZfY_w9uJ5Ff0jFyxqJ_yezpj9c7mIjgQOdFrfjJqjnl9qoTefR6tTuFUTGxom1UqcWgZOl-57TK1YI-IH-oLSfZy1Xo0vMtiMciw0Cbz7LPKNvM38EjKHTG5pdNUZyJ3OvzRWgFX4lE1cH-gJF_95-XNV27s1d3hX1nXu4EaEKkDYcMOmAP54eC5C3RSD-knjM1Nx4YGuZw_Js7nCjw5lYZjrC4skVJ-xuKqZl7pd9k_DlFX4_utjc0bV8W90ROhuDL7nvVsgfMb1MA3-lS09V6MYEUX4XQavhvhDc-vnqsTUiHYgSxWkSHOcCZvuWYghpz5AHoy5vfkEnjhT9xuZum_k4apnGUKeRJ7pc_eIybEC5DB6mUKVSf9kH9n-8-9t1fGkXqkF4uJXB2cWSLOyn5IdINqIiLKSDIDOWJ0hIKGBLLFJUYOe2Si5_icyepWEvKPpV9n4tD0W-que0JSBIe_EZFxTjx68M3ILQ8206jTq9zZT3uWlUoL9hl2RfBgV30MumaOxHiYzwRU8J07pPukaDczTwqiWDs_vlgg6qi3CqmqWOy5Dn4K4Dg9O6VY3YwaRdpWYdROY5WudgoViQhH7yQg3QCvFCdMEofUG9Tr-QMl0nc1FZ7wJXRoUPr2XW1ajDg7urJdW_6mxBUNgNeslD3bfxRwYNF9HKe_MNg_adu8k8dSAhre7dDwywQKLfkSLRMdWxIAZQ8XVYTsyGlyagKSTkG1EvHXNq6ihqoN2uYXOZZk6V8gKwgW1jc0R3rcCRDD7-Zu7b_xiqfHps2_GgxAXY_lOQZyKMq7mGYgASoJZXUtd2VzdC0yMLAD.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="AlyamanShabab.ye" tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-06-01-990140.jpg" ,Alyaman Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8?v=2957056943
+
+#EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="N/A" ,Belqees TV
+https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ye-yemen-today-tv-6595.jpg" ,Yementoday TV
+https://video.yementdy.tv/hls/yementoday.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="AdenTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2DPtAMPaDUYFg-Q23D4xJ2lsuBiIS8SYaTv1NsjuclB7jO5KnXU8KoBQRyr6Xfic-PA&usqp=CAU" ,AdenTV 
+http://82.212.74.5:8000/live/hls/7728.m3u8
+
+
+#EXTINF:-1 group-title="Yemen" tvg-id="BelqeesTV.ye" tvg-logo="http://live.multies.net/wp-content/uploads/2021/11/Almahriah-TV.png" ,almahriah TV
+https://master.starmena-cloud.com/hls/almahriah.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="SuhailTV.ye" tvg-logo="https://suhail.net/themes/default/images/arabic/logo-ftr.png" ,Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+
+#EXTINF:-1 group-title="Yemen" tvg-id="lGdlmshrq.ye" tvg-logo="http://www.alghadye.com/wp-content/uploads/2018/08/cropped-GHAD_New_concept-testing.ai-2.png" ,الغد المشرق
+http://82.212.74.3:8000/live/hls/7512.m3u8
+
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="Yemen",Al Masirah Mubacher  
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Yemen",Alerth Alnabawi  
+http://82.212.74.2:8000/live/7307.m3u8
