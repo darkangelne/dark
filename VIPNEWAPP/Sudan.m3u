@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,S24
+http://149.100.10.203:4211/bysid/5
+#EXTINF:0,Neelain Sport
+http://149.100.10.203:4211/bysid/6
+#EXTINF:0,AGAR TV
+http://149.100.10.203:4211/bysid/7
+#EXTINF:0,Sudan Drama
+http://149.100.10.203:4211/bysid/8
+#EXTINF:0,SUdan HD
+http://149.100.10.203:4211/bysid/10
+#EXTINF:0,Sudan Music
+http://149.100.10.203:4211/bysid/12
+#EXTINF:0,Sudan Sport
+http://149.100.10.203:4211/bysid/15
+#EXTINF:0,SRV_1B
+http://149.100.10.203:4211/bysid/27
+#EXTINF:0,SRV_1C
+http://149.100.10.203:4211/bysid/28
+#EXTINF:0,SRV_1E
+http://149.100.10.203:4211/bysid/30
+#EXTINF:0,SRV_24
+http://149.100.10.203:4211/bysid/36
+#EXTINF:0,BNTV2HD
+http://149.100.10.203:4211/bysid/50
+#EXTINF:0,Sudan Sport HD
+http://149.100.10.203:4211/bysid/101
+#EXTINF:0,Sudan 
+http://149.100.10.203:4211/bysid/2010
