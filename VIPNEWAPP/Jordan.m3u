@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanTV.jo.png" group-title="الْأُرْدُنّ",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanSports.jo.png" group-title="الْأُرْدُنّ",Jordan Sports
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jascotvstreaming.com/uploads/topics/15602802937098.png" group-title="الْأُرْدُنّ",A ONE
+http://82.212.74.99:8000/live/hls/8111.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/assets/images/default-image.jpg" group-title="الْأُرْدُنّ",Al-Mamlaka
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://nw-24.com/wp-content/uploads/AlHadath.nw-24.com_.jpg" group-title="الْأُرْدُنّ",Al-Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://altaghier.tv/wp-content/uploads/2020/01/altaghier-tv-w.png" group-title="الْأُرْدُنّ",Al Taghier
+http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5328f085012007.Y3JvcCwxNzg5LDE0MDAsMzU0LDA.jpg" group-title="الْأُرْدُنّ",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/settings/15201617635163.png" group-title="الْأُرْدُنّ",Jasco
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg" group-title="الْأُرْدُنّ",Kaifa TV
+http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/AlRoyaTV.jo.png" group-title="الْأُرْدُنّ",Ro'ya TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
