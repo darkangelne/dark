@@ -15,12 +15,12 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Religion",Al Fath TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Nobel TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
-#EXTINF:-1 group-title="Religion",Nour El Sham
-http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B8kS2rD.jpg" tvg-country="SA" tvg-url="" group-title="Religion",Ayaat TV
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="Religion",Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Religion",Dua Channel HQ
+https://5e74a9d684b2e.streamlock.net/liveTrans//channel5/chunklist_w1365139156.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="القرآن الكريم",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
