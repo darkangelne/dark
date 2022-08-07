@@ -24,6 +24,20 @@ http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
 http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[3]МАТЧ! ФУТБOЛ 
 http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/3duGFGU.jpg",SPOTV
+http://live-kr.television4you.xyz/spotv/mpegts
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/fmDPHLk.jpg",SPOTV 2
+http://live-kr.television4you.xyz/spotv2/mpegts
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/NscHkhD.jpg",SPOTV PRIME
+http://live-kr.television4you.xyz/spotvprime/mpegts
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/sKZ477P.jpg", SPOTV GOLF
+http://live-kr.television4you.xyz/spotvgnh/mpegts
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/D42eeyi.png",SPOTV ON
+http://live-kr.television4you.xyz/spotvon/mpegts
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/v72G8x8.jpg",SPOTV ON 2
+http://live-kr.television4you.xyz/spotvon2/mpegts
+
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC Sports 1
 http://51.178.65.238:80/RMC1/mpegts
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC Sports 2
