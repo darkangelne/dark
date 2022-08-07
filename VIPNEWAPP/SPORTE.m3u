@@ -37,7 +37,8 @@ http://live-kr.television4you.xyz/spotvgnh/mpegts
 http://live-kr.television4you.xyz/spotvon/mpegts
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/v72G8x8.jpg",SPOTV ON 2
 http://live-kr.television4you.xyz/spotvon2/mpegts
-
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.realmadrid.com/apple-icon-120x120.png",🇪🇸 ⚽️➾ Real Madrid Tv
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC Sports 1
 http://51.178.65.238:80/RMC1/mpegts
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC Sports 2
