@@ -1,30 +1,4 @@
-#EXTINF:-1 tvg-id="localnow_Box Playlist" group-title="Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62193d7b462f855c4901c83b",🇪🇸 🎶➾ Box Playlist
-https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/M6%20Music.png",🇫🇷 🎶➾ M6 Music
-http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://sck.pm/aazR",🇷🇺 🎶➾ VIVA
-https://hlss.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",🎶➾ Deluxe Musicᴴᴰ
-http://84.112.18.204:8001/1:0:19:157F:41F:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",🎶➾ Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2019/06/25234451/cropped-favicon-180x180.png",🇵🇹 🎶➾ ONFM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/R%C3%A1dioSines.png",🇵🇹 🎶➾ Rádio Sines
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/virgintv.png",🇮🇹 🎶➾ Virgin Radio
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Afrobeats.png",🎶➾ Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",🎶➾ Clubbing tv ᴴᴰ [Pluto]
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-
-
-==============
 
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png",🎶➾ Love Songs [Pluto]
@@ -208,3 +182,225 @@ https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://webplayer.stingray.com/res/images/logo/pt/stingray_music_hor_white.svg",🎶➾ Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="30a-tv.com" tvg-logo="https://i.imgur.com/SHEJFbx.png" ,30A TV Music 
+http://30a-tv.com/music.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/ey7bWQ4.jpg" ,African Entertainment Network 
+http://connectiktv.ddns.me:8080/AFRICAN-ENTERTAINTMENT-NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/aMo5IaG.png" ,Afrobeats 24/7 
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/jlRMBbu.jpg" ,Alegria TV 
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="antennevorarlberg.at" tvg-logo="https://i.imgur.com/cnMTcPw.png" ,Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/aRPmfji.jpg" ,Bajo Cero TV 
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/1y95fWe.png" ,Balkan Music TV 
+http://163.172.88.94:12989/live/Balkan.Music.MK/7Io7o7Q6o2/1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/pHQlSnV.jpg" ,BBlack Africa Germany 
+https://edge8.vedge.infomaniak.com/livecast/bblackafrica/.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/pHQlSnV.jpg" ,BBlack Caribbean Germany 
+https://edge8.vedge.infomaniak.com/livecast/bblackcaribbean/.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/pHQlSnV.jpg" ,BBlack Classic Germany 
+https://edge8.vedge.infomaniak.com/livecast/bblackclassik/.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/dDoqgKo.jpg" ,Biz Music 
+https://st.biztv.uz/hls/m_mid/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/CA9bH7C.png" ,Bonao TV 
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/vS5l5a3.png" ,Busuioc TV 
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZTClYwb.jpg" ,Canal 38  
+https://rtmp.info/canal38/envivo/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/eaHPbqd.png" ,Carolina TV 
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/CnkbcUo.jpg" ,CMC-USA 
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/64lOQ6u.png" ,Colosal TV 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/9TGQZzk.png" ,Conecta TV  
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/75dTj9u.png" ,Corazón Llanero 
+https://vcp.myplaytv.com/coll/coll/.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/GyxXMDv.png" ,Dance Television 
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/xLqyZQQ.png" ,DanceStar TV 
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/GyxXMDv.png" ,DeepHouse District 
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://i.imgur.com/Y9Y2YYx.png" ,DELUXEMusic 
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/DYbZsa3.jpg" ,EuroLatina TV 
+https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/daUGyPl.jpg" ,Generations TV 
+https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/NITXUkQ.png" ,IBC Tamil 
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/4ZviAAO.png" ,Kalac TV 
+https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/32BtjWz.jpg" ,La Super Discoteca tv 
+https://vdo1.streamgato.us:3833/live/lasuperdiscotecatvlive.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/co9pX3i.png" ,Loop 90's 
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/mnN4S5J.jpg" ,Love FM TV 
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/wlLmHGv.png" ,Maxima FM TV  
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/peq4OaE.png" ,MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/Gjnpnnu.png" ,My Music Africa 
+http://173.249.3.13:8080/mymusic/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="Ocko TV" tvg-logo="https://i.imgur.com/jKPRYdM.png" ,Ocko TV 
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/430V288.jpg" ,Portal Fox Mix 
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/O8ByUjT.png" ,RADIO FRECCIA  
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/bedxx0y.png" ,Radio Italia TV 
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/ghLKlHs.png" ,Radio m20 Lazio 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/wYtZLZK.png" ,Radio Pop TV 
+https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/6u12Mww.png" ,Redbox Classic Rock 
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/6u12Mww.png" ,Redbox Greatest Hits 
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/6u12Mww.png" ,Redbox Hit List 
+https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/6u12Mww.png" ,Redbox Hot Country 
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/6u12Mww.png" ,Redbox Soul Storm 
+https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="Retro Germany" tvg-logo="https://i.imgur.com/GHJYqYg.png" ,Retro Germany 
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/i0rZsgG.png" ,Retro Plus 2  
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/i0rZsgG.png" ,Retro Plus  
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-loo="https://i.imgur.com/VkaCr2d.png" ,Rwanda Television RTV 
+https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="Sonus FM TV" tvg-logo="https://i.imgur.com/GcCzcpE.png" ,Sonus FM TV 
+http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="Spirit TV" tvg-logo="https://i.imgur.com/jR24flK.png" ,Spirit TV 
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/GyxXMDv.png" ,Techno Warehouse 
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/FYg0Ykk.jpg" ,Tele Oriental 
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/bwp5lST.png" ,TeleMusica  
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" ,The Retro Channel  
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/tshpVTX.jpg" ,TV Exitos 
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/csX35oP.png" ,VEVO 00's 
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/8B605OO.jpg" ,VEVO 70's 
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/Lbc9cYw.png" ,VEVO Hip Hop 
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/D7SwmuB.png" ,VEVO Latino 
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/l1oc3ER.png" ,Video Tour Channel  
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/vxg8fKd.jpg" ,Wham TV 
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/SSGx4fa.png" ,Yuna Vision 
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="N/A" tvg-logo="https://i.imgur.com/Ni2jlBi.png" ,Rewind  
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3732" tvg-id="Karibena  " tvg-logo="https://i.imgur.com/a8yMvcV.png" tvg-name="Karibena  ",Karibena  
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3736" tvg-id="KroneHit TV " tvg-logo="https://i.imgur.com/tLwBOtU.jpg" tvg-name="KroneHit TV ",KroneHit TV 
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3743" tvg-id="LFM " tvg-logo="https://i.imgur.com/UE1E3uH.png" tvg-name="LFM ",LFM 
+https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3745" tvg-id="Live Music Replay " tvg-logo="https://i.imgur.com/NLEWmqQ.png" tvg-name="Live Music Replay ",Live Music Replay 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3764" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/peq4OaE.png" tvg-name="MTV Germany  ",MTV Germany  
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3827" tvg-id="Top Music " tvg-logo="https://i.imgur.com/G1oaOXY.gif" tvg-name="Top Music ",Top Music 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3832" tvg-id="VEVO 2K " tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-name="VEVO 2K ",VEVO 2K 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3833" tvg-id="VEVO 80's " tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" tvg-name="VEVO 80's ",VEVO 80's 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3834" tvg-id="VEVO 90's " tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-name="VEVO 90's ",VEVO 90's 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3835" tvg-id="VEVO Country " tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" tvg-name="VEVO Country ",VEVO Country 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="MUSIC" tvg-chno="3837" tvg-id="VEVO R&B " tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" tvg-name="VEVO R&B ",VEVO R&B 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
