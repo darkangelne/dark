@@ -1,0 +1,48 @@
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/MfQVfSQ/RA1.png",[$]RAI 1
+http://95.107.132.105/out/u/437_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/k576LhY/RAI2.png",[$]RAI 2
+http://95.107.132.105/out/u/450_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/NSGkjS6/RAI3.png",[$]RAI 3
+http://95.107.132.105/out/u/446_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/2dW5TY6/4.png",[$]MEDIASET 4
+http://95.107.132.105/out/u/433_3.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/Dtm0s2w/5.png",[$]MEDIASET 5
+http://95.107.132.105/out/u/425_1.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/wRVzZCq/LA7.png",[$]LA 7
+http://95.107.132.105/out/u/99_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.imgur.com/nwib1XA.png",[$]TG-COM 24
+http://95.107.132.105/out/u/71_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/vmjkbj7/RAI24.png",[$]RAI NEWS 24
+http://95.107.132.105/out/u/663_2.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]MY-TRING" tvg-logo="https://i.ibb.co/1m60wQ5/ENG.png",[$]ENGLISH CLUB
+http://95.107.132.105/out/u/426_2.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/IbynMT1.png",[$]RAI ITALIA HD
+http://210.210.155.69/s/s63/S4/mnf.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/lmBNNG0.png",[$]ITALIA 2
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/dWefZzD.png",[$]CANALE 7
+http://wms.shared.streamshow.it/canale7/canale7/chunklist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/FJVf8Im.png",[$]CANALE 10
+http://37.187.142.147:1935/ch10live/high.stream/chunklist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/1MhKLiW.png",[$]JUNIOR TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV AZIONE HD
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV COMMEDIA HD
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV THRILLER HD
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV ROMANCE HD
+https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV DRAMMA HD
+https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV FAMILY HD 
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV SERIES HD
+https://atresmedia-atreseries-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV SPOTLIGHT HD
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV BIZZARE HD
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qGsIsOV.png",[$]RAKUTEN-TV DOCUMENTARIES HD
+https://rakuten-documentaries-6-it.samsung.wurl.tv/playlist.m3u8
