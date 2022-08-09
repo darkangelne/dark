@@ -25,6 +25,7 @@ http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية 
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://46.105.112.116/?watch=TN/syriandramatv-ar&token=RED_dxPYoJ1KjtIgacQFVE0U9Q==,1661804427.7609871579&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام 
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
