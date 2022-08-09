@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1,BEIN SPORTS PREMIER 1
 #EXTVLCOPT:http-user-agent=@10086live
 http://stream.pizztv.com:8000/BEIIN@23406/BEIN/8
