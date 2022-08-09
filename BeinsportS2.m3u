@@ -1,38 +1,3 @@
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://185.152.66.132/BEINSPORT8/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1
-http://dailytv.xyz:8080/8tAalLMOl8/qqohZLbcOv/5
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://185.152.66.132/BEINSPORT9/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2
-http://dailytv.xyz:8080/8tAalLMOl8/qqohZLbcOv/6
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://185.152.66.132/BEINSPORT10/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3
-http://dailytv.xyz:8080/8tAalLMOl8/qqohZLbcOv/7
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/yZeinDH.png",[$]BEIN SPORTS 1HD FRENCH
-http://dailytv.xyz:8080/8tAalLMOl8/qqohZLbcOv/43
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/uI77rGT.png",[$]BEIN SPORTS 2HD FRENCH
-http://dailytv.xyz:8080/8tAalLMOl8/qqohZLbcOv/44
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
-http://185.152.66.132/BEINSPORT11/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
-http://185.152.66.132/BEINSPORT12/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://185.152.66.132/BEINSPORT1/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://185.152.66.132/BEINSPORT2/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://185.152.66.132/BEINSPORT3/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://185.152.66.132/BEINSPORT4/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://185.152.66.132/BEINSPORT5/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
-http://185.152.66.132/BEINSPORT6/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
-http://185.152.66.132/BEINSPORT7/index.m3u8
-
 #EXTINF:-1,BEIN SPORTS PREMIER 1
 #EXTVLCOPT:http-user-agent=@10086live
 http://stream.pizztv.com:8000/BEIIN@23406/BEIN/8
@@ -69,3 +34,22 @@ http://stream.pizztv.com:8000/BEIIN@23406/BEIN/7
 #EXTINF:-1,BEIN XTRA 
 #EXTVLCOPT:http-user-agent=@10086live
 http://stream.pizztv.com:8000/BEIIN@23406/BEIN/40
+
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
+http://185.152.66.132/BEINSPORT11/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
+http://185.152.66.132/BEINSPORT12/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://185.152.66.132/BEINSPORT1/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://185.152.66.132/BEINSPORT2/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://185.152.66.132/BEINSPORT3/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+http://185.152.66.132/BEINSPORT4/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+http://185.152.66.132/BEINSPORT5/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+http://185.152.66.132/BEINSPORT6/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+http://185.152.66.132/BEINSPORT7/index.m3u8
