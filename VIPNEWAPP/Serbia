@@ -1,0 +1,92 @@
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/YGxBtLI.png",[$]PINK PREMIUM HD
+http://188.240.200.10/pinkpremium/manifest.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/YGxBtLI.png",[$]PINK PREMIUM
+http://185.56.251.38:4000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/8k7juLf.png",[$]PINK HORROR HD
+http://185.56.251.38:4000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/x88W8yh.png",[$]PINK ACTION HD
+http://185.56.251.38:4000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/dqtoZxO.png",[$]PINK THRILLER HD
+http://185.56.251.38:4000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/wSZY6Nz.png",[$]PINK MOVIES HD
+http://185.56.251.38:4000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/nx5mbY9.png",[$]PINK WORLD CINEMA HD
+http://185.56.251.38:4000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/RZ6v8n2.png",[$]PINK SCI-FI & FANTASY HD
+http://185.56.251.38:4000/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/90Hl5Pl.png",[$]PINK CRIME & MYSTERY HD
+http://185.56.251.38:4000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/KRedFt4.png",[$]PINK ROMANCE HD
+http://185.56.251.38:4000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/aEn5MeM.png",[$]PINK FAMILY HD
+http://185.56.251.38:4000/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/UhBow0E.png",[$]AXN 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/ucFEtIX.png",[$]AXN SPIN 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_AXNSPIN_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/UqnQIUC.png",[$]FOX CRIME 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXCRIME_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/4u9tlJ9.png",[$]FOX MOVIES HD  
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXMOVIES_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/rDc8buh.png",[$]FOX HD  
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOX_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Zs7GNi7.png",[$]FOX LIFE HD
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_FOXLIFE_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/4RNuaPc.png",[$]CINESTAR-TV 1HD 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_CINESTARTV_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/4RNuaPc.png",[$]CINESTAR-TV1
+http://94.250.61.6:5545/cinestartv
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/OAooEwv.png",[$]CINESTAR-TV FANTASY 
+http://109.105.205.250:8081/live/CINESTARFANTASY/playlist.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Yp3qjNH.png",[$]CINESTAR-TV ACTION 
+http://109.105.205.250:8081/live/CINESTARACTION/playlist.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/5giQ7eP.png",[$]CINESTAR-TV COMEDY 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_CINESTARFAMILY_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/kvNT24g.png",[$]TV 1000 
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_TV1000_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/grAU8Eq.png",[$]NAT GEO HD
+http://195.181.169.152:8080/DOKUMENTARCI/NATIONAL_GEOGRPHIC/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/sDnlK6Y.png",[$]NAT GEO WILD HD
+http://195.181.169.152:8080/DOKUMENTARCI/NATIONAL_GEO_WILD/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/sEH2wi4.png",[$]FINE LIVING HD
+http://195.181.169.152:8080/DOKUMENTARCI/FINE_LIVING/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/0N8MnhN.png",[$]TRAVEL CHANNEL
+http://195.181.169.152:8080/DOKUMENTARCI/TRAVEL/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/3T7MHPM.png",[$]DISCOVERY HD
+http://195.181.169.152:8080/DOKUMENTARCI/DISCOVERY/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Gtwy3su.png",[$]DISCOVERY ID HD
+http://195.181.169.152:8080/DOKUMENTARCI/DISCOVERY_ID/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/05qaSXE.png",[$]FOOD NETWORK HD
+http://195.181.169.152:8080/DOKUMENTARCI/FOOD_NETWORK/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Qsgb4MU.png",[$]ANIMAL PLANET HD
+http://195.181.169.152:8080/DOKUMENTARCI/ANIMAL_PLANET/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/MPFOcrm.png",[$]HISTORY HD
+http://195.181.169.152:8080/DOKUMENTARCI/HISTORY_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/CeU9CIz.png",[$]HISTORY 2HD
+http://195.181.169.152:8080/DOKUMENTARCI/HISTORY_2/index.m3u8?token=test
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Cs37HC5.png",[$]SCIFI
+http://188.240.200.10/scifi/manifest.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/HjMyf5R.png",[$]N-CINEMA HD
+http://163.172.33.7:25461/serveramsterdam/2292020/21
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/55NQGGa.png",[$]N-CINEMA 2HD
+http://163.172.33.7:25461/serveramsterdam/2292020/13
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/O5vnARO.png",[$]N-FAMILY HD
+http://163.172.33.7:25461/serveramsterdam/2292020/23
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/hJqJo6H.png",[$]HBO MAX HD
+http://163.172.33.7:25461/serveramsterdam/2292020/33
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/fY6G7xO.png",[$]BOX OFFICE 1HD
+http://163.172.33.7:25461/serveramsterdam/2292020/42
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/fY6G7xO.png",[$]BOX OFFICE 2HD
+http://163.172.33.7:25461/serveramsterdam/2292020/40
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/fY6G7xO.png",[$]BOX OFFIXE 3HD
+http://163.172.33.7:25461/serveramsterdam/2292020/39
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/fY6G7xO.png",[$]BOX OFFICE 4HD
+http://163.172.33.7:25461/serveramsterdam/2292020/41
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/29YczIv.png",[$]KIM
+http://84.22.33.254/unicast.kim/mpegts?token=tv
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/qhik2IT.png",[$]KANAL6
+http://84.22.33.254/unicast.kanal6/mpegts?token=tv
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/mt7jIFj.png",[$]FASHION TV 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 group-title="[🌍📺]KANALE BOTERORE" tvg-logo="https://i.imgur.com/I9JVVsY.png",[$]Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
