@@ -1,7 +1,7 @@
 
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://img.sporekrani.com/blogs/85afa989b018d7dfc31f1eaf94bbd681.png", iDMAN TV AZ SD
 http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC SPORT HD
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqYNqMuDJXFA0F786cW_dFEojvxjvX9XJLwvND8LIjVd2GGSN6Mlx-x-_YgD7sLrkpwY&usqp=CAU", CBC SPORT HD
 http://hasan.tvcag.live:8080/50.7.144.122:1935/filbox/cbcsport.stream/index-3.m3u8
 
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD (VIP)
