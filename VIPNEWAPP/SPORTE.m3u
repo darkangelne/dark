@@ -66,6 +66,24 @@ http://51.178.65.238:80/RMC2/index.m3u8
 http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC Sports 3
 http://51.178.65.238:80/RMC4/index.m3u8
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://i.ibb.co/F3z1Nf0/sbssports-BEARTV.png", SBS SPORTS
+http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://i.ibb.co/SQTKn2X/tvnsports-BEARTV.png", tVN SPORTS
+http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live55
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://i.ibb.co/HTH90wP/KBS-N-Sports-BEARTV.png", KBSN SPORTS
+http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://i.ibb.co/GJfhCXJ/JTBCGolf-Sports-BEARTV.png", JTBC Golf & Sports
+http://140.238.6.140:8881/stream/channel/bc035199f244ef5eabb539c178fabdfb
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://i.ibb.co/rmRSzGc/IB-Sports-BEARTV.png", IB SPORTS
+http://140.238.6.140:8881/stream/channel/0b2bbeebae682ab19623247648425c1b
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/footer/file_99872251-4bb3-4ce9-8a98-f5bb47395f6f.png" ,SPOTV1
+http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" ,SPOTV2
+http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel1.png" ,SPOTV·ON
+http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
+#EXTINF:-1 group-title="THỂ THAO HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel2.png" ,SPOTV·ON2
+http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
 
 #EXTINF:0 group-title="[🇩🇪⚽]SPORTE GJERMANE" tvg-logo="https://i.imgur.com/2XAMufd.png",[$]SPORTDIGITAL FUSSBALL HD
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpVHYmTS8HIjuH_lVI4np9s
