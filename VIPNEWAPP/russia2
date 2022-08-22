@@ -439,9 +439,6 @@ http://3.troya.tv:34000/ch1300/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqmr-L
 #EXTINF:0 tvg-id="Yosso TV Советские Фильмы"  tvg-logo="http://tv.team/images/chIcons/1301.png"  timeshift="3", Yosso TV Советские Фильмы
 #EXTGRP:4. Cinemas/Кинозалы
 http://3.troya.tv:34000/ch1301/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvjBdiTFd17SRrCZG5JWcpqESqXqQCCSab-Jbc3Tpryw
-#EXTINF:0 tvg-id="Yosso TV Sexy"  tvg-logo="http://tv.team/images/chIcons/1302.png"  timeshift="3", Yosso TV Sexy
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1302/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnB7koRiC8toh2oVPqBi8G7m00s7GTMJrllaXdsXL5-w
 #EXTINF:0 tvg-id="Yosso TV New Кино"  tvg-logo="http://tv.team/images/chIcons/1303.png"  timeshift="3", Yosso TV New Кино
 #EXTGRP:4. Cinemas/Кинозалы
 http://3.troya.tv:34000/ch1303/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj_GLeogvSg3oQuoTHe4fdwaKS179-TDb29RH_m4m-ju
