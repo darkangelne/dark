@@ -132,6 +132,47 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslfZqVWCW3K0
 #EXTINF:0 group-title="[🇩🇪⚽]SPORTE GJERMANE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslddvjdVKKFMVkTHbKNtQrvB
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" group-title="SPORTS",ESPN vivo
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" group-title="SPORTS",ESPN Extra
+https://wisp.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Premium.png" group-title="SPORTS",ESPN Premium
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" group-title="SPORTS",ESPN 2 vivo
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3.png" group-title="SPORTS",ESPN 3 vivo
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" group-title="SPORTS",TNT SPORTS
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="SPORTS",Fox Sports vivo
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/FOX_Sports_HD/SA_HLS/FOX_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cN7XH5X.png" group-title="SPORTS",Fox Sports 2 vivo
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_148.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fk1kss9.png" group-title="SPORTS",Fox Sports 3 vivo
+https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="SPORTS",Golf Channel Latin America
+https://stationtv.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="SPORTS",Fox Sports México
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="SPORTS",Fox Sports 2 México
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="SPORTS",Fox Sports 3 México
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+
+
 #EXTINF:0 group-title="[🇷🇺⚽]SPORTE RUSE" tvg-logo="https://i.imgur.com/ngEDIQ5.png",[$]VIASAT SPORT
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://i.ibb.co/2cKgsW6/oy.png",[$]ФУТБOЛ HD 
