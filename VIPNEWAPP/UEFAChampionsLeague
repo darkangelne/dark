@@ -4,12 +4,6 @@ https://bit.ly/premium1bein
 https://bit.ly/premium2bein
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 3HD
 https://bit.ly/premium3bein
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.ibb.co/LrgBnCy/m1.png",[$]МАТЧ! ФУТБOЛ 1HD
-http://185.129.1.242:80/matchfutbol1hd/mpegts?token=test
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.ibb.co/3d8f0j5/m2.png",[$]МАТЧ! ФУТБOЛ 2HD 
-http://185.129.1.242:80/matchfutbol2hd/mpegts?token=test
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/WvrK5DG.png",[$]МАТЧ! ФУТБOЛ 3HD
-http://185.129.1.242:80/matchfutbol3hd/mpegts?token=test
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[1]МАТЧ! ФУТБOЛ 
 https://bal.varcdn.top/app/m1/index.m3u8
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[2]МАТЧ! ФУТБOЛ 
