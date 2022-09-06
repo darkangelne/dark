@@ -10,16 +10,16 @@ https://bal.varcdn.top/app/m1/index.m3u8
 https://bal.varcdn.top/app/m2/index.m3u8
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[3]МАТЧ! ФУТБOЛ 
 https://bal.varcdn.top/app/m3/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1HD
-http://5.254.89.106/10030/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/DTeLqi0.png",[$]SUPER SPORT 2HD
-http://5.254.89.106/8734/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Bvffric.png",[$]SUPER SPORT 3HD
-http://5.254.89.106/8741/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/OCe0PNo.png",[$]SUPER SPORT 4HD
-http://5.254.89.106/8743/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/OjdOi0r.png",[$]SUPER SPORT 5HD
-http://5.254.89.106/8736/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
+https://lshstream.xyz/hls/allsportsicu01/index.m3u8?Pericopalotes135
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
+https://lshstream.xyz/hls/allsportsicu02/index.m3u8?Pericopalotes135
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
+https://lshstream.xyz/hls/allsportsicu03/index.m3u8?Pericopalotes135
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",SuperSport 4
+https://lshstream.xyz/hls/allsportsicu04/index.m3u8?Pericopalotes135
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports",SuperSport 5
+https://lshstream.xyz/hls/allsportsicu05/index.m3u8?Pericopalotes135
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD (VIP)
 http://146.59.19.1:80/5031/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/zp4VUm9.png",[$]TRING SPORT 2HD (VIP)
