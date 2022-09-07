@@ -5,6 +5,12 @@ https://bit.ly/premium2bein
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",[$]BEIN SPORTS PREMIUM 3HD
 https://bit.ly/premium3bein
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[1]МАТЧ! ФУТБOЛ 
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[2]МАТЧ! ФУТБOЛ 
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[3]МАТЧ! ФУТБOЛ 
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[1]МАТЧ! ФУТБOЛ 
 https://bal.varcdn.top/app/m1/index.m3u8
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[2]МАТЧ! ФУТБOЛ 
 https://bal.varcdn.top/app/m2/index.m3u8
