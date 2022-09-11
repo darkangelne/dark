@@ -101,16 +101,8 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslddvjdVKKFM
 
 #EXTINF:0 group-title="[🇷🇺⚽]SPORTE RUSE" tvg-logo="https://i.imgur.com/ngEDIQ5.png",[$]VIASAT SPORT
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://i.ibb.co/2cKgsW6/oy.png",[$]ФУТБOЛ HD 
-http://50.7.188.186/Match_TV_HD/mono.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/nXHTWAz.png",[$]SETANTA SPORTS +HD
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD
-http://188.93.94.140/setanta_georgia/playlist.m3u8?token=%E3%82%B8%e3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1
 https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD
-http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=%E3%82%B8%e3%83%A7%E3%83%AB%E3%82%B8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2
 https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE" tvg-logo="https://i.imgur.com/Pu7UdjA.png",[$]SPORT KLUB HD
