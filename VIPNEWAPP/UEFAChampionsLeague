@@ -4,6 +4,12 @@ https://bit.ly/premium1bein
 https://bit.ly/premium2bein
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",[$]BEIN SPORTS PREMIUM 3HD
 https://bit.ly/premium3bein
+#EXTINF:-1 group-title="[🗺️⚽]GOLD SPORTS" tvg-logo="https://i.imgur.com/jNo6fEa.png",BEIN SPORTS PREMIUM 1HD
+https://bit.ly/bbeinp1
+#EXTINF:-1 group-title="[🗺️⚽]GOLD SPORTS" tvg-logo="https://i.imgur.com/jNo6fEa.png",[$]BEIN SPORTS PREMIUM 2HD
+https://bit.ly/bbeinp2
+#EXTINF:-1 group-title="[🗺️⚽]GOLD SPORTS" tvg-logo="https://i.imgur.com/jNo6fEa.png",[$]BEIN SPORTS PREMIUM 3HD
+https://bit.ly/bbeinp3
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Supersport Premier League
 https://lshstream.xyz/hls/allsportsicu01/index.m3u8?Pericopalotes135
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
