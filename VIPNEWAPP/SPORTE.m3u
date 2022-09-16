@@ -57,12 +57,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/dRMNOMu.png",[$]ELEVEN 6HD
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[1]МАТЧ! ФУТБOЛ 
-https://bal.varcdn.top/app/m1/index.m3u8
-#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[2]МАТЧ! ФУТБOЛ 
-https://bal.varcdn.top/app/m2/index.m3u8
-#EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE 2" tvg-logo="https://orenburg.media/wp-content/uploads/2021/02/image_2021-02-12_10-17-59.jpg",[3]МАТЧ! ФУТБOЛ 
-https://bal.varcdn.top/app/m3/index.m3u8
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE" tvg-logo="https://i.imgur.com/Pu7UdjA.png",[$]SPORT KLUB HD
 http://94.250.61.6:2334/skhd?
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE" tvg-logo="https://i.imgur.com/4Cp6WST.png",[$]SPORT KLUB 1HD
