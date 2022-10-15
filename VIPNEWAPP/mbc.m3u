@@ -100,14 +100,16 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="أم بي سيMBC",MY-MBC 1 
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="أم بي سيMBC",MY-MBC 3 
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5676.png" group-title="أم بي سيMBC",MBC 2 SD
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="أم بي سيMBC",MY-MBC 4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="أم بي سيMBC",MY-MBC 5 
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="أم بي سيMBC",MY-MBC IRAQ 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://epg.it999.ru/img2/5673.png" group-title="أم بي سيMBC",Mbc Max
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="أم بي سيMBC",MY-MBC ACTION 
 https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="أم بي سيMBC",MY-MBC Bolleywod 
@@ -128,3 +130,5 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="أم بي سيMBC",MY-MBC panoramafm 
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3Ahg1sI" group-title="أم بي سيMBC",|MBC| Takhayl TV
+https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
