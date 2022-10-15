@@ -1,51 +1,99 @@
-#EXTINF:0,AE: OSN Box Office 1
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/43903
-#EXTINF:0,AE: OSN Box Office 2
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/3701
-#EXTINF:0,AE: OSN Box Office 3
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/3702
-#EXTINF:0,AE: OSN Comedy
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/2859
-#EXTINF:0,AE: OSN Drama
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/22109
-#EXTINF:0,AE: OSN Enigma
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/2856
-#EXTINF:0,AE: OSN Kids
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/3694
-#EXTINF:0,AE: OSN Kidz Zone
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/13828
-#EXTINF:0,AE: OSN Living
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/22478
-#EXTINF:0,AE: OSN Mezze
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/122553
-#EXTINF:0,AE: OSN Movies Disney
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/13666
-#EXTINF:0,AE: OSN Movies First +2
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/16917
-#EXTINF:0,AE: OSN Movies Hollywood
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/71110
-#EXTINF:0,AE: OSN MX
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/283287
-#EXTINF:0,AE: OSN Pop Up
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/283286
-#EXTINF:0,AE: OSN Premiere
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/22118
-#EXTINF:0,AE: OSN Woman
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/protoniumtv2020/7p2Uk3jqGeDBRZRS/282771
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1205_1.png" group-title="قنوات عربية",OSN YAHALA
+http://46.105.112.116/?watch=OSN-EX/OSN_YAHALA_1-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1250_1.png" group-title="قنوات عربية",OSN YAHALA BIL3ARABI
+http://46.105.112.116/?watch=OSN-EX/OSN_YAHALA-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1257_1.png" group-title="قنوات عربية",OSN COMEDY
+http://46.105.112.116/?watch=OSN-EX/OSN_COMEDY_CENTRAL-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1285_1.png" group-title="قنوات عربية",OSN YAHALA CINEMA
+http://46.105.112.116/?watch=OSN-EX/OSN_YAHALA_CINEMA-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1211_1.png" group-title="قنوات عربية",OSN ACTION
+http://46.105.112.116/?watch=OSN-EX/OSN_MOVIES_ACTION-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1256_1.png" group-title="قنوات عربية",OSN SERIES PRIME
+http://46.105.112.116/?watch=OSN-EX/OSN_SERIES_FIRST-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://media.elcinema.com/tvguide/1213_1.png" group-title="قنوات عربية",OSN MOVIES PREMIERE
+http://46.105.112.116/?watch=OSN-EX/OSN_MOVIES-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="https://content.osn.com/bob/745x419/YAW.jpg" group-title="قنوات عربية",OSN ALYAWM
+http://46.105.112.116/?watch=OSN-EX/OSN_ALYAWM-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="http://content.osn.com/bob/224x126/SER-Alfa-Series-Channel.jpg?im=Resize=(521)" group-title="قنوات عربية",OSN MUSALSALAT
+http://46.105.112.116/?watch=OSN-EX/OSN_MUSALSALAT_1-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN CINEMA 1
+http://46.105.112.116/?watch=OSN-EX/OSN_CINEMA_1-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN CINEMA 2
+http://46.105.112.116/?watch=OSN-EX/OSN_Cinema_2-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=0&s=10&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN STAR MOVIES
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F20330.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN STAR WORLD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F20299.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MUSIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50299.ts
+
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART AFLAM 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101514.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART AFLAM 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101515.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1051.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART HIKAYAT 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101520.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART HIKAYAT 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102270.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN SYFY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1365.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN TLC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10309.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN LIVING HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1055.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MEZZE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1052.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN WWE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333609.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN FANN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102276.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN NICKELODEON
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779025.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN DISNEY CHANNEL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779029.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ALSAFWA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333589.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN NAT GEO WILD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10311.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ANIMAL PLANET
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1056.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN DISCOVERY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1054.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN HISTORY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101525.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN E!
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779024.ts
