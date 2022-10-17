@@ -1,3 +1,18 @@
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 3)
+http://45.92.69.146:35002/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV (Backup 3)
+http://45.92.69.146:35002/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International (Backup 3)
+http://45.92.69.146:35002/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 3)
+http://45.92.69.146:35002/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN (Backup 3)
+http://45.92.69.146:35002/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV (Backup 3)
+http://45.92.69.146:35002/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One (Backup 3)
+http://45.92.69.146:35002/play/a003/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="لبنانLEBANON",Al Manar SD
@@ -18,17 +33,3 @@ https://live2.alalam.ir/alalam.m3u8
 https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 3)
-http://45.92.69.146:35002/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV (Backup 3)
-http://45.92.69.146:35002/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International (Backup 3)
-http://45.92.69.146:35002/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 3)
-http://45.92.69.146:35002/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN (Backup 3)
-http://45.92.69.146:35002/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV (Backup 3)
-http://45.92.69.146:35002/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One (Backup 3)
-http://45.92.69.146:35002/play/a003/index.m3u8
