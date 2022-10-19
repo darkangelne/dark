@@ -5,23 +5,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Watan
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/logo.png" ,Nessma Ejdida
 http://217.182.137.206/nessma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" ,الحوار التونسي
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/25ZDrgh/elhiwar-tn.jpg" ,الحوار التونسي
 http://217.182.137.206/elhiwar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7LBNPH/9tv.jpg" ,التاسعة
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PBSIzhhzD1M&ab_channel=AttessiaTV
+http://46.105.112.116/?watch=TN/attasiatv-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvDvWSg/carthage.jpg" ,قرطاج+
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,تونسنا
-
+http://46.105.112.116/?watch=TN/carthageplus-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0XCtc4t/hannibaltv.jpg" ,حنبعل
-
+http://46.105.112.116/?watch=TN/hannibal-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kG3ZfYq/Telvza-tv.jpg" ,تلفزة
-
+http://46.105.112.116/?watch=TN/telvzatv-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3PkkP9/insan.jpg" ,الإنسان
-
+http://46.105.112.116/?watch=TN/insentv-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ss4qFcK/zitouna.jpg" ,الزيتونة
-
+http://46.105.112.116/?watch=TN/zaytounatv-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v1X8Vm8/janoubia.jpg" ,الجنوبية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png",Baya TV
