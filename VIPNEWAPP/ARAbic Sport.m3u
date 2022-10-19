@@ -23,22 +23,21 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass Five
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass Four
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/chunklist.m3u8
+http://46.105.112.116/?watch=EX/ALKASS_4_HD-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=4&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass One
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh1.smil/chunklist.m3u8
+http://46.105.112.116/?watch=TR/alkassonehd-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=1&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass Online
+http://46.105.112.116/?watch=EX/ALKASS_5_HD-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=4&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass Two
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png" group-title="رياضية SPORT",Al Kass three tv
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist.m3u8
+http://46.105.112.116/?watch=TR/alkasstwohd-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=1&p=1&c=TR&r=19&lb=1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="رياضية SPORT",ksa الرياضية 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg" group-title="رياضية SPORT",ksa الرياضية 2
 https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="رياضية SPORT",kuwait S.plus FHD
-https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
+http://149.100.10.203:4204/bysid/1104
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="رياضية SPORT",KTV Sport FHD
-https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
+http://149.100.10.203:4204/bysid/1103
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1508429798359670791/b1Yg7M4n_400x400.jpg" group-title="رياضية SPORT",1البحرين الرياضية
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
