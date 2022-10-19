@@ -1,5 +1,12 @@
 #EXTINF:-1 group-title="Iraq" tvg-id="N/A" tvg-logo="https://www.alsumaria.tv/images/fb-default.jpg" ,Al Sumaria
-https://www.elahmad.com/tv/m3u8/online_live_8_tv.m3u8?id=sumari
+http://46.105.112.116/?watch=TN/sumariahd-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=2&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Iraq" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Utv_logo.png/280px-Utv_logo.png" ,utviraqhd
+http://46.105.112.116/?watch=TR/utviraqhd-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=1&p=1&c=TR&r=19&lb=1
+
+#EXTINF:-1 group-title="Iraq" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Utv_logo.png/280px-Utv_logo.png" ,alrabiaairaq
+http://46.105.112.116/?watch=TR/alrabiaairaqhd-ar&token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659&t=1&s=1&p=1&c=TR&r=19&lb=1
+
 
 #EXTINF:-1 group-title="Iraq" tvg-id="N/A" tvg-logo="https://i.imgur.com/7UPGZZO.png" ,Al-Iraqiya
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
