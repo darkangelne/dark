@@ -1,0 +1,60 @@
+#EXTINF:1 tvg-logo="https://www.daserste.de/specials/ueber-uns/logo-das-erste-108~_v-facebook1200_d5fe7a.jpg",ARD Das Erste
+https://s.hdtvizlecanli.com/ard.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1200px-ZDF_HD_Logo.svg.png",ZDF
+https://s.hdtvizlecanli.com/zdf.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png",RTL
+https://s.hdtvizlecanli.com/rtl.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1200px-RTL_2_Logo.svg.png",RTL 2
+https://s.hdtvizlecanli.com/rtl2d.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/2560px-N-tv-Logo.svg.png",N-TV
+https://s.hdtvizlecanli.com/ntvgera.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/400px-VOX_Logo_2013.svg.png",VOX
+https://s.hdtvizlecanli.com/voxc.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png",SAT 1
+https://s.hdtvizlecanli.com/sat1.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/ProSieben_logo.svg",PRO 7
+https://s.hdtvizlecanli.com/pro7a.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png",KABEL 1
+https://s.hdtvizlecanli.com/kabel1a.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/1200px-ZDFneo2017_Logo.svg.png",ZDF NEO
+https://s.hdtvizlecanli.com/zdfneoger.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/RTL_Nitro_HD.svg/1280px-RTL_Nitro_HD.svg.png",RTL NITRO
+https://s.hdtvizlecanli.com/rtlnitroger.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tele_5_Logo_1992.svg/220px-Tele_5_Logo_1992.svg.png",TELE 5
+https://s.hdtvizlecanli.com/tele5ger2.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1024px-ProSieben_MAXX_Logo.svg.png",ProSieben Maxx
+https://s.hdtvizlecanli.com/prosiebenmaxx.m3u8
+#EXTINF:1 tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/03/super-rtl-1024x576.png",Super RTL
+https://s.hdtvizlecanli.com/superrtl2.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sixx.svg/1200px-Sixx.svg.png",SIXX
+https://s.hdtvizlecanli.com/sixxger.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX
+https://s.hdtvizlecanli.com/dmaxger.m3u8
+#EXTINF:1 tvg-logo="https://www.fernsehen-de.com/wp-content/uploads/2018/01/70.png",Kabel 1 Doku
+https://s.hdtvizlecanli.com/kabel1doku.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Disney_Channel_Germany_Logo_2014.png/800px-Disney_Channel_Germany_Logo_2014.png",Disney Channel
+https://s.hdtvizlecanli.com/disneyger2.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png",Comedy Central
+https://s.hdtvizlecanli.com/comedyc1.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/1200px-Logo_Welt_der_Wunder_neu.svg.png",Welt der Wunder
+https://s.hdtvizlecanli.com/welt.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream02/streamPlaylist.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png",BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG",HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-subs.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/1200px-NDR_Dachmarke.svg.png",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png",ARD ALPHA
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/1200px-Sat.1_Gold_HD_Logo_2019.svg.png",Sat.1 Gold
+https://stream.hdtvizlecanli.com/sgold.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
+https://s.hdtvizlecanli.com/tlc.m3u8
+
+
+
+Referer=https://www.livestreamde.com/&e=.m3u8
