@@ -18,17 +18,17 @@ https://live2.alalam.ir/alalam.m3u8
 https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="https://bit.ly/3x1yZ51" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist_slen.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yTIaac" group-title="لبنانLEBANON",ALJADEED TV HD 
 http://45.92.69.146:35002/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4wiSy" group-title="لبنانLEBANON",Future TV 
 http://45.92.69.146:35002/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NfGMDb" group-title="لبنانLEBANON",LBC International 
 http://45.92.69.146:35002/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD (Backup 3)
-http://45.92.69.146:35002/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Tn8JR" group-title="لبنانLEBANON",MTV Lebanon HD 
+https://1537084837.rsc.cdn77.org/1537084837/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t5ZNj7" group-title="لبنانLEBANON",NBN 
 http://45.92.69.146:35002/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV (Backup 3)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gfXkMN" group-title="لبنانLEBANON",OTV 
 http://45.92.69.146:35002/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One (Backup 3)
-http://45.92.69.146:35002/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wYbVnC" group-title="لبنانLEBANON",One 
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
