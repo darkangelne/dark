@@ -1,28 +1,120 @@
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi SD🏞️
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera 🏞️الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)
-http://95.216.180.111:1935/live/111/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman الوثائقية
-http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية (Backup 1)🏞️
+http://95.216.180.111:1935/live/111/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iBPMUk" group-title="الوثائقية documentary",Oman 🏞️الوثائقية
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="الوثائقية documentary",Kaifa TV🏞️
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://play-lh.googleusercontent.com/jAxhr4dxUw-qMlubrEWYkR6J6_ZBXmUMW58yb4UenG5_bs8F7s3wHPMWBMc5Mk3sv64K" group-title="الوثائقية documentary",ANIMAL PLANET
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="الوثائقية documentary",NAT GEO WILD HD
-http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="الوثائقية documentary",Love Nature 4K
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="الوثائقية documentary",Animaux
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="" group-title="الوثائقية documentary",INWILD🏞️
+http://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Relax🏞️
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="الوثائقية documentary",Animaux🏞️
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="الوثائقية documentary",NASA TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="الوثائقية documentary",NASA TV🏞️
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="الوثائقية documentary",Animaux
-https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09bef7eb-2ec0-11ec-9d20-0242ac110003
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021028.png" group-title="الوثائقية documentary", OUTDOOR CHANNEL
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318105023.jpg" group-title="الوثائقية documentary", DISTRO TV
-http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306933429.png" group-title="الوثائقية documentary", CGTN DOCUMENTARY
+#EXTINF:0 type="stream" channelId="-1" logo="https://bit.ly/3g76he0" group-title="الوثائقية documentary", Nature 4k🏞️
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/clarity_4K.png" group-title="الوثائقية documentary", Clarity 4k🏞️
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="الوثائقية documentary",Nasa TV🏞️
+https://piratesiptv.shortcm.li/nasa.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", DocuBox
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Inwild
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Nat Geo Wild
+http://iptvtree.net:8080/nika/ee07c53d/174724
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", NKH World Japan 2
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zooms/9/f09fba5310054c3c9a9d5f0a3589c7f1/2cb99x7.jpg" group-title="الوثائقية documentary", Smithsonian Channel (HD)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="localnow_Drone TV" group-title="الوثائقية documentary" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png", ➾ Drone TVᴴᴰ
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NASA TV Public" group-title="الوثائقية documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",🇺🇸 ➾ NASA TV ᴴᴰ
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASA TV Public" group-title="الوثائقية documentary" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",🇺🇸 ➾ NASA TV ² ᴴᴰ
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="TheBoatShow.us" group-title="الوثائقية documentary" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",🇺🇸 ➾ The Boat Showᴴᴰ [Pluto]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇪🇸 ➾ CGTN Espanhol
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",🇺🇸 ➾ CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://www.smithsonianchannel.com/svg/logo.svg",🇺🇸 ➾ Smithsonian Channel Asiaᴴᴰ
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Insight tvᴴᴰ [Pluto]
+https://insighttv-samsungau.amagi.tv/playlistE720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Introuble tvᴴᴰ [Pluto]
+https://introuble-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Inwonder tvᴴᴰ [Pluto]
+https://inwonder-samsungau.amagi.tv/playlist720.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ wonder tvᴴᴰ [Pluto]
+https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Real Storiesᴴᴰ [Pluto]
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="DistroTV_Documentary+" group-title="الوثائقية documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png",🇺🇸 ➾ Documentary+ [Distrotv]
+https://d2gplwl9ws0syl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6rg0sjciai0q-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/docurama.png",🇺🇸 ➾ Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_so_real_1.png",🇺🇸 ➾ So Real [localnow]
+https://soreal-localnow.cinedigm.com/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/GoUSA.png",🇺🇸 ➾ GoUSA TVᴴᴰ [Plex]
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/discoveryID.png",🇺🇸 ➾ IDiscoveryᴴᴰ
+http://173.225.246.25:8889/udp/239.203.20.28:4003
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/crimetime.png",🇺🇸 ➾ Crime Timeᴴᴰ [Pluto]
+https://i.mjh.nz/PlutoTV/62e93b8eb8e02600071f8b1d-alt.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://katapy.lawandcrime.com/img/favicons/apple-icon-114x114.png",🇺🇸 ➾ Law&Crime
+http://lawandcrime.samsung.wurl.com/manifest/ba22738f5210d46fa070549d33f64816.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/haunttv.png",🇺🇸 ➾ Haunt tv [Pluto]
+https://i.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://www.dangertv.com/themes/custom/dangertv/logo.png",🇺🇸 ➾ Danger tv [Pluto]
+https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8?ads.wurl_channel=161&ads.wurl_name=DangerTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png",🇺🇸 ➾ Courtv
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/07.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png",🇬🇧 ➾ TimeLineᴴᴰ
+https://timeline-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="localnow_True History" group-title="الوثائقية documentary" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/truehistory_logo_dark_v2.png",🇺🇸 ➾ True Historyᴴᴰ [Localnow]
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="DistroTV_True History"  group-title="الوثائقية documentary" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg",🇺🇸 ➾ True History [Distrotv]
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",🇺🇸 ➾ Love Natureᴴᴰ
+https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",🇫🇷 ➾ Nature Time [Pluto]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://bit.ly/wildplanett",🇺🇸 ➾ Wild Planetᴴᴰ [Plex]
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wildearth.png",🇺🇸 ➾ WildEarthᴴᴰ [Plex]
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" group-title="الوثائقية documentary" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",🇺🇸 ➾ Cute Zone [BumblebeeTV]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png",🇺🇸 ➾ Wildlife tvᴴᴰ
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/InsightTV.png",🇺🇸 ➾ Inwild tvᴴᴰ [Pluto]
+https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xplore.webp",🇺🇸 ➾ Xplore [Pluto]
+http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="http://tv.10dailythings.com/images/channels/US/local-now-discover-720p/normal.png",🇺🇸 ➾ Local Now Discoverᴴᴰ [Stirr]
+https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" group-title="الوثائقية documentary" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200008Q6_20230222T042941SQUARE.png_20230222042942.png",🇺🇸 ➾ Divorce Courtᴴᴰ [Bumblebeetv]
+https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",🇧🇷🇵🇹 ➾ Smithsonian Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="الوثائقية documentary" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png",🇧🇷🇵🇹 ➾ Documentário [Pluto]
+https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
