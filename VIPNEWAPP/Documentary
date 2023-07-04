@@ -1,9 +1,5 @@
 #EXTINF:-1,Travel Channel HD
 http://93.184.1.249:8080/Travel_Channel/index.m3u8
-#EXTINF:-1,CBC
-http://93.184.1.249:8080/CBC/index.m3u8
-#EXTINF:-1,Euronews
-http://93.184.1.249:8080/Euronews/index.m3u8
 #EXTINF:-1,Nat_Geo_Wild HD
 http://93.184.1.249:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1,Fox_Life HD
