@@ -21,6 +21,132 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 http://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الوثائقية documentary",Relax🏞️
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+------------------------------
+
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/0ZXGAWA.png",[$]TRAVELINGO TV
+http://84.22.33.254/unicast.travelingo/mpegts?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/gHeZ4B0.png",[$]SKY PLANET HD
+http://5.206.237.251:1288/SkyPlanet
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/1ESffGE.png",[$]SKY GEO HD
+http://5.206.237.251:1288/SkyShkenc
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/3qDI1KA.png",[$]SKY GALAXY HD
+http://5.206.237.251:1288/SkyHistori
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/5Q43Ewj.png",[$]RTV-ILIRIDA DOKUMENTAR HD
+http://144.76.100.109/rtviliridadokumentar/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/PqrjRHE.png",[$]LIVING HD
+http://@185.183.35.121:8080/LiviNGsfskf/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/ElJUP9Y.png",[$]WORLD
+http://@185.183.35.121:8080/TrINgWOrldskhdksah/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/2uOpspR.png",[$]PLANET
+http://@demo.flixal.xyz:80/flixal/flix4k/120
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/LopKsjd.png",[$]HISTORY
+http://@demo.flixal.xyz:80/flixal/flix4k/121
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/2zh5G8Y.png",[$]BEAUTIFUL PLANET HD
+https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/1ICRBMw.png",[$]DISCOVERY ID
+https://youzontv-app.tk/discovery%2B/Investigation_Discovery.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/3T7MHPM.png",[$]DISCOVERY HD
+https://youzontv-app.tk/discovery%2B/Discovery_Channel.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/pL9okVm.png",[$]ANIMAL PLANET HD
+https://youzontv-app.tk/discovery%2B/Animal_Planet.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/99eauzj.png",[$]HGTV HD
+https://youzontv-app.tk/discovery%2B/HGTV.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/JBVQANi.png",[$]TRAVEL CHANNEL HD
+https://youzontv-app.tk/discovery%2B/TRVL_Channel.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/mmPWpzV.png",[$]DMAX HD
+https://youzontv-app.tk/discovery%2B/DMAX.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/y6VqB68.png",[$]CBS REALITY HD
+http://84.22.33.254/unicast.cbsreality/mpegts?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/lcKL2FJ.png",[$]ANIMAL PLANET
+http://204.12.247.162:8080/premium304/mono.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/PHA5Chw.png",[$]AUTO-TV 
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/ASBlH8A.png",[$]FBI CRIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/3T7MHPM.png",[$]DISCOVERY HD
+http://185.6.22.6:8000/play/a02x
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/3T7MHPM.png",[$]DISCOVERY
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/3T7MHPM.png",[$]DISCOVERY test
+http://88.216.83.245/discovery/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/Og3D75Z.png",[$]DISCOVERY SCIENCE HD
+http://185.6.22.6:8000/play/a02y
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/Og3D75Z.png",[$]DISCOVERY SCIENCE
+http://81.177.136.209:8004/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/lJsyNS9.png",[$]DISCOVERY ID HD
+http://185.6.22.6:8000/play/a033
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/pL9okVm.png",[$]ANIMAL PLANET HD
+http://185.6.22.6:8000/play/a02u
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/99eauzj.png",[$]HGTV HD
+http://185.6.22.6:8000/play/a031
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/SdH85tR.png",[$]TLC HD
+http://185.6.22.6:8000/play/a034
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/Vv7cEAo.png",[$]VIASAT EXPLORE HD
+http://185.6.22.6:8000/play/a03c
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/XTfqAKb.png",[$]VIASAT HISTORY HD
+http://185.6.22.6:8000/play/a03b
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/pQBENDL.png",[$]VIASAT NATURE HD
+http://185.6.22.6:8000/play/a03d
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/JBVQANi.png",[$]TRAVEL CHANNEL
+http://84.22.33.254/travel.channel/video.m3u8?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/MPFOcrm.png",[$]HISTORY HD
+http://84.22.33.254/unicast.historychannel/mpegts?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/biqB651.png",[$]HISTORY 2HD
+http://173.225.246.25:8889/udp/239.203.20.24:4003
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/6qdyGyg.png",[$]WILD EARTH HD
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/wm0qQpV.png",[$]IN WILD HD
+https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/yf8K6yt.png",[$]FOOD NETWORK
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4891/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/VqFoOEc.png",[$]HG-TV
+https://mpdplayer.izqhjzepxsrvrwl.sbs/4898/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/grAU8Eq.png",[$]NAT GEO
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/grAU8Eq.png",[$]NAT GEO HD
+http://173.225.246.25:8889/udp/239.203.20.27:4003
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/sDnlK6Y.png",[$]NAT GEO WILD HD
+http://173.225.246.25:8889/udp/239.203.20.28:4003
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/ErMKag0.png",[$]URBAN TRAVEL
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/a1W4xwM.png",[$]Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/a4dcmQa.png",[$]Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/go4AAdb.png",[$]XPLORE HD
+https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/Zr3F1MA.png",[$]TRAVEL-XP HD
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/QEs1n1T.png",[$]LOVE NATURE 1HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/Gtlw7tn.png",[$]SOCHI HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.ibb.co/WzLGvwR/TV.png",[$]SILENCE TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/NwuIhbv.png",[$]FAST&FUN BOX HD
+http://84.22.33.254/unicast.fastnfunbox/mpegts?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/NwuIhbv.png",[$]FAST&FUN BOX 
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/2p0M0YP.png",[$]DOCU BOX HD
+https://178.253.194.105/docubox/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/kZajsTZ.png",[$]OUTDOOR CHANNEL HD
+http://84.22.33.254/unicast.outdoorchannel/mpegts?token=tv
+#EXTINF:0 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/pebQ7v6.png",[$]FASHION BOX
+http://84.22.33.254/unicast.fashionbox/mpegts?token=tv
+#EXTINF:-1 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/1vyFIIM.png",[$]PEACE TV 
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/sLdXk6u.png",[$]NASA TV HD
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/w4wEOYm.png",[$]DOCURAMA HD
+https://docurama-tcl.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/GBESw67.png",[$]CGTN DOCUMENTARY
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8 
+#EXTINF:-1 group-title="[🇦🇱🏛️]KULTURE" tvg-logo="https://i.imgur.com/l0z5fsg.png",[$]SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8 
+-----------------
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vZOXft" group-title="الوثائقية documentary",Animaux🏞️
 https://stitcher.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8cedcb05-c40d-11ec-9e8c-0242ac110003
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://go.nasa.gov/3qa9N9B" group-title="الوثائقية documentary",NASA TV🏞️
