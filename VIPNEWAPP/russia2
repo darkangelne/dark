@@ -1,672 +1,131 @@
-#EXTINF:0 tvg-id="Premiumgroup  Premiere HD"  tvg-logo="http://tv.team/images/chIcons/1272.png"  timeshift="3", Premiumgroup  Premiere HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1272/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqiFRXK0sSmmvRwiUzR6JvGSTlD5DEx-249mD4Wrd3E5
-#EXTINF:0 tvg-id="Premiumgroup Premium HD"  tvg-logo="http://tv.team/images/chIcons/128.png"  timeshift="4", Premiumgroup Premium HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch128/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr9sxSgLFBYs7Q9DRUjlR_51wBYqwMazTeeIzslzIEDw
-#EXTINF:0 tvg-id="Premiumgroup  Thriller HD"  tvg-logo="http://tv.team/images/chIcons/1187.png"  timeshift="3", Premiumgroup  Thriller HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1187/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtYLYzXz0gPSMxmZyqnC_LVJpPD2AfkVMFMTGUwFXXZz
-#EXTINF:0 tvg-id="Premiumgroup  Paradox HD"  tvg-logo="http://tv.team/images/chIcons/1179.png"  timeshift="3", Premiumgroup  Paradox HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1179/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqksbNymu_nQlwdtfr5Q6UTqts5XdXifY2VelfXqIqNDs
-#EXTINF:0 tvg-id="Premiumgroup  РуКино HD"  tvg-logo="http://tv.team/images/chIcons/1196.png"  timeshift="3", Premiumgroup  РуКино HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1196/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnVXalqT0TkyQSgQiNWr4Y3bcU3ycCdLalMh14DIrEcK
-#EXTINF:0 tvg-id="Premiumgroup  Paradise HD"  tvg-logo="http://tv.team/images/chIcons/451.png"  timeshift="3", Premiumgroup  Paradise HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch451/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgxvebbwAol7Owx06UrWCCMi0hMDWmkBVOgaABteV0F7
-#EXTINF:0 tvg-id="Premiumgroup  Victory HD"  tvg-logo="http://tv.team/images/chIcons/1166.png"  timeshift="3", Premiumgroup  Victory HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1166/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnFJHjXq8hgUmik95QdtG5ARWQ9prd6Sf4-i7HwHERmu
-#EXTINF:0 tvg-id="Premiumgroup  Serial HD"  tvg-logo="http://tv.team/images/chIcons/1180.png"  timeshift="3", Premiumgroup  Serial HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1180/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqpho0yYn84ofxPWdbw1PSOZLCrm0w5G-jrODL7mRY3I3
-#EXTINF:0 tvg-id="Premiumgroup  USSR HD"  tvg-logo="http://tv.team/images/chIcons/1042.png"  timeshift="3", Premiumgroup  USSR HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1042/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgqTo3RrAsPLfeXBME6xHpIEbpgcfHoPP-9Nk1gApTM3
-#EXTINF:0 tvg-id="Premiumgroup  VHS HD"  tvg-logo="http://tv.team/images/chIcons/496.png"  timeshift="3", Premiumgroup  VHS HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch496/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsxhdCY67bx1snGwbQY4ca5EmpLB-UzNzKejM2NWMjcg
-#EXTINF:0 tvg-id="Premiumgroup Insomnia HD"  tvg-logo="http://tv.team/images/chIcons/416.png"  timeshift="4", Premiumgroup Insomnia HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch416/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsrLagYS5Fg1CKIvML3Nw542dw-qAyGFq4bDV1lfqeQw
-#EXTINF:0 tvg-id="BCU Action HD"  tvg-logo="http://tv.team/images/chIcons/769.png"  timeshift="3", BCU Action HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch769/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpRhWrkkXT-Ou67dfF1pr3Gj1uyBRbw9mqZ4lORkzfqo
-#EXTINF:0 tvg-id="BCU Catastrophe HD"  tvg-logo="http://tv.team/images/chIcons/770.png"  timeshift="3", BCU Catastrophe HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch770/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EquHV8fF7nXFgKVeYmDN_TZdecfTEUHvKa03sJrRM27Lw
-#EXTINF:0 tvg-id="BCU Cinema HD"  tvg-logo="http://tv.team/images/chIcons/771.png"  timeshift="3", BCU Cinema HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch771/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlZ2ke86ex72EHFAdGbnR7bdy1pGVOYZixXlT5-8-bOE
-#EXTINF:0 tvg-id="BCU Cinema+ HD"  tvg-logo="http://tv.team/images/chIcons/834.png"  timeshift="3", BCU Cinema+ HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch834/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqoWhwxUtUGIwRiRahcrU5fv7ct6OYHoptJxOJGgzgUPy
-#EXTINF:0 tvg-id="BCU Comedy HD"  tvg-logo="http://tv.team/images/chIcons/772.png"  timeshift="3", BCU Comedy HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch772/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmBqziSkPJopW_1EVgvn5GrxrmqtROeRR2ywVBPYF3_a
-#EXTINF:0 tvg-id="BCU Comedy OLD"  tvg-logo="http://tv.team/images/chIcons/1000.png"  timeshift="0", BCU Comedy OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1000/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqo65bdBFRLOtidB_6dG6GuUXI80MQLqRkrvcl9nbY-2-
-#EXTINF:0 tvg-id="BCU Fantastic HD"  tvg-logo="http://tv.team/images/chIcons/773.png"  timeshift="3", BCU Fantastic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch773/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmlD8g7k2eoC0mgjaaybf4FwDdUNXgizeQ0TMaY5GRw5
-#EXTINF:0 tvg-id="BCU Filmystic HD"  tvg-logo="http://tv.team/images/chIcons/774.png"  timeshift="3", BCU Filmystic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch774/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqufW1gTfBOKAY0qu1VA6Wf_ysEB6-m8EtJbm_8kxSOxj
-#EXTINF:0 tvg-id="BCU Kinorating HD"  tvg-logo="http://tv.team/images/chIcons/776.png"  timeshift="3", BCU Kinorating HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch776/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqja94WR_o9XKdR0axDebyf2XGGrV7lV5jE1SGmVpGXkl
-#EXTINF:0 tvg-id="BCU Marvel HD"  tvg-logo="http://tv.team/images/chIcons/777.png"  timeshift="3", BCU Marvel HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch777/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equ4i0qXTVBXvtVTevXPtQ1sXtPpWjBgeM_08llFF8kxD
-#EXTINF:0 tvg-id="BCU Marvel OLD"  tvg-logo="http://tv.team/images/chIcons/311.png"  timeshift="0", BCU Marvel OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch311/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqi5OZzoF4CL-sLQ0_iZBwoDLnQKpaNvigObTsX73eEcz
-#EXTINF:0 tvg-id="BCU Premiere HD"  tvg-logo="http://tv.team/images/chIcons/778.png"  timeshift="3", BCU Premiere HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch778/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqicvDajGM-TlK6ucUq16CfBkBU7BvobA24fQjYf3EP18
-#EXTINF:0 tvg-id="BCU Stars HD"  tvg-logo="http://tv.team/images/chIcons/835.png"  timeshift="3", BCU Stars HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch835/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqg_5x5-L0ZtzIGvHK6Y9YhG6FT5zMPCe620In4lICWuk
-#EXTINF:0 tvg-id="BCU Reality HD"  tvg-logo="http://tv.team/images/chIcons/785.png"  timeshift="3", BCU Reality HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch785/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgjdJgfGfRyXzdWeU2p-D1iW2pHGxdZa2WCWoTZyZsnL
-#EXTINF:0 tvg-id="BCU Кинозал Premiere 1 HD"  tvg-logo="http://tv.team/images/chIcons/782.png"  timeshift="3", BCU Кинозал Premiere 1 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch782/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtFmaUgeKdVppKGwWg1PnX8nO2-ky_2rptpCDnkPdjbv
-#EXTINF:0 tvg-id="BCU Кинозал Premiere 2 HD"  tvg-logo="http://tv.team/images/chIcons/783.png"  timeshift="3", BCU Кинозал Premiere 2 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch783/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnAhrXygxGfNoeGfbD6IYKM7-ketjrexoL11CbVNomOy
-#EXTINF:0 tvg-id="BCU Кинозал Premiere 3 HD"  tvg-logo="http://tv.team/images/chIcons/784.png"  timeshift="3", BCU Кинозал Premiere 3 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch784/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqoGq-ZTGqoN-NqOkOK5pdcEkiAqFT5V5vJyUUooyP539
-#EXTINF:0 tvg-id="BCU Romantic HD"  tvg-logo="http://tv.team/images/chIcons/779.png"  timeshift="3", BCU Romantic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch779/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr-Dsc7EC-3_8S-2v5km25uV9hrj1QAw3PUwqubCyEw0
-#EXTINF:0 tvg-id="BCU Romantic OLD"  tvg-logo="http://tv.team/images/chIcons/1545.png"  timeshift="0", BCU Romantic OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1545/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqmXFxCgEaAaxq2288mkQ5jJlbYNz5QWegHSL1ECC5JC
-#EXTINF:0 tvg-id="BCU History HD"  tvg-logo="http://tv.team/images/chIcons/775.png"  timeshift="3", BCU History HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch775/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtJs5aVX4V2Qdcsce4TMdKRyFx5b5M6TVtS7VWdEjzep
-#EXTINF:0 tvg-id="BCU Russian HD"  tvg-logo="http://tv.team/images/chIcons/780.png"  timeshift="3", BCU Russian HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch780/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqE4tASTr-OtvAu-EVmo1SYbg08SrLT-hzNCQ_PGC13h
-#EXTINF:0 tvg-id="BCU VHS HD"  tvg-logo="http://tv.team/images/chIcons/781.png"  timeshift="3", BCU VHS HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch781/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmTDhPloEEf90yE4WToORU98l32b8xZamDc0hek6QpXS
-#EXTINF:0 tvg-id="BCU RUSerial HD"  tvg-logo="http://tv.team/images/chIcons/788.png"  timeshift="3", BCU RUSerial HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch788/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmCMpsZL8-Y8E3NS_SEnGK2Vw3PYAfJlbLlVfr4-wj7G
-#EXTINF:0 tvg-id="BCU СССР HD"  tvg-logo="http://tv.team/images/chIcons/789.png"  timeshift="3", BCU СССР HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch789/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqi0MSpF_lMyJipD8dFPb-06oCPNABX1-ZE9wKnu0P_mT
-#EXTINF:0 tvg-id="BCU Media HD"  tvg-logo="http://tv.team/images/chIcons/790.png"  timeshift="3", BCU Media HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch790/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqiik24CuvmXVbECa4KyBcx2RVC_dgtSTWd6B-iR60WFn
-#EXTINF:0 tvg-id="BCU Media OLD"  tvg-logo="http://tv.team/images/chIcons/590.png"  timeshift="0", BCU Media OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch590/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqL4z0LpgfLbxRNR7G9gY0uZUO-1jQ5WMwOiWYpAQb1K
-#EXTINF:0 tvg-id="BCU Cosmo HD"  tvg-logo="http://tv.team/images/chIcons/1026.png"  timeshift="3", BCU Cosmo HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1026/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqg_OuHFu4mAorYJ2vREAEFacvXxqpqNW2PG-ZD3liYrh
-#EXTINF:0 tvg-id="BCU Cosma OLD"  tvg-logo="http://tv.team/images/chIcons/1003.png"  timeshift="0", BCU Cosma OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1003/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqjj6VV80fnkM8e6QclEHgUFRY9MKCKYdQnbKkPa8H-Kn
-#EXTINF:0 tvg-id="BCU TruMotion HD"  tvg-logo="http://tv.team/images/chIcons/1429.png"  timeshift="3", BCU TruMotion HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1429/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkoN2CUSbfnMsgXaoo6TaIzzucm2vMWoSpoFGW4sDHz1
-#EXTINF:0 tvg-id="BCU Сваты HD"  tvg-logo="http://tv.team/images/chIcons/145.png"  timeshift="4", BCU Сваты HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch145/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgRL6m-eB0OVFmSqfz0fayJduXYlsvRiZPhClUTfc7l9
-#EXTINF:0 tvg-id="BCU Criminal HD"  tvg-logo="http://tv.team/images/chIcons/827.png"  timeshift="3", BCU Criminal HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch827/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhR4tlyHfn__LkNRH2TDw5yse8Kz6hHjwN2mXNoYcEw0
-#EXTINF:0 tvg-id="BCU Survival HD"  tvg-logo="http://tv.team/images/chIcons/1444.png"  timeshift="3", BCU Survival HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1444/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpoMwca1aYyq0SD6jPrg2rWRnFeWXMYbgKxvel8N4ZM9
-#EXTINF:0 tvg-id="BCU Survival OLD"  tvg-logo="http://tv.team/images/chIcons/1445.png"  timeshift="3", BCU Survival OLD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1445/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpVRb6pd_eUKfAExT20n44WWRgtgh0tnG0ny3Ot_tn6T
-#EXTINF:0 tvg-id="Киноджем 1 HD"  tvg-logo="http://tv.team/images/chIcons/542.png"  timeshift="4", Киноджем 1 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch542/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhbTzhvjwG3RebfRXJyb780BmCn9m1VFcSLTp0fjT2mE
-#EXTINF:0 tvg-id="Киноджем 2 HD"  tvg-logo="http://tv.team/images/chIcons/521.png"  timeshift="3", Киноджем 2 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch521/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpwLrP2-NbYcjijaNreF5v15T_JJp2UfAhlR1SXz-Uy_
-#EXTINF:0 tvg-id="KBC-B.O.B"  tvg-logo="http://tv.team/images/chIcons/1004.png"  timeshift="3", KBC-B.O.B
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1004/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqpyj6ZO60dU0I00npr6my-DBCV8t4o89ZujMGDgOASog
-#EXTINF:0 tvg-id="KBC-Comics"  tvg-logo="http://tv.team/images/chIcons/1005.png"  timeshift="3", KBC-Comics
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1005/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqihZcfWMGoe8NvK8OShy60z-AIUH1w3z9P88h5C42enz
-#EXTINF:0 tvg-id="KBC-Elite comedys"  tvg-logo="http://tv.team/images/chIcons/1006.png"  timeshift="3", KBC-Elite comedys
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1006/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqomuhmkXrDvevN7K69s1PpTEkh8vL0Cf6_JoEq757XIM
-#EXTINF:0 tvg-id="KBC-Family Animation"  tvg-logo="http://tv.team/images/chIcons/1007.png"  timeshift="3", KBC-Family Animation
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1007/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqDLJE709fPZICjbpHQTtO_5GSNQcaxJk9KP-n6G5PkE
-#EXTINF:0 tvg-id="KBC-Fantastic"  tvg-logo="http://tv.team/images/chIcons/1008.png"  timeshift="3", KBC-Fantastic
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1008/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkKA2IGHdLJFFKAtdPTgKe71zCq4F_V_GufDMiFombuG
-#EXTINF:0 tvg-id="KBC-History"  tvg-logo="http://tv.team/images/chIcons/1009.png"  timeshift="3", KBC-History
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1009/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqoene7cePlRYw7KW-SKDriyPD4eJ-tABM9ty33YiaeW3
-#EXTINF:0 tvg-id="KBC-Light сериал RU"  tvg-logo="http://tv.team/images/chIcons/1010.png"  timeshift="3", KBC-Light сериал RU
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1010/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgUEXVrFNexba24XKpOg_O-SA1AKEka4SPKhlMf5wdNW
-#EXTINF:0 tvg-id="KBC-Newfilm"  tvg-logo="http://tv.team/images/chIcons/1011.png"  timeshift="3", KBC-Newfilm
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1011/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqmFdh-Z1XZYJEdoPHHYuDdIIMmFCq30zbctgyi7tJN6
-#EXTINF:0 tvg-id="KBC-Premium"  tvg-logo="http://tv.team/images/chIcons/1012.png"  timeshift="3", KBC-Premium
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1012/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhK324bDpPA02DL47oK3XVXvy1pLFQKpqI9RJ4l1NTU6
-#EXTINF:0 tvg-id="KBC-Russian Комедия"  tvg-logo="http://tv.team/images/chIcons/1013.png"  timeshift="3", KBC-Russian Комедия
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1013/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqifPRe_hXHqhI52piviZZs9cRr8Qz24rrghkmEkwxmMz
-#EXTINF:0 tvg-id="KBC-Second HIT"  tvg-logo="http://tv.team/images/chIcons/1014.png"  timeshift="3", KBC-Second HIT
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1014/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmicJhmb5Kp3WfDJZZ507lWHg5qvHPp891ZgTc0EavWZ
-#EXTINF:0 tvg-id="KBC-Легендарное"  tvg-logo="http://tv.team/images/chIcons/1015.png"  timeshift="3", KBC-Легендарное
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1015/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlB_70-vl3zTmukLbqlmW90m6RUG5n0kBzZKSUQsAP8C
-#EXTINF:0 tvg-id="KBC-Видак"  tvg-logo="http://tv.team/images/chIcons/1016.png"  timeshift="3", KBC-Видак
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1016/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhXHx77NtRhtJ2gt_jZhCF7k1EOPLklX90QhrEzFRH_K
-#EXTINF:0 tvg-id="KBC-Гай Ritchie and Tarantino"  tvg-logo="http://tv.team/images/chIcons/1017.png"  timeshift="3", KBC-Гай Ritchie and Tarantino
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1017/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqqlV3lT8PnvvEMHNwfOjwBimTKUt_37jQ272ACOWhzy
-#EXTINF:0 tvg-id="KBC-Dramatic"  tvg-logo="http://tv.team/images/chIcons/1018.png"  timeshift="3", KBC-Dramatic
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1018/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqgya_xHltzyWdoymHPlJOUBsgFgYufgTiOgsWAlp_6ju
-#EXTINF:0 tvg-id="KBC-Кинотеатр"  tvg-logo="http://tv.team/images/chIcons/1019.png"  timeshift="3", KBC-Кинотеатр
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1019/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgUyb6iYAXVcN_TY6_jetn_j5qqEw4TfElICjWbrnaUM
-#EXTINF:0 tvg-id="KBC-Кошмарное"  tvg-logo="http://tv.team/images/chIcons/1020.png"  timeshift="3", KBC-Кошмарное
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1020/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqitQASEXK8kXXC1bVylZ-BZPr8iY5w8Wnc09XUpdMEgL
-#EXTINF:0 tvg-id="KBC-Наш Rock"  tvg-logo="http://tv.team/images/chIcons/1021.png"  timeshift="3", KBC-Наш Rock
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1021/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrNPszQuqL9Z7h_ho0Fx_pBaC_zPV_qWCYfeyz-tIU0U
-#EXTINF:0 tvg-id="KBC-Страна СССР"  tvg-logo="http://tv.team/images/chIcons/1023.png"  timeshift="3", KBC-Страна СССР
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1023/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmZhy-7UmEMrA838mfe7z3pXo8hP8SLsVaAZY1OrvLbj
-#EXTINF:0 tvg-id="KBC-Криминальный Serial"  tvg-logo="http://tv.team/images/chIcons/1024.png"  timeshift="3", KBC-Криминальный Serial
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1024/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlXxKg8uzvV-yJVjmX1n9LPW1I0to5bZ4b_iH8zPViMs
-#EXTINF:0 tvg-id="KBC-Шпионское"  tvg-logo="http://tv.team/images/chIcons/1025.png"  timeshift="3", KBC-Шпионское
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1025/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqnk6lvHWoZC2su-7UnqFvDvBGUVEJ5vuYRendI83mByB
-#EXTINF:0 tvg-id="CineMan"  tvg-logo="http://tv.team/images/chIcons/1030.png"  timeshift="3", CineMan
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1030/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpO04LgoNVyNtww6DxmVpqcKUT6sJj8BLffuqDYf6JUR
-#EXTINF:0 tvg-id="CineMan Top"  tvg-logo="http://tv.team/images/chIcons/1031.png"  timeshift="3", CineMan Top
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1031/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqm8-8SFapp7Qxuyxh-vADjFQC-pH49SNX2FrBHGViq6Q
-#EXTINF:0 tvg-id="CineMan Action"  tvg-logo="http://tv.team/images/chIcons/1032.png"  timeshift="3", CineMan Action
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1032/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqjWUb1lbIcxkuSawCHzwN8Lvu0UrFLpqUg1xLv7cyN2r
-#EXTINF:0 tvg-id="CineMan Thriller"  tvg-logo="http://tv.team/images/chIcons/1033.png"  timeshift="3", CineMan Thriller
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1033/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqp76_hzvFF0RtRbtgWkpOGFKfHejNoYfAlI3V63Tnwr9
-#EXTINF:0 tvg-id="CineMan Катастрофы"  tvg-logo="http://tv.team/images/chIcons/1074.png"  timeshift="3", CineMan Катастрофы
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1074/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhsC71QGVxYni3rOPcP6hKe6k1AnStXPB5mNZEaicu6z
-#EXTINF:0 tvg-id="CineMan Melodrama"  tvg-logo="http://tv.team/images/chIcons/1034.png"  timeshift="3", CineMan Melodrama
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1034/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqinqMajwuC2I05GKBtINW92fYagR0ENzTMVh3Hvg95rg
-#EXTINF:0 tvg-id="CineMan Marvel"  tvg-logo="http://tv.team/images/chIcons/1035.png"  timeshift="3", CineMan Marvel
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1035/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkGeNU_8Jr-clRpvXs_SExuknHEtOBGMC1b9a7zzikOs
-#EXTINF:0 tvg-id="CineMan Ужасы"  tvg-logo="http://tv.team/images/chIcons/1036.png"  timeshift="3", CineMan Ужасы
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1036/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqli_erKfikziRD-XxqVz8-Yn84RnSVokgNaTl2jB9vLr
-#EXTINF:0 tvg-id="CineMan Комедия"  tvg-logo="http://tv.team/images/chIcons/1037.png"  timeshift="3", CineMan Комедия
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1037/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgMxM32YF12RRGnA_cnTStmeMHC1pdQqP5rTYwYHXqqt
-#EXTINF:0 tvg-id="CineMan VHS"  tvg-logo="http://tv.team/images/chIcons/1038.png"  timeshift="3", CineMan VHS
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1038/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhxKtkuovgqTseVVj5ax37lUKfaayBynIsvgH2iIpxzw
-#EXTINF:0 tvg-id="CineMan РуКино"  tvg-logo="http://tv.team/images/chIcons/1039.png"  timeshift="3", CineMan РуКино
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1039/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmmACZMBRTVJYYBqLAjqV_dm4-i8xDxkjTsAPmDspjFd
-#EXTINF:0 tvg-id="CineMan Сваты"  tvg-logo="http://tv.team/images/chIcons/1040.png"  timeshift="3", CineMan Сваты
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1040/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkYmjnzI2SXLqMW8EkluF5IQAUjkrCy6QApHDVncRolJ
-#EXTINF:0 tvg-id="CineMan Ментовские войны"  tvg-logo="http://tv.team/images/chIcons/1325.png"  timeshift="0", CineMan Ментовские войны
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1325/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqKu4mtqsC7q5KF1KRawOyfYa9qo5ViIQzznClLTEcG4
-#EXTINF:0 tvg-id="CineMan ПёС"  tvg-logo="http://tv.team/images/chIcons/1326.png"  timeshift="0", CineMan ПёС
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1326/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlWdrs4C8UCuy7lm0q_QhgaXssu5vRlME3zT9soiXyJX
-#EXTINF:0 tvg-id="CineMan Лесник"  tvg-logo="http://tv.team/images/chIcons/1327.png"  timeshift="0", CineMan Лесник
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1327/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr9MSFC7KKq_iHvNzWtZXenaOM1lmfPTb2fHvuxj7p-g
-#EXTINF:0 tvg-id="CineMan Скорая помощь"  tvg-logo="http://tv.team/images/chIcons/1622.png"  timeshift="0", CineMan Скорая помощь
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1622/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqoUMO_FfE8JMv_VJwB8p_2z3Ba9QryBRnvvdQuKtLKIL
-#EXTINF:0 tvg-id="Minimax Newfilm HD"  tvg-logo="http://tv.team/images/chIcons/1219.png"  timeshift="3", Minimax Newfilm HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1219/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtN8qxtXgV6fhVknn1In8cn8iOEOYS7ZgsTFjphNMPAd
-#EXTINF:0 tvg-id="Minimax Newfilm 1 HD"  tvg-logo="http://tv.team/images/chIcons/1216.png"  timeshift="3", Minimax Newfilm 1 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1216/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqior-pZ0NLtjKtyke5yv-a9XvENIQEleKkm61-NS1-un
-#EXTINF:0 tvg-id="Minimax Newfilm 2 HD"  tvg-logo="http://tv.team/images/chIcons/1217.png"  timeshift="3", Minimax Newfilm 2 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1217/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqiT7SgG0SLobvLqspzmbgKQy2AyiCCE3I2wmT2RjrnFI
-#EXTINF:0 tvg-id="Minimax Newfilm 3 HD"  tvg-logo="http://tv.team/images/chIcons/1218.png"  timeshift="3", Minimax Newfilm 3 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1218/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhCsktvQdx1iALs8TuhYhi3-ejxl8lQUcf836HrQR8Ro
-#EXTINF:0 tvg-id="Minimax Love HD"  tvg-logo="http://tv.team/images/chIcons/1215.png"  timeshift="3", Minimax Love HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1215/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvLjwFfUwQsLfSFhHx-YYQ-C07ApieLS4JwqDXTLyI50
-#EXTINF:0 tvg-id="Minimax Ufo HD"  tvg-logo="http://tv.team/images/chIcons/1222.png"  timeshift="3", Minimax Ufo HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1222/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqs13zDIOP3NwXChlIVS2eNZQTE3fNGG1P5D6sptbF2UK
-#EXTINF:0 tvg-id="Minimax 007 HD"  tvg-logo="http://tv.team/images/chIcons/1214.png"  timeshift="3", Minimax 007 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1214/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqpt0eYIONa5p2TI8Eow2HdQ5Zb3Czb470VanwkLOnKet
-#EXTINF:0 tvg-id="Minimax Агата Кристи HD"  tvg-logo="http://tv.team/images/chIcons/1229.png"  timeshift="3", Minimax Агата Кристи HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1229/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmfI-LKDOFIxVWShv0m_3Z4P6fVzL9jzNfxjLM_29x4y
-#EXTINF:0 tvg-id="Minimax Боевик Classic HD"  tvg-logo="http://tv.team/images/chIcons/1232.png"  timeshift="3", Minimax Боевик Classic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1232/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvIluFQvMahNYMZIViXhqBF3jbDsqaqh-L3qYA9kDzY5
-#EXTINF:0 tvg-id="Minimax Боевик HD"  tvg-logo="http://tv.team/images/chIcons/1233.png"  timeshift="3", Minimax Боевик HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1233/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvN1k4aWUR4B2vj90u6uH7BF3R7jE3dw_OK-kf__ID2W
-#EXTINF:0 tvg-id="Minimax Вестерн HD"  tvg-logo="http://tv.team/images/chIcons/1234.png"  timeshift="3", Minimax Вестерн HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1234/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnNV1udga7fk-JOfeTrhywCuQ7pcK082LWCNPtqHfNjY
-#EXTINF:0 tvg-id="Minimax  Затмение HD"  tvg-logo="http://tv.team/images/chIcons/1237.png"  timeshift="3", Minimax  Затмение HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1237/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkNg7O9h1uceXyplw5CQjmy_eD_ZAAMDXeNSWFFwTWMg
-#EXTINF:0 tvg-id="Minimax История HD"  tvg-logo="http://tv.team/images/chIcons/1238.png"  timeshift="3", Minimax История HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1238/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtHCsbnGDcvj6LO1RpkiE6WaxJp7epaCJm1kQcbyf6Ht
-#EXTINF:0 tvg-id="Minimax Катастрофа HD"  tvg-logo="http://tv.team/images/chIcons/1239.png"  timeshift="3", Minimax Катастрофа HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1239/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlYp1o1SdgDz3trOj9OWQQOee8yl2GZdgYNIDqkACUM3
-#EXTINF:0 tvg-id="Minimax Киберпанк HD"  tvg-logo="http://tv.team/images/chIcons/1241.png"  timeshift="3", Minimax Киберпанк HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1241/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqslT4NoGILonM_1pxpvmmoWcOv56903AUmP3fBCcwdKC
-#EXTINF:0 tvg-id="Minimax Комедия Classic HD"  tvg-logo="http://tv.team/images/chIcons/1242.png"  timeshift="3", Minimax Комедия Classic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1242/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhrT0evbppAEcqLb4NbbnxJu0nMLA86PczTziB2yblsu
-#EXTINF:0 tvg-id="Minimax Комедия HD"  tvg-logo="http://tv.team/images/chIcons/1243.png"  timeshift="3", Minimax Комедия HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1243/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnmjNFdRruDwKEimPup3r3B_DmuHxpLD_xqQ53XeMcr3
-#EXTINF:0 tvg-id="Minimax Криминал HD"  tvg-logo="http://tv.team/images/chIcons/1244.png"  timeshift="3", Minimax Криминал HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1244/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhegYvdIE5PkaCNMrrGwpFjhx2gqg45wShpTk0ileiPJ
-#EXTINF:0 tvg-id="Minimax Крутые 90е HD"  tvg-logo="http://tv.team/images/chIcons/1245.png"  timeshift="3", Minimax Крутые 90е HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1245/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpetQOUbXtu3XjgEexpxzydaHUOaKQfOp66bdVhSK5-x
-#EXTINF:0 tvg-id="Minimax Кунг-Фу HD"  tvg-logo="http://tv.team/images/chIcons/1246.png"  timeshift="3", Minimax Кунг-Фу HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1246/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnD1ZCGBRspkEFXJBTx8MzsgBXiaDaOz6ZLL5TR7o85Z
-#EXTINF:0 tvg-id="Minimax Мифология HD"  tvg-logo="http://tv.team/images/chIcons/1249.png"  timeshift="3", Minimax Мифология HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1249/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqlN8WKG6Y4DVscU5d6KX69bLMEM3KUGOwuqjdbpsQnEP
-#EXTINF:0 tvg-id="Minimax Погружение HD"  tvg-logo="http://tv.team/images/chIcons/1252.png"  timeshift="3", Minimax Погружение HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1252/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqporu3DbCiwECXrr1YKsccKaixuWfpAAAZdqgHUk2Loo
-#EXTINF:0 tvg-id="Minimax Роскино HD"  tvg-logo="http://tv.team/images/chIcons/1255.png"  timeshift="3", Minimax Роскино HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1255/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsbdA5MMfaGyCqDOa9v5cH6JDvfCZbp2AXLvBW2lza7e
-#EXTINF:0 tvg-id="Minimax Нуар HD"  tvg-logo="http://tv.team/images/chIcons/1250.png"  timeshift="3", Minimax Нуар HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1250/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgHgqxZmKdGsvHA-7nDQrKyJg6RmqXZdZ_lUuCk4-N6I
-#EXTINF:0 tvg-id="Minimax Приключения HD"  tvg-logo="http://tv.team/images/chIcons/1254.png"  timeshift="3", Minimax Приключения HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1254/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqKCYCoz1BC_nWaW89DS0b0Q4BB17TWXdqDDT0tCXjZH
-#EXTINF:0 tvg-id="Minimax Грайндхаус HD"  tvg-logo="http://tv.team/images/chIcons/1230.png"  timeshift="3", Minimax Грайндхаус HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1230/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrtUBYjzN3Zv2C1gHpQzxpqOojMwHgfOUIWg7om2s1LM
-#EXTINF:0 tvg-id="Minimax Воронины HD"  tvg-logo="http://tv.team/images/chIcons/1236.png"  timeshift="0", Minimax Воронины HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1236/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvBXx0NWmwy73mafZqcpXxV0lB6xqvffIGjiAjxMAXMq
-#EXTINF:0 tvg-id="Minimax Ольга HD"  tvg-logo="http://tv.team/images/chIcons/1251.png"  timeshift="0", Minimax Ольга HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1251/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqprWMtjipyCOgk6RO_fsw07aZnHBhAB6qAgIstjU1bCT
-#EXTINF:0 tvg-id="Minimax Полицейский с Рублевки HD"  tvg-logo="http://tv.team/images/chIcons/1253.png"  timeshift="0", Minimax Полицейский с Рублевки HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1253/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqo8tEdyaWdQVB0X6UET29bNUgJW4LzFMzwHwXX3C3jh4
-#EXTINF:0 tvg-id="Minimax Сваты HD"  tvg-logo="http://tv.team/images/chIcons/1256.png"  timeshift="0", Minimax Сваты HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1256/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqrMYM2pXt5O-35USLNKASMoHKlWkAvLL9PY3MliqOeQ
-#EXTINF:0 tvg-id="Minimax Ситком HD"  tvg-logo="http://tv.team/images/chIcons/1257.png"  timeshift="0", Minimax Ситком HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1257/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eql81KK8f6W-U0l_d8yQMaLpf9FMzl3rSHW285K_m235O
-#EXTINF:0 tvg-id="Minimax Скорость HD"  tvg-logo="http://tv.team/images/chIcons/1258.png"  timeshift="3", Minimax Скорость HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1258/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgEEumt2oQCO9zEHcqnq52EauPkBPyvElNXm5MMbU1Eq
-#EXTINF:0 tvg-id="Minimax Спорт HD"  tvg-logo="http://tv.team/images/chIcons/1259.png"  timeshift="3", Minimax Спорт HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1259/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgB8t2VKXMPVr7OozGpfpqFMX3VVHdKg-ZHpWoEDflJo
-#EXTINF:0 tvg-id="Minimax Стивен Кинг HD"  tvg-logo="http://tv.team/images/chIcons/1260.png"  timeshift="3", Minimax Стивен Кинг HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1260/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr01VWlSOn-XHlTwEOxd2d5_9kMDppdgeYRPeFBDsLD-
-#EXTINF:0 tvg-id="Minimax Супергерои HD"  tvg-logo="http://tv.team/images/chIcons/1261.png"  timeshift="3", Minimax Супергерои HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1261/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqomBvYkl2PbkFcKCMeJp2YcLTs35yvFoLgiIn5FMJBCX
-#EXTINF:0 tvg-id="Minimax Триллер HD"  tvg-logo="http://tv.team/images/chIcons/1263.png"  timeshift="3", Minimax Триллер HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1263/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsXuz2mz73Q_-gR6Scez0wFAOtoXWqlAPpOCkloGMjJf
-#EXTINF:0 tvg-id="Minimax Ужастик HD"  tvg-logo="http://tv.team/images/chIcons/1264.png"  timeshift="3", Minimax Ужастик HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1264/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtSaLLTtu-UPnuWk_TIp0KN5eHopK2sZFY2_UfjoR2tQ
-#EXTINF:0 tvg-id="Minimax Уэс Крэйвен HD"  tvg-logo="http://tv.team/images/chIcons/1266.png"  timeshift="3", Minimax Уэс Крэйвен HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1266/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqm1DFyCgf1fy91i8R9bzD2VYRAii5pMvMaSdYaqVPID-
-#EXTINF:0 tvg-id="Minimax Фантастика HD"  tvg-logo="http://tv.team/images/chIcons/1267.png"  timeshift="3", Minimax Фантастика HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1267/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EquiBPzGYcJ8qjzHQ6FbgVaEMpnzdMWatq5BdOrJrOXfd
-#EXTINF:0 tvg-id="Minimax Фобия HD"  tvg-logo="http://tv.team/images/chIcons/1268.png"  timeshift="3", Minimax Фобия HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1268/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgQfkxA47EYPDthAG-3vSbSNEU38vKGEqFzWJ65YcwY7
-#EXTINF:0 tvg-id="Minimax Семейный 1 HD"  tvg-logo="http://tv.team/images/chIcons/1274.png"  timeshift="3", Minimax Семейный 1 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1274/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkPwupQA99_p4zS6Qd1J7EVf_tQCSlikjC5ANM8BxkcF
-#EXTINF:0 tvg-id="Minimax Семейный 2 HD"  tvg-logo="http://tv.team/images/chIcons/1270.png"  timeshift="3", Minimax Семейный 2 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1270/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr-uSF1c5iW-XJdUlGrgG9AU2tjh7hGOwyJx8QKiCmam
-#EXTINF:0 tvg-id="Minimax Ussr 1941-1945 HD"  tvg-logo="http://tv.team/images/chIcons/1223.png"  timeshift="3", Minimax Ussr 1941-1945 HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1223/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrM4RkvYdVxyeqQ5v77DZBRM-k9vU_3kSMtenbvc-XOd
-#EXTINF:0 tvg-id="Minimax Ussr Детектив HD"  tvg-logo="http://tv.team/images/chIcons/1273.png"  timeshift="3", Minimax Ussr Детектив HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1273/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrLClhRUS2ZCmq_2E7ix0eOanlYegaiYcnDqfU9pv4-x
-#EXTINF:0 tvg-id="Minimax Ussr Приключения HD"  tvg-logo="http://tv.team/images/chIcons/1269.png"  timeshift="3", Minimax Ussr Приключения HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1269/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhYo6k41vBT-a40rikFv9qJvOTv1AsUT077wNVynnEhb
-#EXTINF:0 tvg-id="Minimax Ussr Комедия HD"  tvg-logo="http://tv.team/images/chIcons/1224.png"  timeshift="3", Minimax Ussr Комедия HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1224/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqiVTVYxu9Kzf4gq4kxEoXRS9tegL6wxjgScbh264W8pi
-#EXTINF:0 tvg-id="Minimax Ussr Фантастика HD"  tvg-logo="http://tv.team/images/chIcons/1227.png"  timeshift="3", Minimax Ussr Фантастика HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1227/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equa9-QalUqLYJgL3ovMQsi4p1NoB4TX-Xp23v8DrazlF
-#EXTINF:0 tvg-id="Minimax Ужасы Classic HD"  tvg-logo="http://tv.team/images/chIcons/1275.png"  timeshift="3", Minimax Ужасы Classic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1275/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqniKwM5CCgpDgess9edzGiuC6O_hABWwrMnjTG46rthV
-#EXTINF:0 tvg-id="Minimax Ужасы HD"  tvg-logo="http://tv.team/images/chIcons/1276.png"  timeshift="3", Minimax Ужасы HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1276/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsK7gfLNZbgRw-RremPDP-q-2bm19r9CegRCRtu5DSka
-#EXTINF:0 tvg-id="Minimax Celebrity HD"  tvg-logo="http://tv.team/images/chIcons/1286.png"  timeshift="3", Minimax Celebrity HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1286/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equ9RcVai2Qw_9metokRZmkdfu_I0sgpA1uWBdtjPy1My
-#EXTINF:0 tvg-id="Minimax Сlassic HD"  tvg-logo="http://tv.team/images/chIcons/1323.png"  timeshift="3", Minimax Сlassic HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1323/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqk3iawfRGmas2QWMJdpVX8iq74duZ9v7rchVMFofmE9Z
-#EXTINF:0 tvg-id="Minimax Драма HD"  tvg-logo="http://tv.team/images/chIcons/1324.png"  timeshift="3", Minimax Драма HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1324/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmB2x0GvaayLy9oVs8CCnHwJHpY-fUmMstGFqUDOMitI
-#EXTINF:0 tvg-id="Minimax Translation HD"  tvg-logo="http://tv.team/images/chIcons/1621.png"  timeshift="3", Minimax Translation HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1621/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqk8w6MoXbKdmyEC3eCUgqaWBfH9t2mFFAOFXSNPvL-Xh
-#EXTINF:0 tvg-id="Premiere HD 1"  tvg-logo="http://tv.team/images/chIcons/382.png"  timeshift="4", Premiere HD 1
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch382/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrsQyW_GNGzkM1VM2pUvx2x6yFq-ThX_TDTi1EEu3u1U
-#EXTINF:0 tvg-id="Premiere HD 2"  tvg-logo="http://tv.team/images/chIcons/383.png"  timeshift="4", Premiere HD 2
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch383/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqij-jR7KMNurwgWT4x6liVZa4a_aDS_bPgncSw_mc1Vt
-#EXTINF:0 tvg-id="Premiere HD 3"  tvg-logo="http://tv.team/images/chIcons/384.png"  timeshift="4", Premiere HD 3
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch384/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnxFpHMDKuiCU33P79g8jzmD-QGPVHcaeJdtnT55cnTG
-#EXTINF:0 tvg-id="Premiere HD 4"  tvg-logo="http://tv.team/images/chIcons/385.png"  timeshift="4", Premiere HD 4
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch385/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqo9fsqo06MctGvdtxqDlTSwLMG3x20Oh1Svjd_JvGHTt
-#EXTINF:0 tvg-id="MS Crime HD"  tvg-logo="http://tv.team/images/chIcons/1288.png"  timeshift="0", MS Crime HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1288/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqqqm250HQTGSpfcChdYB1yO-cqWCTsSP83-UadTAc9sk
-#EXTINF:0 tvg-id="MS Prisons HD"  tvg-logo="http://tv.team/images/chIcons/1289.png"  timeshift="0", MS Prisons HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1289/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqq8tzBS7JFtqgjsgOyZDI37BYjKt7cZ4v8K7Dh-aCr6O
-#EXTINF:0 tvg-id="MS Young Blood HD"  tvg-logo="http://tv.team/images/chIcons/1291.png"  timeshift="0", MS Young Blood HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1291/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EquCwuQdJESbSX_3MaBrQw8s0dK8VjGOhlpadnO37tGzI
-#EXTINF:0 tvg-id="Yosso TV Grand"  tvg-logo="http://tv.team/images/chIcons/1297.png"  timeshift="3", Yosso TV Grand
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1297/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqilgU-JYk8lJXtMX-JW2_tiVv0ZhC6dgJ9VXzKhmllvU
-#EXTINF:0 tvg-id="Yosso TV VHS"  tvg-logo="http://tv.team/images/chIcons/1298.png"  timeshift="3", Yosso TV VHS
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1298/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqs4Qoqd_Qq94Romt68Vt4PqotWqad4A6GJFOhUchBJos
-#EXTINF:0 tvg-id="Yosso TV Русские Фильмы"  tvg-logo="http://tv.team/images/chIcons/1300.png"  timeshift="3", Yosso TV Русские Фильмы
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1300/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqmr-LM2-HxoZixyxIxiVrBL3sKKb0UcAhr9A8S0v9g2l
-#EXTINF:0 tvg-id="Yosso TV Советские Фильмы"  tvg-logo="http://tv.team/images/chIcons/1301.png"  timeshift="3", Yosso TV Советские Фильмы
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1301/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvjBdiTFd17SRrCZG5JWcpqESqXqQCCSab-Jbc3Tpryw
-#EXTINF:0 tvg-id="Yosso TV New Кино"  tvg-logo="http://tv.team/images/chIcons/1303.png"  timeshift="3", Yosso TV New Кино
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1303/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj_GLeogvSg3oQuoTHe4fdwaKS179-TDb29RH_m4m-ju
-#EXTINF:0 tvg-id="Yosso TV Трагичное"  tvg-logo="http://tv.team/images/chIcons/1306.png"  timeshift="3", Yosso TV Трагичное
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1306/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqg8RPfM8pfnkjSGOGH30xYljDOm6dS8GAWLVufZuJVMQ
-#EXTINF:0 tvg-id="Yosso TV Забавное"  tvg-logo="http://tv.team/images/chIcons/1307.png"  timeshift="3", Yosso TV Забавное
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1307/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgcesnXlVJrhthZqqrXwAZ7V7QCu0nqGvCdqoArol0lg
-#EXTINF:0 tvg-id="Yosso TV Best"  tvg-logo="http://tv.team/images/chIcons/1308.png"  timeshift="3", Yosso TV Best
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1308/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqqnsp2IIxXhTlfEitO553KcyHJNhry5HoI7jdt2pm3uk
-#EXTINF:0 tvg-id="Yosso TV Ковбойское"  tvg-logo="http://tv.team/images/chIcons/1309.png"  timeshift="3", Yosso TV Ковбойское
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1309/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqht0iKVCF_V8kMymlKWv6YQY0Ekl8rc2kf-Iyc4Xbt9V
-#EXTINF:0 tvg-id="Yosso TV Adrenaline"  tvg-logo="http://tv.team/images/chIcons/1310.png"  timeshift="3", Yosso TV Adrenaline
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1310/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equ2GTRchNx_gfBGLVUAy1AkyR9mEtOUUxIGosAPdwdsu
-#EXTINF:0 tvg-id="Yosso TV Oblivion"  tvg-logo="http://tv.team/images/chIcons/1311.png"  timeshift="3", Yosso TV Oblivion
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1311/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqLEjj2YlYpROUNASc6SeP1UjKM_KAYbrdOQPT0QFeFh
-#EXTINF:0 tvg-id="Yosso TV Adventure"  tvg-logo="http://tv.team/images/chIcons/1312.png"  timeshift="3", Yosso TV Adventure
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1312/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqnl3-S66BpLG80GMIUS0N2S3vYeVvgZd-2g8IJWeAAqG
-#EXTINF:0 tvg-id="Yosso TV Thriller"  tvg-logo="http://tv.team/images/chIcons/1313.png"  timeshift="3", Yosso TV Thriller
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1313/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtDehe64MsIOkwtIVUnHkelpolJXZz_Tuz9UH3PyZfp3
-#EXTINF:0 tvg-id="Yosso TV C-Marvel"  tvg-logo="http://tv.team/images/chIcons/1315.png"  timeshift="0", Yosso TV C-Marvel
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1315/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgjvEOm5HmnlZoHfzKLdRjxxoNqkGOZJN80h54pBg6fM
-#EXTINF:0 tvg-id="Yosso TV C-Inquest"  tvg-logo="http://tv.team/images/chIcons/1001.png"  timeshift="0", Yosso TV C-Inquest
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1001/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmOZEjenfqJs6VWUoUJLO2LwFFZMxI3rVhgbzEpM5Imx
-#EXTINF:0 tvg-id="Yosso TV C-Comedy"  tvg-logo="http://tv.team/images/chIcons/1002.png"  timeshift="0", Yosso TV C-Comedy
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1002/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpBNA7CDSbW-GGAICcG5M5-sbEOVphxRA1LCwV63yBmE
-#EXTINF:0 tvg-id="Yosso TV C-History HD"  tvg-logo="http://tv.team/images/chIcons/1575.png"  timeshift="0", Yosso TV C-History HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1575/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqke9k_KeGZCtvfQ3yLmrsgcBalpmC6YMZytcdXxbg5k0
-#EXTINF:0 tvg-id="Magic Action"  tvg-logo="http://tv.team/images/chIcons/1556.png"  timeshift="3", Magic Action
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1556/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrwlB6f0r5QIOyCBbLHG_Ro9XQ9etsjZ5T1qeyECxJvQ
-#EXTINF:0 tvg-id="Magic Comedy"  tvg-logo="http://tv.team/images/chIcons/1557.png"  timeshift="3", Magic Comedy
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1557/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnXlg3SXEgiW5ke8SZUqqrkc-3z_ptcHh8-hoWv7d6LX
-#EXTINF:0 tvg-id="Magic Galaxy"  tvg-logo="http://tv.team/images/chIcons/1559.png"  timeshift="3", Magic Galaxy
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1559/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqi1Jsqjr7Z1D-CrzMeaWaeR2jPfOzs_PygIxLaxIhYl7
-#EXTINF:0 tvg-id="Magic Horror"  tvg-logo="http://tv.team/images/chIcons/1560.png"  timeshift="3", Magic Horror
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1560/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqsuxu898y6-WPuBJHHNYSivnqQcUBt-r3YaZCA4rvphO
-#EXTINF:0 tvg-id="Magic Karate"  tvg-logo="http://tv.team/images/chIcons/1561.png"  timeshift="3", Magic Karate
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1561/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqjTToQtlYhVth9SCyNh6KaBZYrzzRm-ZBCyk8p_cXCRj
-#EXTINF:0 tvg-id="Magic Thriller"  tvg-logo="http://tv.team/images/chIcons/1562.png"  timeshift="3", Magic Thriller
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1562/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqeRLSsej3NBGr2jmdFTGQSEkvtxWpge4hMBi8xmVgyP
-#EXTINF:0 tvg-id="Magic VHS"  tvg-logo="http://tv.team/images/chIcons/1563.png"  timeshift="3", Magic VHS
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1563/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnOEdwLEtglrGxIfHRmVWIdDtA16wlskNVJhxgobdUpo
-#EXTINF:0 tvg-id="Magic Love"  tvg-logo="http://tv.team/images/chIcons/1581.png"  timeshift="3", Magic Love
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1581/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmKckql9hiFLAmtBYy4WuII4MLVKLF8hhCfvD-EElJbq
-#EXTINF:0 tvg-id="Magic Family"  tvg-logo="http://tv.team/images/chIcons/1582.png"  timeshift="3", Magic Family
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1582/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqjTjzLIASuF_SIQd_4sKoLzhEnfLJxZuHRu7rzyJGG4i
-#EXTINF:0 tvg-id="Fresh Adventure"  tvg-logo="http://tv.team/images/chIcons/1721.png"  timeshift="3", Fresh Adventure
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1721/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvrC-y4PmPtVVCnOdMpSObHd3DtGd9AeZ1CHjF3h2acq
-#EXTINF:0 tvg-id="Fresh Cinema"  tvg-logo="http://tv.team/images/chIcons/1722.png"  timeshift="3", Fresh Cinema
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1722/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqrw6hojTRYMMCoG1VrnEvt5ZR0xJlYSQSdrticKOD1R_
-#EXTINF:0 tvg-id="Fresh Comedy"  tvg-logo="http://tv.team/images/chIcons/1723.png"  timeshift="3", Fresh Comedy
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1723/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmZuPEydE3r2ZKe-l36yRNZZ3kTeYkInKemgwYauYfe7
-#EXTINF:0 tvg-id="Fresh Family"  tvg-logo="http://tv.team/images/chIcons/1724.png"  timeshift="3", Fresh Family
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1724/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvlYcUyy9EIruQGhJXSzC_0jXTHExa8pKSrgMwzzou-k
-#EXTINF:0 tvg-id="Fresh Fantastic"  tvg-logo="http://tv.team/images/chIcons/1725.png"  timeshift="3", Fresh Fantastic
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1725/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnvDCYoFXPowcPp4vjWkivAmO3irV2iJZmGlCSbMz3DS
-#EXTINF:0 tvg-id="Fresh Horror"  tvg-logo="http://tv.team/images/chIcons/1726.png"  timeshift="3", Fresh Horror
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1726/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrhBaLchvWLa5swKtJ6t2y2VgMWeHzGJdgXOgh2k0SOX
-#EXTINF:0 tvg-id="Fresh Premiere"  tvg-logo="http://tv.team/images/chIcons/1727.png"  timeshift="3", Fresh Premiere
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1727/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqn6grjm5X3d_s6UD1aDJqYSWd8p_9dNjqRY-U0gX3X0V
-#EXTINF:0 tvg-id="Fresh Rating"  tvg-logo="http://tv.team/images/chIcons/1728.png"  timeshift="3", Fresh Rating
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1728/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsS97A_cnlpPumavC384VImPQSZ3SOpWzEHoIT8RpqpG
-#EXTINF:0 tvg-id="Fresh Romantic"  tvg-logo="http://tv.team/images/chIcons/1729.png"  timeshift="3", Fresh Romantic
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1729/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr6Nq4E4KJv9WwkFnKOAIEU3JDiCpqKsbhWuc5yib7jc
-#EXTINF:0 tvg-id="Fresh Russian"  tvg-logo="http://tv.team/images/chIcons/1730.png"  timeshift="3", Fresh Russian
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1730/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrW4v_E_ZPVIO1A22oYxt_moJCx0e1ApFFr2KKS5XRe1
-#EXTINF:0 tvg-id="Fresh Series"  tvg-logo="http://tv.team/images/chIcons/1731.png"  timeshift="3", Fresh Series
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1731/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqkG5hFed98Cl86kQeD0ALhVHlQB37L-rKAEZW3v-ld6o
-#EXTINF:0 tvg-id="Fresh Soviet"  tvg-logo="http://tv.team/images/chIcons/1732.png"  timeshift="3", Fresh Soviet
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1732/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj197swDHe8MfJ9lbTI7vZbBpNzxZd2ksWY7H5qFIbk5
-#EXTINF:0 tvg-id="Fresh Thriller"  tvg-logo="http://tv.team/images/chIcons/1733.png"  timeshift="3", Fresh Thriller
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1733/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmvPe9pZ5AOKfdSAWb8KqiyoviOoal8VNclq_B59ggH4
-#EXTINF:0 tvg-id="Fresh Vhs"  tvg-logo="http://tv.team/images/chIcons/1734.png"  timeshift="3", Fresh Vhs
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1734/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqvFy7VMiKHrppAXrF8ePVAVOnuFJDse5ebLs8eI8uo1a
-#EXTINF:0 tvg-id="Liberty DC FHD"  tvg-logo="http://tv.team/images/chIcons/1741.png"  timeshift="3", Liberty DC FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1741/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqq37K_aKq7fZbilRzeBCztYu73QavP1o7RREEHDPRuhR
-#EXTINF:0 tvg-id="Liberty Ужасы FHD"  tvg-logo="http://tv.team/images/chIcons/1742.png"  timeshift="3", Liberty Ужасы FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1742/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgC-PkI1FApOh6z7JLInN_1XIA26LiZeM5pZqOftX3dp
-#EXTINF:0 tvg-id="Liberty Триллеры FHD"  tvg-logo="http://tv.team/images/chIcons/1743.png"  timeshift="3", Liberty Триллеры FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1743/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsVnhFfjvoHaeJvNBb031PXoI0zYSS6qiKHlcylj6MqT
-#EXTINF:0 tvg-id="Liberty Marvel FHD"  tvg-logo="http://tv.team/images/chIcons/1744.png"  timeshift="3", Liberty Marvel FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1744/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqmXsb8keiimLDM5Wb6oGtMcu75e8lh0zhTSIAEgkuQme
-#EXTINF:0 tvg-id="Liberty Короткометражный FHD"  tvg-logo="http://tv.team/images/chIcons/1745.png"  timeshift="3", Liberty Короткометражный FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1745/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqjEC02IOy170v3ZQpKgbGbLjZ4QnXkXPP7Yv2qYVg4bo
-#EXTINF:0 tvg-id="Liberty Мелодрамы FHD"  tvg-logo="http://tv.team/images/chIcons/1748.png"  timeshift="3", Liberty Мелодрамы FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1748/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqvKQSrjXi9Ruc6WQY2WQPuILXQkViUExb83DWB3LTN-
-#EXTINF:0 tvg-id="Liberty Боевики FHD"  tvg-logo="http://tv.team/images/chIcons/1749.png"  timeshift="3", Liberty Боевики FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1749/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrSbVRI7tWdCCtWVbk_z2nxIcaDQc1TD-WH9iInm5zSC
-#EXTINF:0 tvg-id="Liberty Сваты FHD"  tvg-logo="http://tv.team/images/chIcons/1752.png"  timeshift="3", Liberty Сваты FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1752/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhvvuoUaPR_zum-d_HHuq40HRWoL86iGCPojvpjiLYua
-#EXTINF:0 tvg-id="Liberty Комедии FHD"  tvg-logo="http://tv.team/images/chIcons/1754.png"  timeshift="3", Liberty Комедии FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1754/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eql0pQPDGGyoOMaYe4HIvwcboc_du__I7Am-ht89osLgy
-#EXTINF:0 tvg-id="Liberty Сериалы FHD"  tvg-logo="http://tv.team/images/chIcons/1755.png"  timeshift="3", Liberty Сериалы FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1755/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eql86VpLqYhXT7Bl29VP-c54Rnc_YJiFbqLqvkRcIDGmm
-#EXTINF:0 tvg-id="Liberty Занавес FHD"  tvg-logo="http://tv.team/images/chIcons/1760.png"  timeshift="3", Liberty Занавес FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1760/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqtQ3KqoUWOu0QEv6vmjpVg6WZoE02gZwINNBi8FTfUGj
-#EXTINF:0 tvg-id="Liberty Аниме FHD"  tvg-logo="http://tv.team/images/chIcons/1761.png"  timeshift="3", Liberty Аниме FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1761/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EquQkyZgiOH2oLNR9e10j9H0_rDvrMSQb_mFXkbmShFl1
-#EXTINF:0 tvg-id="Liberty Шоу FHD"  tvg-logo="http://tv.team/images/chIcons/1762.png"  timeshift="3", Liberty Шоу FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1762/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equ7QLOguxjAhYYwCetJO4Mbws_YEcH2xwyHAPplcmB53
-#EXTINF:0 tvg-id="Liberty КиноENG FHD"  tvg-logo="http://tv.team/images/chIcons/1763.png"  timeshift="3", Liberty КиноENG FHD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1763/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqsfGS9EedA-shiexUdCIJnZzNLDH3fvoxuX8RurjfYiz
-#EXTINF:0 tvg-id="TOP Великолепный Век"  tvg-logo="http://tv.team/images/chIcons/1068.png"  timeshift="0", TOP Великолепный Век
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1068/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpvmLCiIaq6Ilu4kNqdck7q_XItHMgg_Fq2V-eZik1JJ
-#EXTINF:0 tvg-id="TOP 80"  tvg-logo="http://tv.team/images/chIcons/1069.png"  timeshift="0", TOP 80
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1069/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqjPf-7a1BD8Feh-KIg_yu2S2vou1RET0_iiqzjJer4dV
-#EXTINF:0 tvg-id="TOP BUDO HD"  tvg-logo="http://tv.team/images/chIcons/1070.png"  timeshift="0", TOP BUDO HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1070/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqocWsbPUc_1lkRL6_egwtsQKsRge6NpIsLUIpb9MNsJV
-#EXTINF:0 tvg-id="TOP CINEMA HD"  tvg-logo="http://tv.team/images/chIcons/1071.png"  timeshift="0", TOP CINEMA HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1071/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqk39c0ydDa5Z_H6XOh7WJSgCL7ccC5dGTO5YGXSm6nqT
-#EXTINF:0 tvg-id="TOP USSR"  tvg-logo="http://tv.team/images/chIcons/1072.png"  timeshift="0", TOP USSR
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1072/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqrEWirjF75NaMiy3MxqYxhWhfu-HYr-Yzx_P_9cZerbi
-#EXTINF:0 tvg-id="TOP MIX HD"  tvg-logo="http://tv.team/images/chIcons/1073.png"  timeshift="0", TOP MIX HD
-#EXTGRP:4. Cinemas/Кинозалы
-http://3.troya.tv:34000/ch1073/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqDWhrnP8BL9mXctISJLNTM1PKeNPKh96lrvMc35pz1E
-#EXTINF:0 tvg-id="Uzbekistan 24 HD UZ"  tvg-logo="http://tv.team/images/chIcons/1785.png"  timeshift="0", Uzbekistan 24 HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1785/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj_Y2EeVndTbqqFgY9UEFi6X7BzM9hByyPCjqRrGzNme
-#EXTINF:0 tvg-id="Uzbekistan UZ"  tvg-logo="http://tv.team/images/chIcons/1786.png"  timeshift="0", Uzbekistan UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1786/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqqlPOOD36Fdx_q7uZ2XK-sZJnyJLvxWkLnp3sko1wg-t
-#EXTINF:0 tvg-id="Yoshlar UZ"  tvg-logo="http://tv.team/images/chIcons/1787.png"  timeshift="0", Yoshlar UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1787/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqs-JP4UwxSBrLV1v4tGCTUgcWBoNZ3mJ5Y9I07SdOd83
-#EXTINF:0 tvg-id="Sport UZ"  tvg-logo="http://tv.team/images/chIcons/1788.png"  timeshift="0", Sport UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1788/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equk2f0pq1b62PSyPUjdrzayYROqfXjHrkzxtiHmdlwDs
-#EXTINF:0 tvg-id="Toshkent UZ"  tvg-logo="http://tv.team/images/chIcons/1789.png"  timeshift="0", Toshkent UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1789/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnmGCskmVdCCmLOs4fPmfDCzzN51fqoP_OQc4JrENiTW
-#EXTINF:0 tvg-id="Kinoteatr UZ"  tvg-logo="http://tv.team/images/chIcons/1790.png"  timeshift="0", Kinoteatr UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1790/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj0Ie8lbkic0cDTBHjVOVFasyNRlW1BdxCghFb0_QRL5
-#EXTINF:0 tvg-id="My 5 HD UZ"  tvg-logo="http://tv.team/images/chIcons/1791.png"  timeshift="0", My 5 HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1791/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhSGwdv69YHjpTE5OIxc1bWg1gdV3XzoKvBUt4BnBC0q
-#EXTINF:0 tvg-id="Milliy TV UZ"  tvg-logo="http://tv.team/images/chIcons/1792.png"  timeshift="0", Milliy TV UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1792/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpXAah7pZAXez2_yxy5gzlDfTLrQ446Mm40ImlCS3UBg
-#EXTINF:0 tvg-id="Sevimli TV UZ"  tvg-logo="http://tv.team/images/chIcons/1793.png"  timeshift="0", Sevimli TV UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1793/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqh68weHGTIyL7KkuACz3Oe7Kf7vxcpT9iyoKWHVOTBgY
-#EXTINF:0 tvg-id="Zor TV HD UZ"  tvg-logo="http://tv.team/images/chIcons/1794.png"  timeshift="0", Zor TV HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1794/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Equ-yAvBa8tlhN6Iz92aNXth6WF2qHqqjLcI0rSvvlpRE
-#EXTINF:0 tvg-id="Renessans TV UZ"  tvg-logo="http://tv.team/images/chIcons/1795.png"  timeshift="0", Renessans TV UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1795/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqq4rGtBIpHgx88G-8zKQhHh8EUVB6_VE2Tm-PwJSbogi
-#EXTINF:0 tvg-id="Nurafshon TV UZ"  tvg-logo="http://tv.team/images/chIcons/1796.png"  timeshift="0", Nurafshon TV UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1796/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqpCUhFCKUFrddlvl6w27xSVPxTti8j28njY1aDdNkIPD
-#EXTINF:0 tvg-id="Biz TV HD UZ"  tvg-logo="http://tv.team/images/chIcons/1797.png"  timeshift="0", Biz TV HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1797/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqr_dSP8OO3g95BKkscX4_b4Ie07DSKQtZHUUHi3SYKLF
-#EXTINF:0 tvg-id="Biz Cinema HD UZ"  tvg-logo="http://tv.team/images/chIcons/1798.png"  timeshift="0", Biz Cinema HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1798/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqj1ADJJJm7FUXW-ms55-KI_WGxPQneYvwecPsTknz0cu
-#EXTINF:0 tvg-id="Biz Music HD UZ"  tvg-logo="http://tv.team/images/chIcons/1799.png"  timeshift="0", Biz Music HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1799/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqov5A77Y8q0c29s9ispvcgP1qr3jhYjVjqm7C68pEU-w
-#EXTINF:0 tvg-id="Rizanova HD UZ"  tvg-logo="http://tv.team/images/chIcons/1800.png"  timeshift="0", Rizanova HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1800/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqnODtQ3RyZwnL63CZswp6Zj4CAD1YKv_O9_YhhmKEGSr
-#EXTINF:0 tvg-id="UzReport TV HD UZ"  tvg-logo="http://tv.team/images/chIcons/1801.png"  timeshift="0", UzReport TV HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1801/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqgUvnUrGwDLd5vu6eB6K9EQghljZpkpYRz_lVA5lbNv8
-#EXTINF:0 tvg-id="Futbol TV HD UZ"  tvg-logo="http://tv.team/images/chIcons/1802.png"  timeshift="0", Futbol TV HD UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1802/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqhZg7flPq1fiuoM3g6IihyXCUFDpkm_mNPKH5ify5ppM
-#EXTINF:0 tvg-id="Navo UZ"  tvg-logo="http://tv.team/images/chIcons/1803.png"  timeshift="0", Navo UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1803/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqspotGo85H1SPhY02FB9Y69ubo-K7QTvwY1tR_CmB49H
-#EXTINF:0 tvg-id="Bolajon UZ"  tvg-logo="http://tv.team/images/chIcons/1804.png"  timeshift="0", Bolajon UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1804/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2EqimsQIMTNb3h-SUN5oP_J4ToDXb6fDm2Mac4gs1XWshW
-#EXTINF:0 tvg-id="Dunyo Boylab UZ"  tvg-logo="http://tv.team/images/chIcons/1805.png"  timeshift="0", Dunyo Boylab UZ
-#EXTGRP:28. Uzbekistan
-http://3.troya.tv:34000/ch1805/mono.m3u8?token=zagdali.OFlFr3geu1UY5S6NYh2Eqnq5jc47YCIM4ckvcf2REdDtNleWz-JRyeH4g1gpc_w-
+#EXTM3U
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.177:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.176:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.178:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.179:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.182:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.183:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.184:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.185:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.186:1234
+#EXTINF:-1,New HD
+http://91.209.24.89:8091/udp/239.255.13.181:1234
+#EXTINF:-1,аАТ аАа?аБТ?аБТ?аАа˜аБТ? 1 HD
+http://91.209.24.89:8091/udp/239.255.13.180:1234
+#EXTINF:-1,Nickelodeon HD
+http://91.209.24.89:8091/udp/239.255.13.187:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.188:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.189:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.190:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.191:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.194:1234
+#EXTINF:-1,Setanta Ukraine + HD
+http://91.209.24.89:8091/udp/239.255.13.195:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.200:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.201:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.202:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.203:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.204:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.205:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.206:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.207:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.208:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.209:1234
+#EXTINF:-1,New
+http://91.209.24.89:8091/udp/239.255.13.212:1234
+#EXTINF:-1,New HD
+http://91.209.24.89:8091/udp/239.255.13.210:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.214:1234
+#EXTINF:-1,New
+http://91.209.24.89:8091/udp/239.255.13.211:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.215:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.217:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.218:1234
+#EXTINF:-1,Animal Planet Europe HD
+http://91.209.24.89:8091/udp/239.255.13.216:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.219:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.220:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.221:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.223:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.224:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.225:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.228:1234
+#EXTINF:-1,Paramount Channel HD
+http://91.209.24.89:8091/udp/239.255.13.227:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.231:1234
+#EXTINF:-1,New HD
+http://91.209.24.89:8091/udp/239.255.13.232:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.234:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.235:1234
+#EXTINF:-1,367 HD
+http://91.209.24.89:8091/udp/239.255.13.233:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.237:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.238:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.239:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.240:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.241:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.242:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.243:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.245:1234
+#EXTINF:-1,Service01 HD
+http://91.209.24.89:8091/udp/239.255.13.244:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.248:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.250:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.251:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.252:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.253:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.254:1234
+#EXTINF:-1,Service01
+http://91.209.24.89:8091/udp/239.255.13.255:1234
