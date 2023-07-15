@@ -1,8 +1,8 @@
-#EXTINF:-1,Travel Channel HD
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/JBVQANi.png",[$]TRAVEL CHANNEL HD
 http://93.184.1.249:8080/Travel_Channel/index.m3u8
-#EXTINF:-1,Nat_Geo_Wild HD
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/sDnlK6Y.png",[$]NAT GEO WILD HD
 http://93.184.1.249:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Fox_Life HD
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/Zs7GNi7.png",[$]FOX LIFE HD
 http://93.184.1.249:8080/Fox_Life/index.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
