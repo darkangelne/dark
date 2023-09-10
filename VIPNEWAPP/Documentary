@@ -1,9 +1,9 @@
-#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/JBVQANi.png",[$]TRAVEL CHANNEL HD
-http://93.184.1.249:8080/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/sDnlK6Y.png",[$]NAT GEO WILD HD
-http://93.184.1.249:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://i.imgur.com/Zs7GNi7.png",[$]FOX LIFE HD
-http://93.184.1.249:8080/Fox_Life/index.m3u8
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2018/03/12/153049/ID_logo.png",[$]DISCOVERY ID
+http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/eb2e905a-5d25-4a3f-adbb-48c7b578de6e.m3u8
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",DISCOVERY SCIENCE
+http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/c9b74b2f-894e-4da2-bfa2-25323c92ea3f.m3u8
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",Discovery HD
+http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/d5c0fe33-92be-4a1b-9885-353dec450507.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
