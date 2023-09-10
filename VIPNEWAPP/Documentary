@@ -4,6 +4,12 @@ http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/eb2e905a-5d25-4a3
 http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/c9b74b2f-894e-4da2-bfa2-25323c92ea3f.m3u8
 #EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",Discovery HD
 http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/d5c0fe33-92be-4a1b-9885-353dec450507.m3u8
+#EXTINF:-1 group-title="[🇸🇦📺]KANALE ARABE" tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO?max=400",DISCOVERY FAMILY
+http://62.182.85.213:8089/live/Xm89rG7N61UySut/YaiBAoC468t0qD1/569b3bb6-07eb-4d9a-90a0-ae5fe2db42b2.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pDuVmi" group-title="الوثائقية documentary",National Geographic Abu Dhabi 🏞️
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
