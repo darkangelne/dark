@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]FRANCE 2HD
+http://144.76.100.187:5436/bossna/testiptvvv/10099
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]FRANCE 3HD
+http://144.76.100.187:5436/bossna/testiptvvv/10100
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]FRANCE 4HD
+http://144.76.100.187:5436/bossna/testiptvvv/10101
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]FRANCE 5HD
+http://144.76.100.187:5436/bossna/testiptvvv/10102
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]M6 HD
+http://144.76.100.187:5436/bossna/testiptvvv/10106
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]W9 HD
+http://144.76.100.187:5436/bossna/testiptvvv/10107
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]TF1 HD
+http://144.76.100.187:5436/bossna/testiptvvv/10111
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]ARTE HD
+http://144.76.100.187:5436/bossna/testiptvvv/10110
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]GULLI HD
+http://144.76.100.187:5436/bossna/testiptvvv/10112
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CARTOON NETWORK
+http://144.76.100.187:5436/bossna/testiptvvv/10116
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]RTS 1HD
+http://178.250.208.141/1/play.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]RTS 2HD
+http://178.250.208.141/2/play.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]FRANCE 24HD
+http://178.250.208.141/56/play.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]TV5 MONDE HD
+http://178.250.208.141/61/play.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CGTN DOC HD
+http://178.250.208.141/36/play.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]SUPER ECRAN 1HD
+http://23.237.104.26:8080/SUPER_ECRAN_1/index.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]SUPER ECRAN 2HD
+http://23.237.104.26:8080/SUPER_ECRAN_2/index.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]SUPER ECRAN 3HD
+http://23.237.104.26:8080/SUPER_ECRAN_3/index.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]SUPER ECRAN 4HD
+http://23.237.104.26:8080/SUPER_ECRAN_4/index.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]HISTORIA HD
+http://23.237.104.26:8080/HISTORIA/index.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CANAL-D HD
+http://23.237.104.26:8080/CANAL_D/manifest.m3u8
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CINE PREMIER HD
+http://144.76.100.187:5436/bossna/testiptvvv/10113
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CINE EMOTION HD
+http://144.76.100.187:5436/bossna/testiptvvv/10114
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CINE SERIES HD
+http://144.76.100.187:5436/bossna/testiptvvv/10118
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CINE FAMILY HD
+http://144.76.100.187:5436/bossna/testiptvvv/10119
+#EXTINF:-1 group-title="[🇫🇷📺]KANALE FRANCEZE" tvg-logo="https://i.imgur.com/V2rFztj.png",[$]CINE DECALE HD
+http://144.76.100.187:5436/bossna/testiptvvv/10120
+
+
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 INFORMATION",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
