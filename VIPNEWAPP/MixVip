@@ -343,10 +343,7 @@ http://31.146.176.94:80/setanta2/index.m3u8?
 
 
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="رياضية SPORT",SPORT CHANNELS
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="رياضية SPORT",كيف احصل على الكود
-https://bit.ly/3gj9PK5
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
@@ -401,10 +398,7 @@ http://93.184.10.248/KSASport1/index.m3u8
 http://93.184.10.248/KSASport2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",ALRabiaa Sport
 http://162.212.178.70:4842/bysid/205
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP", باقة وياك VIP 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Drama
@@ -419,29 +413,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="باقة وياك VIP" tvg-id="WeyyakNawaem.ae" tvg-logo="https://smashi.tv/assets/img/logo-png-ar.png" ,smashi tv
 https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة NETFLIX", باقة NETFLIX 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة NETFLIX",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="باقة NETFLIX",Omg Channel TV
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA", Bein MEDIA 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="Bein MEDIA",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="او اس انOSN", او اس انOSN 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
-
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد الأصلية", باقة شاهد الأصلية 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد الأصلية",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/48uElHy" group-title="باقة شاهد الأصلية",الثقافية
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44E6B7N" group-title="باقة شاهد الأصلية",Souad_Abdullah
@@ -619,15 +591,7 @@ https://ythls.onrender.com/channel/UCVjAUYDzNh8OxezgGf8Lb2g.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/45GKfU0" group-title="باقة بث مباشر",الرسوم المتحركة للأطفال
 https://ythls.onrender.com/channel/UCxK_eK0_S6n7R-2i0fqk4xA.m3u8
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد نت", باقة شاهد نت 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="باقة شاهد نت",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BOLLYWOOD بوليود", BOLLYWOOD بوليود 
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="BOLLYWOOD بوليود",النسخة المدفوعة AirMax TV
-https://bit.ly/3DF4NAn
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="BOLLYWOOD بوليود",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="BOLLYWOOD بوليود",Zee Alwan
@@ -927,10 +891,7 @@ https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="🏖️مناظر طبيعية",Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أطفال Children",أطفال
-https://bit.ly/3xYLaRh
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="أطفال Children",كيف احصل على الكود
-https://bit.ly/3gj9PK5
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/44EUQhs" group-title="أطفال Children",ATFAAL
 https://cdxaws-ak.akamaized.net/v1/channel/ATFAAL/index_hls.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="أطفال Children",MBC 3 FHD
@@ -1443,7 +1404,7 @@ http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="🇯🇴الاردنJORDAN",Rotana Tarab Jordan: Control Studio🇯🇴
 http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇮🇶العراق IRAQ",العراق IRAQ🇮🇶
+
 ---
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wZ9QYM" group-title="🇮🇶العراق IRAQ",Utv Iraqi🇮🇶
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
@@ -1799,8 +1760,7 @@ https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index
 http://162.212.178.69:4242/bysid/808
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" group-title="الجزائرALGERIEN",Canal Algérie الثانية
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇱🇾ليبياLIBYA",ليبياLIBYA🇱🇾
-https://bit.ly/3xYLaRh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3NH3fbN" group-title="🇱🇾ليبياLIBYA",Libya februar🇱🇾
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wTL4dr" group-title="🇱🇾ليبياLIBYA",قناة الوسط - WTV🇱🇾
@@ -1835,8 +1795,7 @@ https://cdn-cf.dabangasudan.org/hls/stream.m3u8
 http://213.254.12.7/ELMOURITANIA2/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42RnxaT" group-title="🇲🇷موريتانيةMauritanie",ALMOURABITOUNE🇲🇷
 http://213.254.12.7/ELMOURITANIA/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="🇶🇦قطر Qatar",Qatar TV🇶🇦
-https://bit.ly/3xYLaRh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3VLU7HP" group-title="🇶🇦قطر Qatar",Qatar 1 TV HD🇶🇦
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z1Bvd8" group-title="🇶🇦قطر Qatar",Qatar 2 TV HD🇶🇦
@@ -2212,8 +2171,7 @@ http://192.99.170.8:5470/;/;stream.mp3
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JQfa8u" group-title="📻راديوRadio Music",HD Radio  Music📻
-https://bit.ly/3xYLaRh
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Radio Sada📻
 http://192.99.8.192:3054/;stream.mp3/stream.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="📻راديوRadio Music",Fann FM Syria📻
