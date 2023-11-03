@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/_HwXbtRDVa9_ET3tEdVfwmHupsXsWbi_PI2x3NuVSTg1v-wHlMQHkcM9AmKarY4JVCVymhBiflQ=s900-c-k-c0x00ffffff-no-rj" tvg-country="SA" tvg-url="" group-title="Religion",Sharjah QURAN
 https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/adaaietv.jpg" tvg-country="SA" tvg-url="" group-title="Religion",aldaaie
+https://fra-prod-catalyst-2.lp-playback.studio/hls/video+f335ax834a2xdcj5/2_0/index.m3u8?tkn=3789113032
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="Religion",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah
