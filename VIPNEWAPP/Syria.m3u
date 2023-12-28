@@ -1,23 +1,19 @@
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS SD
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://daroid.com/thumbnail?src=images/appsicon/2021/12/app-image-61c9a9e0db6f5.jpg&size=167" group-title="سوريةSyria",SYR-SYRIA PLUS SD
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="سوريةSyria",ALARABY TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
-https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
+https://live2.alalam.ir/live/Alalam_medium/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY (Backup 1)
-https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
-https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
-http://142.132.224.85:1935/live/_definst_/smil:mystream1.smil/chunklist.m3u8
+https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية 
@@ -48,4 +44,4 @@ http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3z4v1ee" group-title="سوريةSyria",sham FM
+
