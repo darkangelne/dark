@@ -1,2325 +1,2325 @@
 #EXTM3U
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/128/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3185/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/267/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/303/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ID Xtra HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/149/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/129/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,National Geographic HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/203/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20162/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TERRA HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1493/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5299/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/254/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/253/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/219/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HD Life
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/202/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Travel+Adventure HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/208/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/136/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Travel Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/261/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/200/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/252/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Russian Travel Guide HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/125/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/259/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3526/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/301/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Planet
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/263/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju History HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20491/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju Nature HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/23963/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3571/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DocuBox HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/332/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7051/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3650/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/144/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3187/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/327/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/326/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3534/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5253/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3485/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/4356/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6855/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6857/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/338/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1735/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1775/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/337/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3531/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/13087/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/334/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1710/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1740/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3525/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/291/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23740/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23769/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3528/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/213/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23684/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1716/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1746/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3530/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3490/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3758/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5081/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/283/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fashion TV 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17091/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1519/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/336/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1715/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1745/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3529/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/314/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/138/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1295/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1139/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/4089/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1718/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Big Planet HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7047/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1748/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Big Planet
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5877/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3532/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,E TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1221/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Gagsnetwork
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4996/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,360  HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6791/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Experiment HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20783/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20785/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20898/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5177/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20896/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5501/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20897/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS CRIME HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20776/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Travel HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20866/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Docu. HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20873/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6759/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Stories HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20875/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6722/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Mayday HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20880/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5332/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Memory HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20858/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5047/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Game HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20864/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/4346/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5510/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5512/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/313/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23667/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20321/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5628/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HOME 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17445/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,INSIGHT UHD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/383/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,12 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,12 
 http://nl01.spr24.net/6680/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6657/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5691/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6760/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5010/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6665/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/480/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5500/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6708/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,26 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,26 
 http://nl01.spr24.net/22951/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20319/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23538/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20341/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23555/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23426/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/24000/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23780/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23983/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23923/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23905/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20798/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23423/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23430/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23666/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/22813/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20283/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20247/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20113/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20302/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23462/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3430/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3644/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7332/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/302/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Euronews #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Euronews 
 http://nl01.spr24.net/325/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RT HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/105/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RT Doc HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/214/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/295/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,360  #EXTVLCOPT:network-caching=1000
+#EXTINF:0,360  
 http://nl01.spr24.net/6790/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1316/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/316/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,IZ.RU
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6750/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTVi
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5673/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Cartoonito
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/306/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/141/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/340/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5161/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6752/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6867/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5275/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5276/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/339/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/304/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Tiji TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/299/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/330/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/362/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Gulli Girl
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/300/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6859/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/307/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Ani
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/343/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nickelodeon HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/135/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5341/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nick Jr.
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5494/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Jim Jam
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5342/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,2x2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5245/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,O!
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5315/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/148/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Da Vinci Kids
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/317/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Ducktv
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5726/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/4350/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7309/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5807/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Family Jam HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7312/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5818/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Tom and Jerry
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20747/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20849/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20750/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Walt Disney
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20753/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Honey HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20755/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Lesson HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20756/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Smile HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20759/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20781/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS ANIMATED HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20775/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS TOONS HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20778/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Little HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20890/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Kids HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20827/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Kids 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20850/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Kids+ HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20834/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX M.Serial HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20859/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Anime HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20855/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20914/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20919/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4k Anime
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20932/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,1HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/256/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/365/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5491/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Europa Plus TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/280/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BRIDGE TV Deluxe
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/297/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BRIDGE TV #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BRIDGE TV 
 http://nl01.spr24.net/298/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Bridge TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5283/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Bridge TV Classic
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6861/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BRIDGE TV HITS
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5662/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Bridge TV #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bridge TV 
 http://nl01.spr24.net/5162/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RU.TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5664/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,iConcerts
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/126/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Mezzo
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/22902/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Mezzo Live HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/3126/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/284/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/324/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,C Music TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/257/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5247/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MCM Top
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5268/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17734/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Music Box Russian
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20230/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Trace Urban HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20960/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5490/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV Live HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/134/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV 80s
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20051/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV 90s
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5631/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV 00s
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/11627/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Classic Music HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5604/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Classic Music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7276/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,VIVA HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/479/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20854/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Rock
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20758/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Relax
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20761/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax World Hits
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20762/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Music 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20862/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Relax 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20863/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX RU.RAP HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20889/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K World Music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20901/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4k Concert
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20911/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Korean music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20916/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Retro Hits Channel
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20921/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Bollywood music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20929/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Russian music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20930/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/130/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6661/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5462/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/131/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6662/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5463/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/132/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6724/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5464/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5249/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/215/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/255/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5027/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7011/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/230/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/133/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5261/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/204/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5252/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/229/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6062/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,M-1 Global TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5829/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5244/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Sport
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/106/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/264/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/265/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Setanta Sports 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/933/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Setanta Sports 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/934/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/346/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/206/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5154/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5689/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/150/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Extreme Sports
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5242/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/143/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6667/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/23919/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17111/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fast and Fun Box HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/240/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,FightBox HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/241/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/248/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/436/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/478/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7336/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/7337/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 1 HD (CEE)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14335/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 2 HD (CEE)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14334/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Be ON Edge live 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20870/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Be ON Edge live 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20871/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20881/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20882/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20883/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20884/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 5 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20885/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 6 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20886/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX SportCast live 7 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20887/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Be ON Edge HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20872/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20910/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/209/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,START Air HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5770/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,START World HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5771/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17372/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17728/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/272/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/273/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/274/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/286/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/271/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/281/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/22395/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5089/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/287/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/289/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/288/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/331/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Premiere
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/104/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Megahit
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/103/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Comedy
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/102/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju+ Serial
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/109/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju TV1000
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/320/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,viju TV1000 Action
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/319/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,viju TV1000 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,viju TV1000 
 http://nl01.spr24.net/318/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV1000 World Kino
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/430/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/312/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/121/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/122/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/119/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/218/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/147/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/120/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/123/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/107/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/142/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/108/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/333/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/139/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/335/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/276/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/294/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/293/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/277/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/350/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,.red
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/140/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,.black
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/227/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,.sci-fi
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/228/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Amedia Hit
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/270/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Amedia Premium
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/258/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,A1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/268/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,A2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/269/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Epic Drama HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4992/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fox HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/101/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fox
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5266/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fox Life HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/207/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fox Life
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5668/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/220/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1350/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1266/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6714/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1668/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Bollywood HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/251/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Hollywood HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/127/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Hollywood
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5511/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV XXI
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/310/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/275/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/328/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/347/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5264/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,FilmBox
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6888/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Filmbox Arthouse
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6887/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ZEE TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5596/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/6723/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/3085/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,FAN HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/23562/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/394/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/429/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Ultra HD Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20799/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20800/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20801/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20802/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20803/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20804/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20805/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20806/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20807/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/419/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/20808/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/425/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/22223/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Plan B
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/484/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,FlixSnip
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1263/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Shot TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1150/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Trash HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4830/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Detective Jam HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7311/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,KinoJam 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7008/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,KinoJam 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/7009/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,KION #EXTVLCOPT:network-caching=1000
+#EXTINF:0,KION 
 http://nl01.spr24.net/7310/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU ACTION HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20810/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU CATASTROPHE HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20811/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU CINEMA HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20812/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU CINEMA+ HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20832/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU COMEDY HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20813/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU COMEDY h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20841/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU FANTASTIC HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20814/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU FILMYSTIC HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20815/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU HISTORY HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20816/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU KINORATING HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20817/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU MARVEL HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20818/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU MARVEL h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20840/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU PREMIERE HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20819/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU ROMANTIC HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20820/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU ROMANTIC h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20891/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU RUSSIAN HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20821/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU STARS HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20833/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU VHS HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20822/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20828/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20829/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU RUSERIAL HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20836/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20830/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU MEDIA HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20831/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCUMEDIA h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20839/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Ultra 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20835/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Criminal HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20837/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20823/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20824/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://nl01.spr24.net/20825/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Reality HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20826/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Reality h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20843/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Survival HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20838/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Survival h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20842/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Cosmo HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20845/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Cosmo h264
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20846/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU TruMotion HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20847/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Premiere Ultra 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20848/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Franchise HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20851/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Hybrid HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20853/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Gangster HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20856/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Oscar HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20857/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Serial HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20860/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Spy HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20865/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Western HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20867/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Zombie HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20868/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Cyber HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20869/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Ghost HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20874/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Fantasy HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20876/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Premiere 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20877/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Serial 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20878/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOX Remast 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20879/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax 007
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20701/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20702/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20703/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20704/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20705/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20706/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20707/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20708/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20709/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20710/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20711/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20712/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20713/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20714/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20715/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Love
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20716/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20717/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20718/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20719/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20720/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20721/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20722/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20723/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20724/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20725/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20726/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax UFO
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20727/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax translation HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20895/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20728/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20729/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20730/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20731/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20732/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20733/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20734/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20735/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20736/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20738/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Newfilm 1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20739/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Newfilm 2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20740/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Newfilm 3
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20741/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Newfilm RU
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20742/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20745/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20743/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20744/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20746/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax 1941-1945 U.S.S.R
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20748/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20791/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20757/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20760/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Celebrity HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20861/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Classic HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20780/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://nl01.spr24.net/20782/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax Flip UHD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20852/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MiniMax OldSchool HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20784/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS PRISONS HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20777/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS YOUNG BLOOD HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20779/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MS MAGIC HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20786/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Netflix
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20900/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20902/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20904/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20905/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20907/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20908/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20909/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Asia
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20913/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20915/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20926/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20927/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4k #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4k 
 http://nl01.spr24.net/20928/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20931/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K K#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K K
 http://nl01.spr24.net/20933/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20903/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20917/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20922/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20923/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20924/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://nl01.spr24.net/20925/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Gamefilm
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20918/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Clarity4K Relax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K Relax 
 http://nl01.spr24.net/20920/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Animal Planet HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2137/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Bon Gusto HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17987/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DMAX HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/841/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nat Geo Wild HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/821/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nat Geo Wild [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6123/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nat Geographic HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6085/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Kabel Eins Doku
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/885/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,N24 DOKU
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/886/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Phoenix HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18020/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Phoenix
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6076/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,History HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2090/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,History [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10600/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SonnenKlar TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18032/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Spiegel Geschichte HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/864/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Curiosity Channel [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/15776/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Discovery Channel HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/859/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Discovery Channel [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2140/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Bergblick
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/15774/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ZDF Info
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/825/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Welt HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/16931/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,WDR HD Siegen [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/9209/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Prosieben HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/808/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Prosieben Maxx HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/817/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Prosieben Fun HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14158/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/802/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/806/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTLup HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/870/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL Living HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2360/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL 4K UHD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14149/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ORF 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/845/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ORF 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/846/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ORF 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/879/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,VOX HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/814/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,VOXup HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19022/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,N-TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/803/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HR HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/848/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,NDR HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/849/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nitro HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19008/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SIXX HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/811/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ARTE HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/813/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Kabel Eins HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/809/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Kabel Eins Classics HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14164/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Das Erste HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19003/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ZDF Neo HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/887/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Muenchen TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6054/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Tagesschau24 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1077/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TLC HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18022/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Tele 5 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18037/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SAT.1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/807/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SAT.1 Gold HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/872/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,QVC HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4801/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,QVC ZWEI HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4802/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,QVC STYLE HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4803/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HSE24 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4804/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HSE24 Extra HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/4805/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,MTV HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1072/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Deluxe Music HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/880/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Deluxe Music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14029/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,JUKEBOX
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/883/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Classica
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/875/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 1 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/824/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 1 [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1378/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 2 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/852/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eurosport 2 [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10783/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/800/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2036/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/801/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1367/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 3 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/950/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 3 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2445/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 4 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/951/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 4 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10013/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 5 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/952/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 5 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10014/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 6 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/953/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 6 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10015/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 7 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/954/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 7 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10016/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 8 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/955/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 8 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10055/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 9 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/956/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 9 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10049/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 10 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/957/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport 10 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10057/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/827/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17215/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 2 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/959/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 2 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17243/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 3 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/960/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 3 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17242/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 4 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/961/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 4 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17241/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 5 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/962/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 5 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17240/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 6 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/963/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 6 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17239/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 7 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/964/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 7 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17238/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 8 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/965/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 8 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17237/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 9 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10054/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 9 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17236/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga 10 HD (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10007/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Bundesliga10 (ONLY ON MATCHDAY)
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17235/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport News HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/826/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17999/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10043/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10044/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10045/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10046/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 3
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10047/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10048/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 4
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10050/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 5 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10051/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Austria 5
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10052/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Top Event
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18002/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Premier League
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18003/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Mix
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18004/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport Tennis
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18005/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DAZN 1 Bar HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14267/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DAZN 1 Bar
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/966/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DAZN 2 Bar HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14268/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,DAZN 2 Bar
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/967/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Motorvision TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/847/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sport 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/15783/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sport1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/15751/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sport1 + HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14250/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,eSports1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14248/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,eSports1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14109/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ORF SPORT+ HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/805/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SportDigital HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18001/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,EDGEsport
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14113/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport F1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14112/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport F1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14114/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Waidwerk
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14115/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Sport News
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19077/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Auto Motor Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/16817/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Auto Motor Sport [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/15855/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fc Bayern TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2114/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 1 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27216/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 2 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27215/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 3 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27214/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 4 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27213/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 5 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27212/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 6 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27211/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 7 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27210/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 8 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27209/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 9 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27208/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL+ 10 HD [Live During Events Only]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/27207/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 1 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14301/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 2 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14302/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 3 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14303/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 4 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14304/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 5 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14305/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 6 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14306/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 7 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14307/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Magenta Sport 8 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14308/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Cartoon Network [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/876/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Cartoonito [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/874/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Comedy Central HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17423/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Comedy Central [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/851/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Disney Channel HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/818/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Disney Channel [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19048/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nicktoons [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/867/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Super RTL HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/804/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Super RTL
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17803/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TOGGO PLUS
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/877/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,KIKA HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/820/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nick
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1071/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Viva Comedy Central
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/819/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Fix and Foxi HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1548/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Disney Plus Film HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/866/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Masha und der Bar HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1030/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Peppa Wutz HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1031/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle PJ MASKS HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1032/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Premieren HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/834/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Premieren
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2098/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Thriller HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/16081/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Thriller
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19070/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Premieren +24 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/854/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Premieren +24
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19071/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Family HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/858/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Family [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/6140/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Classics
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/860/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Action HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1397/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Action [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/831/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Best of HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/836/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Best Of [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17849/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Fun
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/832/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Cinema Special HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/833/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Comedy HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/28508/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Crime HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/28509/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky One HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/11162/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Atlantic HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/839/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Atlantic [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17918/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Krimi
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/862/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Syfy HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19060/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Syfy
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/838/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,13Th Street HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10326/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,13Th Street
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/840/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Serie HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/830/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Serie
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1381/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Comedy HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19062/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Comedy
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/873/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Film HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/829/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Warner TV Film
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1836/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,AXN HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/850/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL Crime HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/14154/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL Crime
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/10097/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,RTL Passion HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/5647/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Kinowelt TV HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/18050/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Kinowelt TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/861/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Romance TV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/863/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Anixe Serie HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/823/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Replay [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/842/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Universal Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/2100/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Universal Channel
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19064/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Crime Investigation
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20128/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ATV [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/844/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Heimatkanal
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/865/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Entdeckernatur 4K [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1005/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Entdeckernatur HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1006/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema 007 HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1007/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Abenteuer HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1008/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Aktion HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1009/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Animation HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1010/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Biografie HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1011/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Drama HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1012/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Familie HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1013/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Fantasie HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1014/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Geschichte HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1015/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Horror HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1016/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema KINOSAAL HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1017/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Komodie HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1018/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Lacheln HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1019/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Mythologie HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1020/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Premiere HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1021/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Religion HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1022/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Romantisch HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1023/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Sci-Fi HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1024/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Spaghetti Western HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1025/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Thriller HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1026/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Cinema Western HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1027/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Eagle Bollywood HD [DE]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1028/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere Vitrine
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1100/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1101/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1102/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1103/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1104/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 5 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1105/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 6 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1106/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 7 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1107/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 8 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1108/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 9 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1109/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 10 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1110/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 11 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1111/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 12 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1112/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 13 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1113/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 14 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1114/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 15 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1115/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 16 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1116/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 17 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1117/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Sky Select Premiere 18 HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1118/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 1 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1119/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 2 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1120/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 3 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1121/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 4 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1122/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 5 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1123/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 6 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1124/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 7 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1125/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 8 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1126/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,SKY SELECT 9 4K
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1127/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Marijampoles TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19220/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,GNTV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/19221/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,LTV1 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/796/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,LTV7 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/797/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV3 Life [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/798/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV3 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17861/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV4 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17874/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV6 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17862/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV3 Plus [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/799/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV3 Mini [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17863/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Go3 Sport [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17864/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Go3 Sport 2 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17867/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Go3 Sport 3 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17880/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Go3 Sport Open [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17879/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Best4Sport TV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17883/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,TV24 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17869/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ReTV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17870/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,STV Pirma! [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17871/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,360TV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17873/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Go3 Films [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17875/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nickelodeon [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17881/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Nick Jr. [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17882/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,KidZone Mini HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17876/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Duo 3 HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17877/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Duo 6 HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17878/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,1+1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/151/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BOLT
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/195/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1160/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/160/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/153/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,2+2
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/152/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/164/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ICTV HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/1159/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ICTV
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/159/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/1194/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/194/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/171/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/158/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/169/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/157/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/173/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/162/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17433/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,XSPORT
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/185/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,XSPORT Plus HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/161/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Setanta Sports HD [UA]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17434/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Setanta Sports + [UA]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17435/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Star Cinema HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17437/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Star Family HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/17438/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17441/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17447/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17448/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/184/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,M1
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/175/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,M2-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,M2-
 http://nl01.spr24.net/176/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/163/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,NIKI Kids
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/193/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,NIKI Junior
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/192/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,EU Music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/191/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/166/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,LALE
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/189/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ATR
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/187/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,ZOOM [UA]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/170/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/186/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/183/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/188/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,Enter-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Enter-
 http://nl01.spr24.net/167/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/182/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,24 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,24 
 http://nl01.spr24.net/179/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/178/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,5 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,5 
 http://nl01.spr24.net/165/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,English Club TV [UA]
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/190/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,E#EXTVLCOPT:network-caching=1000
+#EXTINF:0,E
 http://nl01.spr24.net/154/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,UA:#EXTVLCOPT:network-caching=1000
+#EXTINF:0,UA:
 http://nl01.spr24.net/196/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/199/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/180/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/17444/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Ukrainian music
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20912/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,HUSTLER HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/902/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,REDLIGHT HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/904/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/5238/mpegts?token=Ti8qDtheX2PUkt
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://nl01.spr24.net/22401/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Strawberry HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20787/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,Clarity4K Angel XXX
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20906/mpegts?token=Ti8qDtheX2PUkt
 #EXTINF:0,BCU Charm HD
-#EXTVLCOPT:network-caching=1000
+
 http://nl01.spr24.net/20788/mpegts?token=Ti8qDtheX2PUkt
 
