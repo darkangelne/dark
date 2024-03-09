@@ -66,1545 +66,1545 @@ http://de.seetv.cc/play/7120/2436BFC0964DB88/video.m3u8
 
 #EXTM3U
 #EXTINF:0,.black
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/227/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,.red
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/140/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,.sci-fi
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/228/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,1HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/256/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,24 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,24 
 http://eu01.spr24.net/6811/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,2TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/783/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,2x2
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5245/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,360TV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17873/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,360°
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6792/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,360° HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6791/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,360° #EXTVLCOPT:network-caching=1000
+#EXTINF:0,360° 
 http://eu01.spr24.net/6790/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,8 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,8 
 http://eu01.spr24.net/5288/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,A1
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/268/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,A2
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/269/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Amedia Hit
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/270/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Amedia Premium
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/258/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Ani
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/343/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/254/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Balticum Auksinis [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/792/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Balticum Platinum HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19172/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Balticum TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19174/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BCU Kids 4K
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20850/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BCU Kids HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20827/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BCU Kids+ HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20834/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BCU Little HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20890/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BCU 
 http://eu01.spr24.net/20828/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Best4Sport TV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17883/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Big Planet
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5877/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Big Planet HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7047/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Bollywood HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/251/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Anime HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20855/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX AutoTrend HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21205/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Be ON Edge HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20872/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:20,BOX Be ON Edge live 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20870/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Be ON Edge live 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20871/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Be ON Edge live 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21208/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Docu. HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20873/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Game HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20864/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Gurman HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21204/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX M.Serial HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20859/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Mayday HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20880/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Memory HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20858/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Metall HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21202/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Music 4K
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20862/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Relax 4K
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20863/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX RU.RAP HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20889/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21201/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20881/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20882/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20883/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20884/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 5 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20885/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 6 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20886/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 7 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20887/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 8 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21206/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX SportCast live 9 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21207/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Stories HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20875/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Travel HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20866/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BOX Travel Premiere HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21203/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Bridge TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5283/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Bridge TV Classic
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6861/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BRIDGE TV Deluxe
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/297/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BRIDGE TV HITS
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5662/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,BRIDGE TV #EXTVLCOPT:network-caching=1000
+#EXTINF:0,BRIDGE TV 
 http://eu01.spr24.net/298/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Bridge TV #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Bridge TV 
 http://eu01.spr24.net/5162/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BTV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/788/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,BTV HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19208/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,C Music TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/257/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5870/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/737/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1766/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1767/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport 5
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/709/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Canal+ Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/742/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6859/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Cartoonito
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/306/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/22223/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4k Anime
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20932/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Avto blog
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20925/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K BluesString
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20943/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Bollywood music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20929/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4k Concert
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20911/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4k DeepMe
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21105/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K France music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20941/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Gamefilm
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20918/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Heavy metal
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20937/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Korean music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20916/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Latin music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20942/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K Relax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K Relax 
 http://eu01.spr24.net/20920/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Remastered music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21103/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Russian music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20930/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Travel blog
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20917/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K UrbanBlack
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20944/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K Walt Disney
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20935/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Clarity4K World Music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20901/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20939/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20922/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20923/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20919/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20914/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20910/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Clarity4K #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Clarity4K 
 http://eu01.spr24.net/20921/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ClarityHD American Football
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21101/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ClarityHD FishingTV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21102/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Classic Music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7276/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Classic Music HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5604/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/220/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Da Vinci Kids
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/317/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Delfi TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19195/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Detective Jam HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7311/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Disco Polo Music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19125/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/267/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,DocuBox HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/332/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Ducktv
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5726/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 3 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19178/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 3 HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17877/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 4 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19214/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 5 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19213/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 6 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19175/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Duo 6 HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17878/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,E TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1221/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eesti Kanal [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19215/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6917/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/706/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6918/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/705/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6919/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 3 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/758/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eleven Sports 4 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/759/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,English Club TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6725/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Epic Drama [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19201/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Epic Drama HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/4992/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ETV [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19216/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ETV+ [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19218/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ETV2 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19217/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Euronews #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Euronews 
 http://eu01.spr24.net/325/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Europa Plus TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/280/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/264/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 1 HD (CEE)
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/14335/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 1 HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23891/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 2 [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6249/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/265/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 2 HD (CEE)
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/14334/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Eurosport 2 HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/743/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Extreme Sports
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5242/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Extreme Sports HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19142/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Family Jam HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7312/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FAN HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23562/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fashion TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/211/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fashion TV 4K
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17091/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fast and Fun Box HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/240/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FightBox HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/241/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fightbox HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19137/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fightklub HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/726/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FilmBox
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6888/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Filmbox Arthouse
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6887/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FilmZone [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19176/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FilmZone+ [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19177/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FlixSnip
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1263/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Food Network
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5168/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,FoodTime
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/137/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fox
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5266/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fox HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/101/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fox Life
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5668/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Fox Life HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/207/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Gagsnetwork
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/4996/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,GNTV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19221/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Films [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19173/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Films [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17875/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 1 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19203/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 1 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/793/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 1 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17864/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 2 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19204/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 2 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/790/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 2 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17867/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 3 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19205/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 3 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19198/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 3 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17880/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 4 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19219/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 4 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19200/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport 4 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17884/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport Open [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19202/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport Open [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19197/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Go3 Sport Open [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17879/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Golf Channel
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19139/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Gulli Girl
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/300/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,H2
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/205/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/259/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Hollywood
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5511/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Hollywood HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/127/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,HOME 4K
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17445/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,iConcerts
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/126/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ID Xtra HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/149/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Info TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/782/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Info TV HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19199/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,INSIGHT UHD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/383/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,IZ.RU
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6750/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Jim Jam
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5342/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Kanal 2 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19212/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KidZone Mini [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19196/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KidZone Mini HD [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/795/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KidZone Mini HD [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17876/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Kino Polska Muzyka
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/719/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KinoJam 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7008/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KinoJam 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7009/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,KINOLIVING
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/7010/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,KION #EXTVLCOPT:network-caching=1000
+#EXTINF:0,KION 
 http://eu01.spr24.net/7310/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Lietuvos rytas TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/780/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LNK [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/781/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LNK HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19190/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Lolo TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23715/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LRT Plius [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19161/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LRT Plius HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/791/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LRT televizija [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/789/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LRT televizija HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19159/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LTV1 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/796/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,LTV7 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/797/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Marijampoles TV [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19220/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MCM Top
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5268/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Mezzo
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/22902/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Mezzo Live HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/3126/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Experiment HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20783/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Honey HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20755/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Lesson HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20756/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Live Planet
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20737/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Relax
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20761/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Rock
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20758/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Smile HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20759/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Tom and Jerry
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20747/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax Walt Disney
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20753/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MiniMax World Hits
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20762/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20781/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20854/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20897/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20898/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20896/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20849/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20785/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,MiniMax #EXTVLCOPT:network-caching=1000
+#EXTINF:0,MiniMax 
 http://eu01.spr24.net/20750/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Motowizja HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/727/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MS ANIMATED HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20775/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MS CRIME HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20776/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MS TOONS HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20778/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5490/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV 00s
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/11627/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV 80s
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20051/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV 90s
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5631/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV Live HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/134/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV Live HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23409/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,MTV POLSKA [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23407/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Music Box Russian
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20230/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/124/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20162/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5493/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,National Geographic HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/203/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nick Jr.
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5494/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nick Jr. [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19207/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nick Jr. [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19301/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nick Jr. [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17882/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5341/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nickelodeon [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19206/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nickelodeon [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19300/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nickelodeon [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17881/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Nickelodeon HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/135/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,O!
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5315/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis Anime HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20954/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis Biography HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20955/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis Blocks HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20956/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis Disney #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis Disney 
 http://eu01.spr24.net/21002/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis In English HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20970/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis Pixar HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20984/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis RUS #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis RUS 
 http://eu01.spr24.net/20987/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis Tom and Jerry HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20996/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Oasis WWE in English HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21001/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20994/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20995/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20999/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20977/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20981/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20983/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20953/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/21000/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20992/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20975/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20976/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20974/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,Oasis #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Oasis 
 http://eu01.spr24.net/20968/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,OCEAN-TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5139/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Plan B
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/484/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Music
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/778/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6654/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport Extra HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/735/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport Fight HD [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23433/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/734/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport News HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19140/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport Premium 1
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/762/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Polsat Sport Premium 2
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/763/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,ReTV [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17870/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,RT Doc HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/214/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,RT HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/105/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,RTG TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5233/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,RTVi
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5673/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,RU.TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5664/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Russian Travel Guide HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/125/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Setanta Sports 1 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/933/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Setanta Sports 2 HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/934/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Shot TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1150/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Siauliu televizija [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23711/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Sport Klub HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/720/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Sport1 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19194/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Sport1 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/794/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,START Air HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5770/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,START World HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5771/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,STV Pirma! [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17871/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TERRA
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/6701/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TERRA HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/1493/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Tiji TV
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/299/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TLC PAN
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5152/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Trace Urban HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20960/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Trash HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/4830/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Travel Channel HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/261/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Travel+Adventure HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/208/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV XXI
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/310/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV1 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/785/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV1 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19785/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV24 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17869/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19209/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17865/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17861/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/786/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 Life [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19211/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 Life [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/798/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 Mini [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17863/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 Plus [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17868/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV3 Plus [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/799/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV4 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17874/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV6 [EE]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/19210/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV6 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17866/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV6 [LV]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17862/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV6 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/787/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV8 [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/17872/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TV8 HD [LT]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/784/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,TVP Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/710/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Ultra HD Cinema
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20799/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,VeleS Dj Set
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21012/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,VeleS Kids
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/21013/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,VeleS #EXTVLCOPT:network-caching=1000
+#EXTINF:0,VeleS 
 http://eu01.spr24.net/21016/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,Viasat Kino World
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/430/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju Explore
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/321/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju History
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20078/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju History HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20491/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju Nature
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/20119/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju Nature HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/23963/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju TV1000
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/320/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju TV1000 Action
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/319/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,viju TV1000 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,viju TV1000 
 http://eu01.spr24.net/318/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Comedy
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/102/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Megahit
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/103/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Planet
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/263/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Premiere
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/104/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Serial
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/109/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Sport
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/106/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,viju+ Sport HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/5244/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,VIVA HD
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/479/index.m3u8?token=tkwp6ncUx4cefr
 #EXTINF:0,VOX MUSIC TV [PL]
-#EXTVLCOPT:network-caching=1000
+
 http://eu01.spr24.net/16919/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/315/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/222/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20801/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5391/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6452/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/330/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/219/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20123/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5628/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/252/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20807/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5276/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6751/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/327/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/326/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6754/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/311/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/333/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/108/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5452/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/291/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/225/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/359/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3528/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6723/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20097/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/275/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20241/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/17734/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/341/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/217/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/4089/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/345/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/23684/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/422/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20386/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5270/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/293/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/342/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1266/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1350/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/147/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/309/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20805/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/148/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/339/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/17372/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5819/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/425/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20806/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/120/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5089/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/150/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5689/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/420/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20808/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5807/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/139/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/335/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/324/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/314/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5027/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/255/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6062/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1139/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1718/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1748/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3532/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5129/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/138/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/436/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/23740/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5264/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/295/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20321/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/429/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/168/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/329/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/344/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5491/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5161/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/141/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/304/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/340/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/312/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5097/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/223/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/358/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20754/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/253/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5633/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/348/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/347/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/349/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/328/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/23769/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20240/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20800/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/107/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/123/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20802/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1222/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6737/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/394/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5501/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5502/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5503/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/7337/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5811/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/122/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20346/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5257/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/144/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6658/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5005/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/351/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/356/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20751/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20771/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:24,#EXTVLCOPT:network-caching=1000
+#EXTINF:24,
 http://eu01.spr24.net/128/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3185/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/145/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6711/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/23683/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3085/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/246/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/121/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/136/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20804/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6759/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5239/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5300/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1716/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1746/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3530/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/213/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/338/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/285/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1735/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1775/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1316/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/316/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5106/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/226/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/357/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3526/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/200/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/23667/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6722/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/419/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20002/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/352/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/355/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20752/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20772/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/129/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5099/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5299/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/302/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/294/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/143/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/276/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/277/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/142/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6867/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1668/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6714/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/307/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/292/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/224/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/354/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3534/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3187/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5297/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/362/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5253/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3485/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/4356/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5332/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/17728/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/4350/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/296/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20797/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6753/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5047/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5133/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/478/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/248/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5246/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/218/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6856/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6857/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6855/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/334/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1710/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1740/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3525/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1982/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/336/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1715/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1745/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3529/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1519/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5001/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/353/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20749/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20769/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/301/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5296/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/365/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/364/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/7051/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3650/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3571/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/146/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1146/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/7336/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5116/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5323/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5818/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/426/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6667/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/17111/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5275/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6668/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/6853/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/350/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5249/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5248/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5241/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/20803/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5243/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/1295/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/363/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3490/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/3758/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5081/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/7309/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5247/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/119/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5142/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/4346/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5510/index.m3u8?token=tkwp6ncUx4cefr
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
+#EXTINF:0,
 http://eu01.spr24.net/5512/index.m3u8?token=tkwp6ncUx4cefr
 
