@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:0,#http://ru02.spr24.net/17453/mpegts?token=45UYwCTbAVBazU
 #EXTINF:0,.black
 http://ru02.spr24.net/227/mpegts?token=45UYwCTbAVBazU
